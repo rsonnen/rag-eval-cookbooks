@@ -9,44 +9,57 @@ import json
 import sys
 import time
 from pathlib import Path
+from typing import Any
 
 import httpx
+from tqdm import tqdm
 
 
-def download_corpus(corpus_dir: Path, delay: float = 1.0) -> None:
-    """Download all books in a corpus."""
+def download_corpus(
+    corpus_dir: Path,
+    delay: float = 1.0,
+    max_docs: int | None = None,
+) -> None:
+    """Download books in a corpus from Internet Archive.
+
+    Args:
+        corpus_dir: Path to corpus directory containing metadata.json.
+        delay: Seconds to wait between downloads.
+        max_docs: Maximum number of books to download (None for all).
+    """
     metadata_path = corpus_dir / "metadata.json"
     if not metadata_path.exists():
         print(f"Error: {metadata_path} not found", file=sys.stderr)
         sys.exit(1)
 
     with open(metadata_path) as f:
-        metadata = json.load(f)
+        metadata: dict[str, Any] = json.load(f)
 
     books_dir = corpus_dir / "books"
     books_dir.mkdir(exist_ok=True)
 
-    books = metadata.get("books", [])
+    books: list[dict[str, Any]] = metadata.get("books", [])
+    if max_docs is not None:
+        books = books[:max_docs]
+
     print(f"Downloading {len(books)} books to {books_dir}")
 
     with httpx.Client(timeout=60.0, follow_redirects=True) as client:
-        for i, book in enumerate(books, 1):
-            identifier = book["identifier"]
-            source_pdf = book.get("source_pdf", f"{identifier}.pdf")
+        for book in tqdm(books, desc="Downloading", unit="book"):
+            identifier: str = book["identifier"]
+            source_pdf: str = book.get("source_pdf", f"{identifier}.pdf")
             pdf_url = f"https://archive.org/download/{identifier}/{source_pdf}"
             pdf_path = books_dir / f"{identifier}.pdf"
 
             if pdf_path.exists():
-                print(f"[{i}/{len(books)}] {identifier} - already exists")
                 continue
 
-            print(f"[{i}/{len(books)}] {identifier} - downloading...")
             try:
                 response = client.get(pdf_url)
                 response.raise_for_status()
                 pdf_path.write_bytes(response.content)
             except httpx.HTTPError as e:
-                print(f"  Error: {e}", file=sys.stderr)
+                tqdm.write(f"Error downloading {identifier}: {e}")
 
             time.sleep(delay)
 
@@ -54,14 +67,25 @@ def download_corpus(corpus_dir: Path, delay: float = 1.0) -> None:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Download books from a curated corpus")
+    """CLI entry point."""
+    parser = argparse.ArgumentParser(
+        description="Download books from a curated corpus"
+    )
     parser.add_argument("corpus", help="Corpus directory (e.g., french_classical)")
     parser.add_argument(
-        "--delay", type=float, default=1.0, help="Delay between requests (seconds)"
+        "--delay",
+        type=float,
+        default=1.0,
+        help="Delay between requests in seconds (default: 1.0)",
+    )
+    parser.add_argument(
+        "--max-docs",
+        type=int,
+        default=None,
+        help="Maximum number of books to download (default: all)",
     )
     args = parser.parse_args()
 
-    # Find corpus directory relative to repo root
     script_dir = Path(__file__).parent
     repo_root = script_dir.parent
     corpus_dir = repo_root / args.corpus
@@ -70,7 +94,7 @@ def main() -> None:
         print(f"Error: Corpus directory not found: {corpus_dir}", file=sys.stderr)
         sys.exit(1)
 
-    download_corpus(corpus_dir, args.delay)
+    download_corpus(corpus_dir, args.delay, args.max_docs)
 
 
 if __name__ == "__main__":

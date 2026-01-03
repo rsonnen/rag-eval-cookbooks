@@ -41,8 +41,8 @@
   },
   "curated_at": "2025-12-29T14:16:13.406186+00:00",
   "total_books": 150,
-  "books_evaluated": 104,
-  "acceptance_rate": 1.4423076923076923,
+  "books_evaluated": 160,
+  "acceptance_rate": 0.9375,
   "books": [
     {
       "identifier": "leprincipaldelac00plum",

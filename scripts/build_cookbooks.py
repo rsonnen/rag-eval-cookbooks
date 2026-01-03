@@ -125,13 +125,17 @@ class BuildState:
         try:
             with state_path.open(encoding="utf-8") as f:
                 data = json.load(f)
+            accepted = data.get("accepted", [])
+            rejected = data.get("rejected", [])
+            # Default total_evaluated to accepted + rejected if missing (legacy state)
+            default_evaluated = len(accepted) + len(rejected)
             return cls(
                 corpus_name=data["corpus_name"],
                 cursor=SearchCursor.from_dict(data["cursor"]),
-                accepted=data.get("accepted", []),
-                rejected=data.get("rejected", []),
+                accepted=accepted,
+                rejected=rejected,
                 processed_ids=set(data.get("processed_ids", [])),
-                total_evaluated=data.get("total_evaluated", 0),
+                total_evaluated=data.get("total_evaluated", default_evaluated),
             )
         except (json.JSONDecodeError, KeyError) as e:
             logger.warning(f"Could not load state: {e}")

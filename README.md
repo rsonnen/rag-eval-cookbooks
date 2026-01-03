@@ -1,56 +1,94 @@
 # rag-eval-cookbooks
 
-Evaluation corpus of curated public domain cookbooks for testing RAG (Retrieval-Augmented Generation) systems.
+Evaluation corpus of public domain cookbooks for testing RAG systems.
 
 ## What This Is
 
 This repository contains **evaluation data for RAG systems**:
 
-- **corpus.yaml** - Evaluation configuration defining domain context and testing scenarios
-- **Generated questions** - Validated Q/A pairs for evaluation (where available)
+- **corpus.yaml** - Evaluation scenarios (in each corpus directory)
 - **metadata.json** - Book inventory with Internet Archive identifiers
-- **Build tools** - Scripts for curating new cookbook collections
+- **Generated questions** - Validated Q/A pairs (where available)
+- **corpus_specs/*.yaml** - Build configurations for creating new corpora
 
-The actual PDF cookbooks are not included - they are public domain works hosted by Internet Archive.
+The actual PDF cookbooks are not included. Use `download_books.py` to fetch them from Internet Archive.
 
 ## Quick Start
 
-Download books from a pre-curated corpus:
-
 ```bash
 cd scripts
 uv sync
-uv run python download_books.py french_classical
+uv run python download_books.py french_classical --max-docs 5
 ```
 
-## Purpose
+## Available Corpora
 
-Recipe collections represent a practical consumer use case. This corpus tests:
+| Corpus | Books | Description |
+|--------|-------|-------------|
+| `french_classical` | 150 | French haute cuisine 1800-1950 |
+| `american_regional` | 150 | Regional American cooking traditions |
+| `victorian_british` | 150 | Victorian era British cookery |
+| `baking_pastry` | 100 | Baking and pastry specialization |
+| `early_american` | 100 | Colonial and frontier American cooking |
+| `preserving_canning` | 83 | Preserving and food storage |
+| `italian_traditional` | 51 | Traditional Italian cookbooks 1800-1950 |
 
-- **Retrieval**: Recipe lookup, ingredient-based search, technique synthesis
-- **Document processing**: Scanned historical PDFs, period typography, recipe formatting
-- **Query types**: "How do I make X?", "What recipes use ingredient Y?", "What's the technique for Z?"
+Some corpora have fewer items than target because the freely-available supply on Internet Archive was exhausted.
 
-## The Challenge
+## Directory Structure
 
-Internet Archive has thousands of items tagged with cooking-related subjects, but most are not actual cookbooks:
-- Food history and memoirs
-- Restaurant guides without recipes
-- Agricultural manuals
-- Novels that mention food
-- Pharmaceutical/medical texts
+```
+<corpus>/
+    corpus.yaml         # Evaluation configuration
+    metadata.json       # Book inventory
+    books/              # Downloaded PDFs (gitignored)
+    build_state.json    # Resume state (gitignored)
+    rejected.json       # Rejected items (gitignored)
 
-Subject-based searches alone produce ~15% acceptance rates. This builder uses a two-stage LLM evaluation:
+scripts/
+    download_books.py   # Fetch books from Internet Archive
+    build_cookbooks.py  # Build new corpora (discovery + curation)
 
-1. **Metadata pre-filter**: Quick LLM check on title/description to skip obvious non-cookbooks
-2. **Vision evaluation**: Render PDF pages to images, send to vision LLM to verify actual recipe content
+corpus_specs/
+    *.yaml              # Build configurations
+```
+
+## Metadata Format
+
+```json
+{
+  "corpus": "american_regional",
+  "source": "internet_archive",
+  "search_strategy": {...},
+  "curated_at": "2025-12-29T...",
+  "total_books": 150,
+  "books_evaluated": 398,
+  "acceptance_rate": 0.38,
+  "books": [
+    {
+      "identifier": "leprincipaldelac00plum",
+      "title": "Le principal de la cuisine de Paris",
+      "creator": ["Plumerey", "Carême, M. A."],
+      "subjects": ["Cookery, French"],
+      "date": "1843-01-01T00:00:00Z",
+      "description": ["..."],
+      "downloads": 2249,
+      "file": "books/leprincipaldelac00plum.pdf",
+      "source_pdf": "leprincipaldelac00plum.pdf"
+    }
+  ]
+}
+```
 
 ## Building New Corpora
 
+The build script discovers books via Internet Archive API and curates using LLM evaluation with a two-stage process:
+
+1. **Metadata pre-filter**: LLM check on title/description to skip obvious non-cookbooks
+2. **Vision evaluation**: Render PDF pages to images, send to vision LLM to verify actual recipe content
+
 ```bash
 cd scripts
-uv sync
-
 uv run python build_cookbooks.py \
     --config ../corpus_specs/french_classical.yaml \
     --corpus french_classical \
@@ -63,7 +101,7 @@ uv run python build_cookbooks.py \
 |--------|-------------|
 | `--config` | Path to corpus YAML configuration |
 | `--corpus` | Corpus name (must match key in config) |
-| `--data-dir` | Output directory (default: parent of scripts dir) |
+| `--data-dir` | Output directory (default: parent of scripts) |
 | `--limit N` | Override target count (for testing) |
 | `--fresh` | Ignore existing progress, start from scratch |
 
@@ -74,32 +112,31 @@ The builder saves state after every 10 items. Re-run the same command to resume 
 - Accepted and rejected items
 - Processed identifiers (for deduplication)
 
-## Corpus Specs
+### Corpus Specs (Build Configuration)
 
-Each corpus has a YAML config in `corpus_specs/` defining search parameters and evaluation criteria.
+Each corpus has a build config in `corpus_specs/` defining search parameters and LLM evaluation criteria.
 
 ```yaml
+# corpus_specs/french_classical.yaml (abbreviated)
 french_classical:
   description: |
-    French haute cuisine cookbooks 1800-1950
+    Classical French cuisine cookbooks 1800-1950
 
   source: archive
 
   search_strategy:
     subjects:
-      - "Cooking, French"
       - "Cookery, French"
+      - "French cooking"
+      # ... 19 more subject terms
     collections:
       - "food_and_cooking"
     collection_subject_filter:
+      - "cookery"
       - "cooking"
-      - "cuisine"
+      - "French"
     date_range: [1800, 1950]
     mediatype: texts
-    # Direct identifiers for curated items that don't appear in searches
-    identifiers:
-      - specific-archive-id-1
-      - specific-archive-id-2
 
   target_count: 150
   evaluator_model: gpt-5-mini
@@ -109,6 +146,37 @@ french_classical:
     You are evaluating whether a document belongs in a corpus of
     HISTORICAL FRENCH COOKBOOKS (1800-1950).
     ...
+```
+
+### Evaluation Configuration
+
+Each built corpus contains a `corpus.yaml` with evaluation scenarios:
+
+```yaml
+# french_classical/corpus.yaml
+name: "French Classical Cookbooks (1800-1950)"
+
+corpus_context: >
+  150 French haute cuisine cookbooks spanning 1800-1950...
+
+scenarios:
+  culinary_history:
+    name: "Culinary History Research"
+    description: >
+      Questions testing understanding of how culinary practices
+      changed across different periods and chefs...
+
+  recipe_retrieval:
+    name: "Recipe and Technique Retrieval"
+    description: >
+      Questions targeting specific preparations, cooking methods,
+      or ingredient ratios...
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      Questions with specific, verifiable answers testing whether
+      a retrieval system actually read the document...
 ```
 
 ### Search Strategy
@@ -121,99 +189,24 @@ The builder searches in three phases:
 
 Items in the `inlibrary` collection (lending library) are automatically excluded since they cannot be freely downloaded.
 
-## Available Corpora
-
-| Corpus | Documents | Description |
-|--------|-----------|-------------|
-| `french_classical` | 150 | French haute cuisine and classical techniques |
-| `american_regional` | 150 | Regional American cooking traditions |
-| `victorian_british` | 150 | Victorian era British cookery |
-| `baking_pastry` | 100 | Baking and pastry specialization |
-| `early_american` | 100 | Early American colonial and frontier cooking |
-| `preserving_canning` | 83 | Preserving, canning, and food storage (exhausted) |
-| `italian_traditional` | 51 | Traditional Italian cookbooks 1800-1950 |
-
-Note: Some corpora have fewer items than target because the freely-available supply on Internet Archive was exhausted.
-
-## Output Structure
-
-```
-<corpus>/
-    corpus.yaml             # Evaluation configuration
-    books/                  # Downloaded PDFs (gitignored)
-        identifier.pdf
-    build_state.json        # Resume state (gitignored)
-    metadata.json           # Final corpus metadata
-    rejected.json           # Rejected items with reasons (gitignored)
-
-scripts/
-    download_books.py       # Fetch books from Internet Archive
-    build_cookbooks.py      # Build new corpora (discovery + curation)
-```
-
-### Metadata Format
-
-```json
-{
-  "corpus": "french_classical",
-  "source": "internet_archive",
-  "search_strategy": {...},
-  "curated_at": "2024-12-28T...",
-  "total_books": 150,
-  "books_evaluated": 523,
-  "acceptance_rate": 0.287,
-  "books": [
-    {
-      "identifier": "leavesfromourtu01rossgoog",
-      "title": "Leaves from our Tuscan kitchen",
-      "creator": "Ross, Janet",
-      "subjects": ["Cookery, Italian"],
-      "date": "1900-01-01T00:00:00Z",
-      "file": "books/leavesfromourtu01rossgoog.pdf",
-      "source_pdf": "leavesfromourtu01rossgoog.pdf"
-    }
-  ]
-}
-```
-
-## Vision Evaluation
-
-The builder extracts 4 sample pages from each PDF (skipping frontmatter) and sends them to a vision-capable LLM with a corpus-specific prompt. The LLM evaluates whether the visual content shows actual recipes with:
-
-- Ingredient lists
-- Cooking instructions
-- Recipe formatting (titles, measurements, steps)
-
-Low-confidence acceptances are rejected to maintain corpus quality.
-
-## Rate Limiting
+### Rate Limiting
 
 The builder respects Internet Archive:
 - 0.5 second delay between search API calls
 - 10 second delay between PDF downloads
 - Exponential backoff on errors (up to 5 retries)
 
-## Requirements
+### Environment
 
 Create `.env` in the scripts directory:
 
 ```
-OPENAI_BASE_URL=http://your-litellm-proxy  # optional
 OPENAI_API_KEY=your-key
+OPENAI_BASE_URL=http://your-litellm-proxy  # optional
 ```
-
-### Dependencies
-
-- Python 3.11+
-- `internetarchive` - Official IA Python client
-- `PyMuPDF` (fitz) - PDF rendering
-- `openai` - Vision API calls
-- `pyyaml`, `tqdm`, `pydantic`
-
-See `pyproject.toml` for full dependency list.
 
 ## Licensing
 
-**This repository** (scripts, configurations): MIT License
+**This repository**: MIT License
 
-**Cookbooks**: Public domain works from Internet Archive (published before 1929 or explicitly marked public domain).
+**Cookbooks**: Public domain (published before 1929)
