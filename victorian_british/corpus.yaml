@@ -1,0 +1,42 @@
+name: "Victorian British Cookbooks (1837-1914)"
+
+corpus_context: >
+  150 cookbooks published in Britain during the Victorian era (1837-1914),
+  sourced from the McGill Library's digitized collection. The collection reflects
+  the transformation of British cooking during this period, heavily influenced
+  by Mrs. Beeton's "Book of Household Management" and the emerging middle-class
+  emphasis on domestic economy and household science. The cookbooks represent a
+  blend of refined "drawing room" cooking and economical household management,
+  documenting British regional specialties, scientific approaches to cooking,
+  elaborate multi-course dining, and practical advice for managing servants and
+  households. Content includes detailed multi-step recipes with period-typical
+  imprecise measurements, household management guidance, and moral/health advice
+  intertwined with culinary instruction.
+
+scenarios:
+  culinary_history:
+    name: "Culinary History Research"
+    description: >
+      You are creating questions for researchers studying Victorian British food
+      culture, class distinctions in dining, or the evolution of British regional
+      cuisines. Questions should probe the historical and cultural dimensions
+      revealed in these cookbooks - cooking techniques, ingredient usage,
+      household practices, and the social context surrounding food in this era.
+
+  recipe_retrieval:
+    name: "Historical Recipe Retrieval"
+    description: >
+      You are creating questions for modern cooks, food writers, or historical
+      reenactors seeking to recreate authentic Victorian British dishes.
+      Questions should focus on practical culinary information - complete recipe
+      details including ingredients, techniques, serving suggestions, timing,
+      and traditional accompaniments that can guide actual cooking.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system actually read this cookbook.
+      Questions should cover the full range of content (recipes, household
+      management, cultural context, techniques) with varying complexity from
+      simple factual lookups to multi-step reasoning requiring synthesis across
+      recipe steps or comparison of approaches. Answers must be verifiable.

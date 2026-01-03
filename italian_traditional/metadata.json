@@ -1,0 +1,893 @@
+{
+  "corpus": "italian_traditional",
+  "source": "internet_archive",
+  "search_strategy": {
+    "subjects": [
+      "Cooking, Italian",
+      "Cooking, Italian -- Tuscan style",
+      "Cooking, Italian -- Sicilian style",
+      "Cooking, Italian -- Northern style",
+      "Cooking, Italian -- Southern style",
+      "Italian cuisine",
+      "Cuisine italienne",
+      "Cookery, Italian"
+    ],
+    "collections": [
+      "food_and_cooking",
+      "europeanlibraries"
+    ],
+    "collection_subject_filter": [
+      "cooking",
+      "cookery",
+      "cuisine",
+      "recipes",
+      "gastronomy"
+    ],
+    "date_range": [
+      1800,
+      1950
+    ],
+    "mediatype": "texts",
+    "identifiers": [
+      "artusi-1891",
+      "artusi_la_scienza_in_cucina_etc",
+      "pellegrino-artusi-la-scienza-in-cucina-e-larte-di-mangiar-bene",
+      "Trattato_di_cucina_1854_EVII1024",
+      "IppolitoCavalcanti-CucinaTeorica-pratica",
+      "italiancookbooka00gentiala",
+      "100-ricette-di-cucina-veneziana-1908",
+      "laveracucinierag51857gut",
+      "cucina_toscana_202210",
+      "librodicucinade00fratgoog",
+      "bub_gb_x0-p7JFBRUoC",
+      "bub_gb_K3PUf2TsmLcC",
+      "b29321451",
+      "sorbiatti-la-gastronomia-moderna",
+      "palma-principe-dei-cuochi",
+      "anna-maria-pasticciere-universale",
+      "bassi-la-cuciniera-maestra",
+      "belloni-vero-re-dei-cucinieri",
+      "bossi-salvi-imperatore-dei-cuochi",
+      "piccolo-vialardi-cucina-semplice",
+      "prato-manuale-di-cucina",
+      "cuciniere-universale",
+      "borgarello-gastronomo-moderno",
+      "luisa-cento-modi-diversi",
+      "grifoni-trattato-di-gelateria",
+      "romagnoli-antologia-della-cucina",
+      "ferraris-tamburini-come-posso-mangiar-bene",
+      "guerrini-arte-di-utilizzare-gli-avanzi-della-mensa",
+      "salani-la-cucina-di-famiglia",
+      "cento-specialita-di-cucina",
+      "nelli-re-dei-cuochi-1932",
+      "ilpasticciereec00ciocgoog",
+      "lareginadellecu00leyrgoog",
+      "b21538372",
+      "ortoincucina00dottorantonio"
+    ]
+  },
+  "curated_at": "2025-12-29T19:49:26.270444+00:00",
+  "total_books": 51,
+  "books_evaluated": 202,
+  "acceptance_rate": 0.2524752475247525,
+  "books": [
+    {
+      "identifier": "leavesfromourtu01rossgoog",
+      "title": "Leaves from our Tuscan kitchen; or, How to cook vegetables",
+      "creator": "Ross, Janet, 1842-1927",
+      "subjects": [
+        "Cookery, Italian",
+        "Cookery (Vegetables)",
+        "cbk"
+      ],
+      "date": "1900-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "\"First edition, October, 1899; second edition, September, 1900.\""
+      ],
+      "downloads": 2335,
+      "file": "books/leavesfromourtu01rossgoog.pdf",
+      "source_pdf": "leavesfromourtu01rossgoog.pdf"
+    },
+    {
+      "identifier": "italiancooking00daly",
+      "title": "Italian cooking",
+      "creator": "Daly, Dorothy",
+      "subjects": [
+        "Cookery, Italian",
+        "cbk"
+      ],
+      "date": "1900-01-01T00:00:00Z",
+      "description": [
+        "Includes index",
+        "OCLC number: ocm02977969"
+      ],
+      "downloads": 7224,
+      "file": "books/italiancooking00daly.pdf",
+      "source_pdf": "italiancooking00daly.pdf"
+    },
+    {
+      "identifier": "cu31924000574081",
+      "title": "Practical Italian recipes for American kitchens",
+      "creator": "Cuniberti, Julia Lovejoy",
+      "subjects": [
+        "Cookery, Italian",
+        "cbk"
+      ],
+      "date": "1918-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "32 p. 25 cm"
+      ],
+      "downloads": 1159,
+      "file": "books/cu31924000574081.pdf",
+      "source_pdf": "cu31924000574081.pdf"
+    },
+    {
+      "identifier": "practicalitalian00cuni",
+      "title": "Practical Italian recipes for American kitchens ..",
+      "creator": "[Cuniberti, Julia Lovejoy] [from old catalog]",
+      "subjects": [
+        "Cookery, Italian",
+        "cbk"
+      ],
+      "date": "1917-01-01T00:00:00Z",
+      "description": "32 p. 25 cm",
+      "downloads": 2414,
+      "file": "books/practicalitalian00cuni.pdf",
+      "source_pdf": "practicalitalian00cuni.pdf"
+    },
+    {
+      "identifier": "cu31924000677231",
+      "title": "The cook's Decameron : a study in taste, containing over two hundred recipes for Italian dishes",
+      "creator": "Waters, W. G., Mrs",
+      "subjects": [
+        "Cookery, Italian",
+        "cbk"
+      ],
+      "date": "1920-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "xvi, 176 p. ; 20 cm"
+      ],
+      "downloads": 3017,
+      "file": "books/cu31924000677231.pdf",
+      "source_pdf": "cu31924000677231.pdf"
+    },
+    {
+      "identifier": "lartedellacucina00unse",
+      "title": "L'Arte della cucina : manuale completo per I cucohi e per le famiglie : 871 ricette",
+      "creator": null,
+      "subjects": "Cookery, Italian",
+      "date": "1917-01-01T00:00:00Z",
+      "description": "Includes index",
+      "downloads": 15247,
+      "file": "books/lartedellacucina00unse.pdf",
+      "source_pdf": "lartedellacucina00unse.pdf"
+    },
+    {
+      "identifier": "simpleitaliancoo00mcgi",
+      "title": "Simple Italian cookery",
+      "creator": "McGinnis, Mabel Earl, 1876-",
+      "subjects": [
+        "Cookery, Italian",
+        "cbk"
+      ],
+      "date": "1912-01-01T00:00:00Z",
+      "description": "67 p. 18 cm",
+      "downloads": 10595,
+      "file": "books/simpleitaliancoo00mcgi.pdf",
+      "source_pdf": "simpleitaliancoo00mcgi.pdf"
+    },
+    {
+      "identifier": "apiciomoderno12leon",
+      "title": "Apicio moderno",
+      "creator": "Leonardi, Francesco (Chef) author",
+      "subjects": [
+        "Cooking, Italian -- Early works to 1800",
+        "Gastronomy -- Italy",
+        "Gastronomy",
+        "Italy"
+      ],
+      "date": "1807-01-01T00:00:00Z",
+      "description": "6 volumes ; 20 cm (8vo)",
+      "downloads": 404,
+      "file": "books/apiciomoderno12leon.pdf",
+      "source_pdf": "apiciomoderno12leon.pdf"
+    },
+    {
+      "identifier": "trattatodicucina00vial",
+      "title": "Trattato di cucina, pasticceria moderna, credenza e relativa confettureria",
+      "creator": "Vialardi, Giovanni, author",
+      "subjects": [
+        "Cooking, Italian",
+        "Pastry",
+        "Cooking",
+        "Table setting and decoration"
+      ],
+      "date": "1854-01-01T00:00:00Z",
+      "description": [
+        "Illustrated title page",
+        "\"Basato sopra un metodo economico, semplice, signorile e borghese, diviso in articoli contenenti circa n. 2000 ricette, cioe: brodi, zuppe, salse ed intingoli; fritture, cucina pei bambini; composti, freddi, volaglia, selvaggina; carni, pesci; pasticceria varia, decorata; creme, gelatine, melate, composte, confetti, conserve, bevande, siroppi, sorbetti, gelati; liquori, ratafia; conservazione delle sostanze alimentari.\""
+      ],
+      "downloads": 2380,
+      "file": "books/trattatodicucina00vial.pdf",
+      "source_pdf": "trattatodicucina00vial.pdf"
+    },
+    {
+      "identifier": "cookingitalianwa1944unit",
+      "title": "Cooking the Italian way",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": [
+        "Menus Planning",
+        "Formulas, recipes, etc",
+        "Cooking, Italian"
+      ],
+      "date": "1944-01-01T00:00:00Z",
+      "description": [
+        "Caption title",
+        "\"December 27, 1944.\""
+      ],
+      "downloads": 511,
+      "file": "books/cookingitalianwa1944unit.pdf",
+      "source_pdf": "cookingitalianwa1944unit.pdf"
+    },
+    {
+      "identifier": "b28136469",
+      "title": "Il cuciniere italiano moderno : ovvero, L'amico dei ghiotti economi e dei convalescenti opera necessaria pei capi di famiglia che desiderano fare una cucina economica, familiare, e sana",
+      "creator": null,
+      "subjects": "Cooking, Italian",
+      "date": "1858-01-01T00:00:00Z",
+      "description": "291 pages, 2 unnumbered folded leaves of plates : 17 cm",
+      "downloads": 730,
+      "file": "books/b28136469.pdf",
+      "source_pdf": "b28136469.pdf"
+    },
+    {
+      "identifier": "b21527222",
+      "title": "Leaves from our Tuscan kitchen, or, How to cook vegetables",
+      "creator": [
+        "Ross, Janet, 1842-1927",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking (Vegetables)",
+        "Cooking, Italian"
+      ],
+      "date": "1899-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 954,
+      "file": "books/b21527222.pdf",
+      "source_pdf": "b21527222.pdf"
+    },
+    {
+      "identifier": "b21525110",
+      "title": "Il cuciniere moderno : indispensabile ad ogni ceto di persone, ossia metodo facile, economico, salubre per cucinare le vivande, ben trinciarle, conservare i vini, le carni, ecc., per esercitare l'arte del pasticciere e diacciatore",
+      "creator": "University of Leeds. Library",
+      "subjects": "Cooking, Italian",
+      "date": "1875-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 769,
+      "file": "books/b21525110.pdf",
+      "source_pdf": "b21525110.pdf"
+    },
+    {
+      "identifier": "frammentodiunlib00guer",
+      "title": "Frammento di un libro di cucina del Sec. XIV : edito nel di delle nozze Carducci-Gnaccarini",
+      "creator": "Guerrini, Olindo, 1845-1916",
+      "subjects": [
+        "Epithalamia",
+        "Cooking, Italian"
+      ],
+      "date": "1887-01-01T00:00:00Z",
+      "description": [
+        "Cover title: Nozze Carducci-Gnaccarini",
+        "Dedicatory signed: O. Guerrini",
+        "Printer's devices on title page and on p. [48]",
+        "Initials and head pieces"
+      ],
+      "downloads": 2237,
+      "file": "books/frammentodiunlib00guer.pdf",
+      "source_pdf": "frammentodiunlib00guer.pdf"
+    },
+    {
+      "identifier": "b21539133",
+      "title": "Leaves from our Tuscan kitchen, or, How to cook vegetables",
+      "creator": [
+        "Ross, Janet, 1842-1927",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking (Vegetables)",
+        "Cooking, Italian"
+      ],
+      "date": "1908-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 482,
+      "file": "books/b21539133.pdf",
+      "source_pdf": "b21539133.pdf"
+    },
+    {
+      "identifier": "economicalitalia00cusi",
+      "title": "Economical Italian cook book",
+      "creator": "Cusimano, Jack. [from old catalog]",
+      "subjects": "Cooking, Italian",
+      "date": "1917-01-01T00:00:00Z",
+      "description": "[48] p. 20 cm",
+      "downloads": 3036,
+      "file": "books/economicalitalia00cusi.pdf",
+      "source_pdf": "economicalitalia00cusi.pdf"
+    },
+    {
+      "identifier": "b21528536",
+      "title": "The cook's decameron : a study in taste, containing over two hundred recipes for Italian dishes",
+      "creator": [
+        "Waters, W. G., Mrs",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, Italian",
+      "date": "1901-01-01T00:00:00Z",
+      "description": [
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library",
+        "The University of Leeds Library"
+      ],
+      "downloads": 600,
+      "file": "books/b21528536.pdf",
+      "source_pdf": "b21528536.pdf"
+    },
+    {
+      "identifier": "apiciomoderno34leon",
+      "title": "Apicio moderno",
+      "creator": "Leonardi, Francesco (Chef) author",
+      "subjects": [
+        "Cooking, Italian -- Early works to 1800",
+        "Gastronomy -- Italy",
+        "Gastronomy",
+        "Italy"
+      ],
+      "date": "1807-01-01T00:00:00Z",
+      "description": "6 volumes ; 20 cm (8vo)",
+      "downloads": 549,
+      "file": "books/apiciomoderno34leon.pdf",
+      "source_pdf": "apiciomoderno34leon.pdf"
+    },
+    {
+      "identifier": "italianconfectio00jarr_1",
+      "title": "The Italian confectioner, or, complete economy of desserts : containing the elements of the art, according to the most modern and approved practice",
+      "creator": "Jarrin, W. A. (William Alexis), active 1820-1843",
+      "subjects": [
+        "Confectionery",
+        "Desserts",
+        "Cooking, Italian",
+        "Cuisine italienne"
+      ],
+      "date": "1823-01-01T00:00:00Z",
+      "description": [
+        "xxiv, 280 pages, 2 folded leaves of plates : 25 cm",
+        "Later editions published under name: W.A. Jarrin"
+      ],
+      "downloads": 187,
+      "file": "books/italianconfectio00jarr_1.pdf",
+      "source_pdf": "italianconfectio00jarr_1.pdf"
+    },
+    {
+      "identifier": "ilpasticciereec00ciocgoog",
+      "title": "Il pasticciere e confettiere moderno : raccolta completa ...",
+      "creator": "Ciocca, Giuseppe",
+      "subjects": [
+        "Pastry",
+        "Confectionery",
+        "Cooking, Italian"
+      ],
+      "date": "1907-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "lx, 274 pages, 72 unnumbered leaves of plates : 15 cm"
+      ],
+      "downloads": 3781,
+      "file": "books/ilpasticciereec00ciocgoog.pdf",
+      "source_pdf": "ilpasticciereec00ciocgoog.pdf"
+    },
+    {
+      "identifier": "CAT31308149",
+      "title": "Macaroni, or, spaghetti baked in cheese sauce",
+      "creator": "United States. Department of Agriculture. Press Service",
+      "subjects": [
+        "Cooking (Pasta) Cooking, Italian",
+        "Home economics Miscellanea"
+      ],
+      "date": "1933-01-01T00:00:00Z",
+      "description": [
+        "Mimeograph",
+        "Caption title"
+      ],
+      "downloads": 268,
+      "file": "books/CAT31308149.pdf",
+      "source_pdf": "CAT31308149.pdf"
+    },
+    {
+      "identifier": "lviiricettedunli00zani",
+      "title": "LVII ricette d'un libro di cucina del buon secolo della lingua",
+      "creator": [
+        "Zanichelli, Domenico, 1858-1908",
+        "Morpurgo, S. (Salomone), 1860-1942"
+      ],
+      "subjects": [
+        "Epithalamia",
+        "Cooking, Italian"
+      ],
+      "date": "1890-01-01T00:00:00Z",
+      "description": [
+        "Cover title: Nozze Franchetti-Enriques",
+        "Dedicatory signed : Domenico, Cesare e Giacomo Zanichelli e Salomone Morpurgo",
+        "Title vignette; title printed in red and black",
+        "Head and tail piece; printer's device on p. [2] (third sequence)",
+        "Verso of title page and pages [1]-[2], first sequence, [2], second sequence, [3]-[4], third sequence, are blank"
+      ],
+      "downloads": 1443,
+      "file": "books/lviiricettedunli00zani.pdf",
+      "source_pdf": "lviiricettedunli00zani.pdf"
+    },
+    {
+      "identifier": "cucina-italiana-la-1932-10-15-images",
+      "title": "Cucina Italiana (La) 1932-10-15",
+      "creator": "Cucina Italiana",
+      "subjects": "Cucina Italiana",
+      "date": "1932-10-15T00:00:00Z",
+      "description": "Fascicolo n. 10 del 15 ottobre 1932 de La Cucina italiana : giornale di gastronomia per le famiglie e per i buongustai",
+      "downloads": 131,
+      "file": "books/cucina-italiana-la-1932-10-15-images.pdf",
+      "source_pdf": "Cucina italiana (La)_1932-10-15.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_girl-catellis_tx809m17g571930zbdcook-16216",
+      "title": "The Girl at Catelli's",
+      "creator": [
+        "C.H. Catelli Co",
+        "University of Waterloo. Library. Women's Studies Collection. CaOWtU"
+      ],
+      "subjects": [
+        "Cooking (Pasta)",
+        "Cooking, Canadian.",
+        "McGill University Library Digitized Title",
+        "Cookbook Collection",
+        "Cooking, Canadian"
+      ],
+      "date": "1900-01-01T00:00:00Z",
+      "description": [
+        "36 pages : illustrations ; 16 cm",
+        "Cover title"
+      ],
+      "downloads": 1826,
+      "file": "books/McGillLibrary-rbsc_girl-catellis_tx809m17g571930zbdcook-16216.pdf",
+      "source_pdf": "rbsc_girl-catellis_tx809m17g571930zbdcook.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_bons-plats_tx809m17b661920zrbdcook-16205",
+      "title": "Les bons plats au macaroni Catelli",
+      "creator": "Catelli Ltd",
+      "subjects": [
+        "Cooking (Pasta)",
+        "McGill University Library Digitized Title",
+        "Cookbook Collection"
+      ],
+      "date": "1920-01-01T00:00:00Z",
+      "description": [
+        "32 pages : illustrations ; 17 cm",
+        "Cover title"
+      ],
+      "downloads": 344,
+      "file": "books/McGillLibrary-rbsc_bons-plats_tx809m17b661920zrbdcook-16205.pdf",
+      "source_pdf": "rbsc_bons-plats_tx809m17b661920zrbdcook.pdf"
+    },
+    {
+      "identifier": "b20397264",
+      "title": "National viands à la mode [electronic resource]",
+      "creator": "De Salis, Mrs. (Harriet Anne)",
+      "subjects": "Cooking",
+      "date": "1895-01-01T00:00:00Z",
+      "description": "Includes index",
+      "downloads": 380,
+      "file": "books/b20397264.pdf",
+      "source_pdf": "b20397264.pdf"
+    },
+    {
+      "identifier": "pellegrino-artusi-la-scienza-in-cucina-e-larte-di-mangiar-bene",
+      "title": "Pellegrino Artusi, La Scienza In Cucina E L'arte Di Mangiar Bene",
+      "creator": null,
+      "subjects": [
+        "Pellegrino Artusi",
+        "cucina"
+      ],
+      "date": "1900",
+      "description": "<span style=\"color:rgb(32,33,34);font-family:sans-serif;font-size:14px;background-color:rgb(255,255,255);\">Pellegrino Artusi, </span><i style=\"color:rgb(32,33,34);font-family:sans-serif;font-size:14px;background-color:rgb(255,255,255);\"><a href=\"https://it.wikipedia.org/wiki/La_scienza_in_cucina_e_l%27arte_di_mangiar_bene\" title=\"La scienza in cucina e l'arte di mangiar bene\" style=\"color:rgb(6,69,173);background:none;\" rel=\"ugc nofollow\">La scienza in cucina e l'arte di mangiar bene</a></i>",
+      "downloads": 0,
+      "file": "books/pellegrino-artusi-la-scienza-in-cucina-e-larte-di-mangiar-bene.pdf",
+      "source_pdf": "Pellegrino Artusi, La scienza in cucina e l'arte di mangiar bene.pdf"
+    },
+    {
+      "identifier": "Trattato_di_cucina_1854_EVII1024",
+      "title": "Trattato di cucina, pasticceria moderna, credenza e relativa confettureria",
+      "creator": "Giovanni Vialardi",
+      "subjects": [
+        "Cooking",
+        "Essays"
+      ],
+      "date": "1854",
+      "description": "<div>Trattato di cucina, pasticceria moderna, credenza e relativa confettureria.</div><div>Author: Giovanni Vialardi (1854).</div><div>The book is in the library of the Royal Castel of Racconigi (Italy)</div>",
+      "downloads": 0,
+      "file": "books/Trattato_di_cucina_1854_EVII1024.pdf",
+      "source_pdf": "Trattato Di Cucina 1854 E_VII_1024.pdf"
+    },
+    {
+      "identifier": "IppolitoCavalcanti-CucinaTeorica-pratica",
+      "title": "Ippolito Cavalcanti - Cucina Teorico-pratica",
+      "creator": "argesarge -",
+      "subjects": "Ippolito Cavalcanti,  gastronomia, cucina teorico-pratica, letteratura napoletana, argesarge, salvatore argenziano,",
+      "date": null,
+      "description": "Ippolito Cavalcanti - Cucina Teorico-pratica",
+      "downloads": 0,
+      "file": "books/IppolitoCavalcanti-CucinaTeorica-pratica.pdf",
+      "source_pdf": "Cucina_teorico_pratica.pdf"
+    },
+    {
+      "identifier": "italiancookbooka00gentiala",
+      "title": "The Italian Cook Book : the Art of Eating Well : practical recipes of the Italian cuisine",
+      "creator": "Gentile, Maria",
+      "subjects": "cbk",
+      "date": "1919",
+      "description": "160 p",
+      "downloads": 0,
+      "file": "books/italiancookbooka00gentiala.pdf",
+      "source_pdf": "italiancookbooka00gentiala.pdf"
+    },
+    {
+      "identifier": "100-ricette-di-cucina-veneziana-1908",
+      "title": "100 Ricette Di Cucina Veneziana ( 1908)",
+      "creator": null,
+      "subjects": "Venetian cuisine",
+      "date": null,
+      "description": "<p class=\"MsoNormalCxSpFirst\">Venetian recipe book from 1908</p>",
+      "downloads": 0,
+      "file": "books/100-ricette-di-cucina-veneziana-1908.pdf",
+      "source_pdf": "100 ricette di cucina veneziana (1908).pdf"
+    },
+    {
+      "identifier": "la-vera-cuciniera-genovese",
+      "title": "La Vera Cuciniera Genovese",
+      "creator": null,
+      "subjects": [
+        "cucina",
+        "gastronomia",
+        "ristorazione",
+        "alimentazione",
+        "alimenti"
+      ],
+      "date": "1890",
+      "description": "La vera cuciniera genovese facile ed economica, ossia maniera di preparare e cuocere ogni sorta di vivande: all'usanza di Genova, premessovi un elenco dei vocaboli attinenti alla cucina menzionati nel corso di questa operetta colle corrispettive voci genovesi ed aggiuntovi in fine un indice generale, Torino, Arneodo, [1890].",
+      "downloads": 0,
+      "file": "books/la-vera-cuciniera-genovese.pdf",
+      "source_pdf": "LaVeraCucinieraGenovese.pdf"
+    },
+    {
+      "identifier": "cucina_toscana_202210",
+      "title": "Cucina Toscana",
+      "creator": "Gustavo Pierotti",
+      "subjects": [
+        "Biblioteca Alessandro Lazzerini",
+        "Biblioteca digitale pratese",
+        "Prato",
+        "cucina",
+        "Toscana",
+        "ricettari",
+        "cibo"
+      ],
+      "date": "1927",
+      "description": "CUCINA TOSCANA<div>Ricettario con prefazione</div><div>di</div><div>G. PIEROTTI</div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div><br /></div><div>Firenze 1927 - V</div><div>Edizioni dell'ente per le attività toscane</div><div><br /></div><div><br /></div><div>BID=LIA\\0001906</div>",
+      "downloads": 0,
+      "file": "books/cucina_toscana_202210.pdf",
+      "source_pdf": "cucina toscana.pdf"
+    },
+    {
+      "identifier": "librodicucinade00fratgoog",
+      "title": "Libro di cucina del secolo XIV a cura di Ludovico Frati",
+      "creator": "Lodovico Frati",
+      "subjects": [],
+      "date": "1899",
+      "description": "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
+      "downloads": 0,
+      "file": "books/librodicucinade00fratgoog.pdf",
+      "source_pdf": "librodicucinade00fratgoog.pdf"
+    },
+    {
+      "identifier": "bub_gb_x0-p7JFBRUoC",
+      "title": "Codice gastrologico economico per istruzione dei giovani che vogliono professare l'arte della cucina, credenziere, e liquorista e per quelli che vogliono dilettarsi in simili arti",
+      "creator": null,
+      "subjects": "bub_upload",
+      "date": "1841",
+      "description": null,
+      "downloads": 0,
+      "file": "books/bub_gb_x0-p7JFBRUoC.pdf",
+      "source_pdf": "bub_gb_x0-p7JFBRUoC.pdf"
+    },
+    {
+      "identifier": "bub_gb_K3PUf2TsmLcC",
+      "title": "La cucina teoricopratica, ovvero Il pranzo periodico di otto piatti al giorno cumulativamente col suo corrispondente riposto, e dettaglio approssimativo della spesa giornaliera, pratica di scalcare e servire in tavola finalmente quattro settimane secondo le stagioni della cucina casareccia in dialetto napolitano del cav. Ippolit",
+      "creator": "Ippolito Cavalcante",
+      "subjects": "bub_upload",
+      "date": "1844",
+      "description": null,
+      "downloads": 0,
+      "file": "books/bub_gb_K3PUf2TsmLcC.pdf",
+      "source_pdf": "bub_gb_K3PUf2TsmLcC.pdf"
+    },
+    {
+      "identifier": "b29321451",
+      "title": "La nuovissima cucina economica ... Con l'aggiunta in fine dell'arte della credenza e del liquorista",
+      "creator": "Agnoletti, Vincenzo",
+      "subjects": [],
+      "date": "1814",
+      "description": "viii, 383 pages ; (8vo)",
+      "downloads": 0,
+      "file": "books/b29321451.pdf",
+      "source_pdf": "b29321451.pdf"
+    },
+    {
+      "identifier": "sorbiatti-la-gastronomia-moderna",
+      "title": "La Gastronomia Moderna",
+      "creator": "Sorbiatti, Giuseppe",
+      "subjects": [
+        "Giuseppe Sorbiatti",
+        "cucina",
+        "gastronomia",
+        "ristorazione",
+        "pasticceria",
+        "alimentazione",
+        "alimenti"
+      ],
+      "date": "1871",
+      "description": "<div>Sorbiatti, Giuseppe (1827-1888). La gastronomia moderna : istruzione elementare pratica della cucina, pasticceria, confettureria e credenza. Milano : tip. Boniardi-Pogliani di Ermenegildo Besozzi, 1871</div>",
+      "downloads": 0,
+      "file": "books/sorbiatti-la-gastronomia-moderna.pdf",
+      "source_pdf": "SorbiattiLaGastronomiaModerna.pdf"
+    },
+    {
+      "identifier": "palma-principe-dei-cuochi",
+      "title": "Il Principe Dei Cuochi",
+      "creator": "Palma, Francesco",
+      "subjects": [
+        "Francesco Palma",
+        "gastronomia",
+        "ristorazione",
+        "alimentazione",
+        "alimenti"
+      ],
+      "date": "1881",
+      "description": "<div>Palma, Francesco. Il principe dei cuochi, o la vera cucina napolitana : operetta indispensabile ai capi di famiglia e agli esercenti il mestiere di cuoco ... compilata sulle opere del Corrado, del Cavalcanti ed altri. Napoli : G. Eschena, 1881</div>",
+      "downloads": 0,
+      "file": "books/palma-principe-dei-cuochi.pdf",
+      "source_pdf": "PalmaPrincipeDeiCuochi.pdf"
+    },
+    {
+      "identifier": "anna-maria-pasticciere-universale",
+      "title": "Il Pasticciere Universale",
+      "creator": "Anna Maria",
+      "subjects": [
+        "Anna Maria",
+        "cucina",
+        "gastronomia",
+        "ristorazione",
+        "pasticceria",
+        "alimentazione",
+        "alimenti"
+      ],
+      "date": "1887",
+      "description": "<div>Anna Maria. Il pasticciere universale. Milano : Paolo Carrara Editore. 1887</div>",
+      "downloads": 0,
+      "file": "books/anna-maria-pasticciere-universale.pdf",
+      "source_pdf": "AnnaMariaPasticciereUniversale.pdf"
+    },
+    {
+      "identifier": "belloni-vero-re-dei-cucinieri",
+      "title": "Il Vero Re Dei Cucinieri",
+      "creator": null,
+      "subjects": [
+        "G Belloni",
+        "gastronomia",
+        "ristorazione",
+        "pasticceria",
+        "alimentazione",
+        "alimenti"
+      ],
+      "date": "1895",
+      "description": "<div>Belloni, G. Il vero re dei cucinieri ovvero l'arte di cucinare con economia e al gusto degli italiani: opera che contiene tutto ciò che occorre per saper ordinare e servire un buon pranzo ... - Edizione riveduta e ricorretta con l'aggiunta d'una nuova cucina per le persone di stomaco delicato, Milano, Cesare Cioffi, ed. 1895.</div>",
+      "downloads": 0,
+      "file": "books/belloni-vero-re-dei-cucinieri.pdf",
+      "source_pdf": "BelloniVeroReDeiCucinieri.pdf"
+    },
+    {
+      "identifier": "bossi-salvi-imperatore-dei-cuochi",
+      "title": "L'Imperatore Dei Cuochi",
+      "creator": null,
+      "subjects": [
+        "Vitaliano Bossi",
+        "Ercole Salvi",
+        "cucina",
+        "gastronomia",
+        "ristorazione",
+        "pasticceria",
+        "alimentazione",
+        "alimenti"
+      ],
+      "date": "1895",
+      "description": "<div>Bossi, Vitaliano. Salvi, Ercole. L'imperatore dei cuochi : manuale completo di cucina casalinga e di alta cucina / compilato dal Conte Vitaliano Bossi ; coadiuvato per la parte tecnica dal capo-cuoco Ercole Salvi. Roma : Edoardo Perino, 1895</div>",
+      "downloads": 0,
+      "file": "books/bossi-salvi-imperatore-dei-cuochi.pdf",
+      "source_pdf": "BossiSalviImperatoreDeiCuochi.pdf"
+    },
+    {
+      "identifier": "piccolo-vialardi-cucina-semplice",
+      "title": "Cucina Semplice Ed Economica Per Le Famiglie",
+      "creator": "Vialardi Giovanni",
+      "subjects": [
+        "Giovanni Vialardi",
+        "gastronomia",
+        "ristorazione",
+        "alimentazione",
+        "alimenti"
+      ],
+      "date": "1899",
+      "description": "<div>Vialardi Giovanni (1804-1872). Il piccolo Vialardi: cucina semplice ed economica per le famiglie, Roux Frassati e C., 1899</div>",
+      "downloads": 0,
+      "file": "books/piccolo-vialardi-cucina-semplice.pdf",
+      "source_pdf": "PiccoloVialardiCucinaSemplice.pdf"
+    },
+    {
+      "identifier": "cuciniere-universale",
+      "title": "Il Cuciniere Universale",
+      "creator": null,
+      "subjects": [
+        "cucina",
+        "gastronomia",
+        "ristorazione",
+        "pasticceria",
+        "alimentazione",
+        "alimenti"
+      ],
+      "date": "1902",
+      "description": "Il cuciniere universale: ossia la vera maniera di viver bene e spender poco con nuovi metodi moderni, Milano, Gnocchi, 1902.",
+      "downloads": 0,
+      "file": "books/cuciniere-universale.pdf",
+      "source_pdf": "CuciniereUniversale.pdf"
+    },
+    {
+      "identifier": "luisa-cento-modi-diversi",
+      "title": "Cento Modi Diversi Per Utilizzare I Resti Delle Vivande",
+      "creator": null,
+      "subjects": [
+        "cucina",
+        "gastronomia",
+        "ristorazione",
+        "alimentazione",
+        "alimenti"
+      ],
+      "date": "1909",
+      "description": "<div>Luisa. Cento modi diversi per utilizzare i resti delle vivande, Milano, Carrara, 1909.</div>",
+      "downloads": 0,
+      "file": "books/luisa-cento-modi-diversi.pdf",
+      "source_pdf": "LuisaCentoModiDiversi.pdf"
+    },
+    {
+      "identifier": "grifoni-trattato-di-gelateria",
+      "title": "Trattato Di Gelateria",
+      "creator": "Grifoni, Enrico Giuseppe",
+      "subjects": [
+        "Enrico Giuseppe Grifoni",
+        "cucina",
+        "gastronomia",
+        "ristorazione",
+        "pasticceria",
+        "alimentazione",
+        "alimenti"
+      ],
+      "date": "1911",
+      "description": "<div>Grifoni, Enrico Giuseppe. Trattato di gelateria. Manuale pratico per la fabbricazione dei gelati e relative conserve, Milano, Bietti, 1911</div>",
+      "downloads": 0,
+      "file": "books/grifoni-trattato-di-gelateria.pdf",
+      "source_pdf": "GrifoniTrattatoDiGelateria.pdf"
+    },
+    {
+      "identifier": "romagnoli-antologia-della-cucina",
+      "title": "Antologia Della Cucina",
+      "creator": "Romagnoli, Ernesto",
+      "subjects": [
+        "Ernesto Romagnoli",
+        "cucina",
+        "gastronomia",
+        "ristorazione",
+        "pasticceria",
+        "alimentazione",
+        "alimenti"
+      ],
+      "date": "1913",
+      "description": "<div>Romagnoli, Ernesto. Antologia della cucina : raccolta di nuove ricette dei migliori maestri della Cucina Internazionale. Genova : Tip. editrice La Celere, 1913</div>",
+      "downloads": 0,
+      "file": "books/romagnoli-antologia-della-cucina.pdf",
+      "source_pdf": "RomagnoliAntologiaDellaCucina.pdf"
+    },
+    {
+      "identifier": "ferraris-tamburini-come-posso-mangiar-bene",
+      "title": "Come Posso Mangiar Bene",
+      "creator": "Ferraris Tamburini, Giulia",
+      "subjects": [
+        "Giulia Ferraris Tamburini",
+        "cucina",
+        "gastronomia",
+        "ristorazione",
+        "pasticceria",
+        "alimentazione",
+        "alimenti"
+      ],
+      "date": "1913",
+      "description": "<div>Ferraris Tamburini, Giulia. Come posso mangiare bene? Libro di cucina con oltre 300 precetti e 756 ricette di vivande comuni, facili ed economiche adatte agli stomachi sani e a quelli delicati, Milano, Hoepli, 1913</div>",
+      "downloads": 0,
+      "file": "books/ferraris-tamburini-come-posso-mangiar-bene.pdf",
+      "source_pdf": "FerrarisTamburiniComePossoMangiarBene.pdf"
+    },
+    {
+      "identifier": "salani-la-cucina-di-famiglia",
+      "title": "La Cucina Di Famiglia",
+      "creator": null,
+      "subjects": [
+        "cucina",
+        "gastronomia",
+        "ristorazione",
+        "alimentazione",
+        "alimenti"
+      ],
+      "date": "1921",
+      "description": "La cucina di famiglia. Ovvero l’arte di mangiar bene alla casalinga. Libro contenente quanto è necessario per saper bene preparare un pranzo nonché i migliori metodi per fare conserve, rosoli, liquori e gelati. 640 ricette, Firenze, Salani, 1921",
+      "downloads": 0,
+      "file": "books/salani-la-cucina-di-famiglia.pdf",
+      "source_pdf": "SalaniLaCucinaDiFamiglia.pdf"
+    },
+    {
+      "identifier": "cento-specialita-di-cucina",
+      "title": "Cento Specialità Di Cucina Italiane e Straniere",
+      "creator": null,
+      "subjects": [
+        "cucina",
+        "gastronomia",
+        "ristorazione",
+        "pasticceria",
+        "alimentazione",
+        "alimenti"
+      ],
+      "date": "1922",
+      "description": "<div>100 specialità di cucina italiane ed estere. Milano : Sonzogno, [1922]</div>",
+      "downloads": 0,
+      "file": "books/cento-specialita-di-cucina.pdf",
+      "source_pdf": "CentoSpecialitaDiCucina.pdf"
+    },
+    {
+      "identifier": "ortoincucina00dottorantonio",
+      "title": "L'orto in cucina : Almanacco pel 1886",
+      "creator": "Dottor Antonio",
+      "subjects": "Cucina",
+      "date": "1886",
+      "description": "Dalla biblioteca digitale di <a href=\"http://www.academiabarilla.it/italian-food-academy/biblioteca-gastronomica-digitale/orto-cucina-almanacco-1886-cartelle-dott.aspx\" rel=\"ugc nofollow\">Academia Barilla</a><br />",
+      "downloads": 0,
+      "file": "books/ortoincucina00dottorantonio.pdf",
+      "source_pdf": "ortoincucina00dottorantonio.pdf"
+    }
+  ]
+}

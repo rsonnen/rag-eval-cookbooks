@@ -1,0 +1,77 @@
+baking_pastry:
+  description: |
+    Historical baking and pastry cookbooks 1800-1950 focusing on breads,
+    cakes, pastries, confections, and desserts.
+
+  source: archive
+
+  search_strategy:
+    subjects:
+      - "Baking"
+      - "Pastry"
+      - "Confectionery"
+      - "Cake baking"
+      - "Cake decorating"
+      - "Bread making"
+      - "Patisserie"
+      - "Desserts"
+      - "Cookies"
+      - "Pies"
+      - "Puddings"
+      - "Sugar work"
+      - "Pastry cook"
+      - "Baker's manual"
+      - "Baking recipes"
+    collections:
+      - "food_and_cooking"
+      - "americana"
+      - "gutenberg"
+      - "toronto"
+    collection_subject_filter:
+      - "baking"
+      - "pastry"
+      - "confectionery"
+      - "cake"
+      - "bread"
+      - "recipes"
+    date_range: [1800, 1950]
+    mediatype: texts
+
+  target_count: 100
+
+  evaluator_model: gpt-5-mini
+  confidence_threshold: 0.7
+
+  validation_prompt: |
+    You are evaluating whether a document belongs in a corpus of
+    HISTORICAL BAKING AND PASTRY COOKBOOKS (1800-1950).
+
+    TEMPORAL REQUIREMENT (CRITICAL):
+    The work must have been PUBLISHED between 1800 and 1950.
+    Modern reprints or facsimiles do NOT belong.
+
+    CONTENT REQUIREMENTS:
+    The work must contain ACTUAL BAKING/PASTRY RECIPES with:
+    - Ingredient lists with flour, sugar, butter, eggs, etc.
+    - Baking instructions/procedures
+    - Measurements, temperatures, and techniques
+
+    INCLUDE:
+    - Baking-specific cookbooks
+    - Pastry and confectionery guides
+    - Bread-making manuals
+    - Cake decorating books with recipes
+    - Candy and confection recipes
+    - Professional baker's manuals
+    - Dessert-focused cookbooks
+
+    EXCLUDE:
+    - General cookbooks with only a few dessert recipes
+    - Novels or memoirs
+    - Food history without recipes
+    - Bakery business guides without recipes
+    - Single-page menus or ephemera
+    - Scientific treatises on flour/yeast without recipes
+
+    Look for page layouts with baking recipe formatting: ingredient lists,
+    mixing instructions, baking times and temperatures, decorating instructions.

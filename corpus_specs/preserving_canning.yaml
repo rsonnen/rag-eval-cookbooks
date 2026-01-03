@@ -1,0 +1,72 @@
+preserving_canning:
+  description: |
+    Historical preserving and canning cookbooks 1800-1950 covering food
+    preservation techniques, canning, pickling, and jams.
+
+  source: archive
+
+  search_strategy:
+    subjects:
+      - "Canning and preserving"
+      - "Home canning"
+      - "Fruit preserving"
+      - "Pickling"
+      - "Jams"
+      - "Jellies"
+      - "Preserves"
+      - "Marmalade"
+      - "Food preservation"
+      - "Fruit canning"
+      - "Vegetable canning"
+    collections:
+      - "food_and_cooking"
+      - "usda"
+    collection_subject_filter:
+      - "canning"
+      - "preserving"
+      - "pickle"
+      - "jam"
+      - "jelly"
+      - "cookery"
+      - "recipes"
+    date_range: [1800, 1950]
+    mediatype: texts
+
+  target_count: 100
+
+  evaluator_model: gpt-5-mini
+  confidence_threshold: 0.7
+
+  validation_prompt: |
+    You are evaluating whether a document belongs in a corpus of
+    HISTORICAL PRESERVING AND CANNING COOKBOOKS (1800-1950).
+
+    TEMPORAL REQUIREMENT (CRITICAL):
+    The work must have been PUBLISHED between 1800 and 1950.
+    Modern reprints or facsimiles do NOT belong.
+
+    CONTENT REQUIREMENTS:
+    The work must contain ACTUAL PRESERVING/CANNING RECIPES with:
+    - Ingredient lists
+    - Processing instructions
+    - Preservation techniques (canning, pickling, drying, etc.)
+
+    INCLUDE:
+    - Canning and preserving manuals
+    - Pickle and relish recipe books
+    - Jam and jelly making guides
+    - Food preservation handbooks
+    - USDA canning bulletins
+    - Homesteading guides with preservation sections
+    - Fruit and vegetable preservation guides
+
+    EXCLUDE:
+    - General cookbooks with only a few preserving recipes
+    - Novels or memoirs
+    - Food science without recipes
+    - Agricultural reports without recipes
+    - Single-page bulletins or ephemera
+    - Commercial food processing manuals
+
+    Look for page layouts with preserving recipe formatting: ingredient lists,
+    processing times, canning instructions, storage guidelines.

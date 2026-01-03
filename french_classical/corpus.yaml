@@ -1,0 +1,43 @@
+name: "French Classical Cookbooks (1800-1950)"
+
+corpus_context: >
+  150 French haute cuisine cookbooks spanning 1800-1950, representing the
+  classical era of French gastronomy. The collection includes foundational works
+  from the era of Marie-Antoine Careme (early 19th century) through Auguste
+  Escoffier's codification of French cuisine (early 20th century). Documents are
+  primarily in French with some English translations, featuring professional
+  culinary techniques, classical recipes, service protocols, and gastronomic
+  philosophy from the height of European fine dining. Content includes detailed
+  preparation methods, ingredient specifications, menu planning, kitchen
+  organization, and the cultural context of haute cuisine. Sourced from Internet
+  Archive and McGill Library collections.
+
+scenarios:
+  culinary_history:
+    name: "Culinary History Research"
+    description: >
+      You are creating questions for students researching the historical
+      evolution of French cuisine. Questions should test understanding of how
+      culinary practices changed across different periods and chefs, what
+      influenced these changes, and how different authors approached similar
+      challenges. Focus on synthesis across documents, revealing historical
+      context and cultural significance of classical French gastronomy.
+
+  recipe_retrieval:
+    name: "Recipe and Technique Retrieval"
+    description: >
+      You are creating questions to test precise retrieval of recipes and
+      techniques from classical French cuisine. Questions should target specific
+      preparations, cooking methods, or ingredient ratios as documented in these
+      texts. Test the ability to extract exact procedural details while
+      understanding the terminology and conventions of 19th and early 20th
+      century culinary writing in both French and English.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system actually read this cookbook.
+      Questions need specific, verifiable answers - exact ingredient amounts,
+      particular cooking times, specific recipe names that require the actual
+      document. Mix factual recall with procedural understanding and contextual
+      interpretation. Test semantic understanding beyond simple keyword matching.

@@ -1,0 +1,23 @@
+# Downloaded books (PDFs)
+*/books/
+
+# Build artifacts (corpus builder state)
+*/build_state.json
+*/rejected.json
+
+# Credentials
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# uv lock (user regenerates)
+uv.lock
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store

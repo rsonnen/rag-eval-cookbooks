@@ -1,0 +1,42 @@
+name: "Historical Preserving and Canning (1850-1950)"
+
+corpus_context: >
+  60 books on food preservation spanning 1850-1950, covering canning, pickling,
+  smoking, drying, and other preservation methods. Collection includes USDA
+  extension bulletins, commercial canning manuals, home economics textbooks,
+  and rural household guides. Documents feature detailed procedures for safe
+  food preservation, equipment specifications, timing charts, and recipes for
+  preserved goods. Content reflects the evolution from traditional preservation
+  methods to modern pressure canning, with strong emphasis on safety practices
+  developed after botulism incidents. Sourced from agricultural extension
+  archives, USDA historical publications, and Internet Archive.
+
+scenarios:
+  culinary_history:
+    name: "Food Preservation History"
+    description: >
+      You are creating questions for researchers studying the history of food
+      preservation in America. Questions should test understanding of how
+      preservation techniques evolved, what safety concerns drove changes in
+      practice, how home canning related to commercial food production, and
+      how government extension services educated the public. Focus on the
+      transition from traditional to modern preservation methods.
+
+  recipe_retrieval:
+    name: "Preservation Method Retrieval"
+    description: >
+      You are creating questions to test retrieval of specific preservation
+      procedures. Questions should target processing times, temperatures,
+      pressure levels, ingredient ratios for brines and syrups, and equipment
+      specifications. Note that historical methods may differ from modern
+      safety standards - test for what the documents actually say, not
+      current USDA guidelines.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system actually read these
+      preservation texts. Questions must have specific, verifiable answers -
+      exact processing times, pressure specifications, brine concentrations,
+      and procedural details that require the actual document. Preservation
+      is safety-critical; test for precise details that cannot be approximated.

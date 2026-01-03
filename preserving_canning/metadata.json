@@ -1,0 +1,1572 @@
+{
+  "corpus": "preserving_canning",
+  "source": "internet_archive",
+  "search_strategy": {
+    "subjects": [
+      "Canning and preserving",
+      "Home canning",
+      "Fruit preserving",
+      "Pickling",
+      "Jams",
+      "Jellies",
+      "Preserves",
+      "Marmalade",
+      "Food preservation",
+      "Fruit canning",
+      "Vegetable canning"
+    ],
+    "collections": [
+      "food_and_cooking",
+      "usda"
+    ],
+    "collection_subject_filter": [
+      "canning",
+      "preserving",
+      "pickle",
+      "jam",
+      "jelly",
+      "cookery",
+      "recipes"
+    ],
+    "date_range": [
+      1800,
+      1950
+    ],
+    "mediatype": "texts"
+  },
+  "curated_at": "2025-12-29T16:47:10.324922+00:00",
+  "total_books": 83,
+  "books_evaluated": 143,
+  "acceptance_rate": 0.5804195804195804,
+  "books": [
+    {
+      "identifier": "homepreservation00peek",
+      "title": "The home preservation of fruits and vegetables",
+      "creator": [
+        "Peek, Lilian. [from old catalog]",
+        "Denton, Tex. College of industrial arts. Dept. of extension. [from old catalog]"
+      ],
+      "subjects": "Canning and preserving",
+      "date": "1918-01-01T00:00:00Z",
+      "description": "35, [1] p. 23 cm",
+      "downloads": 489,
+      "file": "books/homepreservation00peek.pdf",
+      "source_pdf": "homepreservation00peek.pdf"
+    },
+    {
+      "identifier": "everywomanscanni00hughrich",
+      "title": "Everywomans canning book; the A B C of safe home canning and preserving",
+      "creator": "Hughes, Mary Catherine (Burke) Mrs., 1885-",
+      "subjects": "Canning and preserving",
+      "date": "1918-01-01T00:00:00Z",
+      "description": "viii, 96 p. 20 cm",
+      "downloads": 2633,
+      "file": "books/everywomanscanni00hughrich.pdf",
+      "source_pdf": "everywomanscanni00hughrich.pdf"
+    },
+    {
+      "identifier": "homecanningdryin01nati",
+      "title": "Home canning & drying of vegetables & fruits",
+      "creator": "National war garden commission. [from old catalog]",
+      "subjects": [
+        "Canning and preserving",
+        "Food"
+      ],
+      "date": "1919-01-01T00:00:00Z",
+      "description": "32 p. 23 cm",
+      "downloads": 1494,
+      "file": "books/homecanningdryin01nati.pdf",
+      "source_pdf": "homecanningdryin01nati.pdf"
+    },
+    {
+      "identifier": "homedryingmanual00nati",
+      "title": "Home drying manual for vegetables and fruits, 1917",
+      "creator": "National War Garden Commission",
+      "subjects": [
+        "Canning and preserving",
+        "Food"
+      ],
+      "date": "1917-01-01T00:00:00Z",
+      "description": "Caption title",
+      "downloads": 877,
+      "file": "books/homedryingmanual00nati.pdf",
+      "source_pdf": "homedryingmanual00nati.pdf"
+    },
+    {
+      "identifier": "laboratorymanual00crue",
+      "title": "Laboratory manual of fruit and vegetable products",
+      "creator": "Cruess, W. V. (William Vere), 1886-1968",
+      "subjects": "Canning and preserving",
+      "date": "1922-01-01T00:00:00Z",
+      "description": [
+        "vii, 109 p. 24 cm",
+        "\"Selected references\": p. 107-109",
+        "rec 20000107"
+      ],
+      "downloads": 178,
+      "file": "books/laboratorymanual00crue.pdf",
+      "source_pdf": "laboratorymanual00crue.pdf"
+    },
+    {
+      "identifier": "homecanningbycol00smitrich",
+      "title": "Home canning by the cold pack method",
+      "creator": [
+        "Smith, Grace Marian",
+        "International Harvester Company of New Jersey. Agricultural Extension Dept"
+      ],
+      "subjects": "Canning and preserving",
+      "date": "1917-01-01T00:00:00Z",
+      "description": [
+        "58 p. : 23 cm",
+        "At head of cover title: I.H.C. agricultural lecture charts. Reference book for the lecture"
+      ],
+      "downloads": 3125,
+      "file": "books/homecanningbycol00smitrich.pdf",
+      "source_pdf": "homecanningbycol00smitrich.pdf"
+    },
+    {
+      "identifier": "leconservateurco00unse",
+      "title": "Le conservateur : contenant ..",
+      "creator": null,
+      "subjects": [
+        "Canning and preserving -- France",
+        "Food -- Preservation -- France",
+        "Food preservatives",
+        "Mushrooms -- Preservation",
+        "Aluminum chloride",
+        "Distillation",
+        "Wine and wine making -- France",
+        "Wine and wine making -- France -- Burgundy -- Classification",
+        "Wine and wine making -- France -- Bordeaux (Aquitaine) -- Classification",
+        "Canning and preserving",
+        "Food -- Preservation",
+        "Wine and wine making",
+        "France",
+        "France -- Bordeaux (Aquitaine)",
+        "France -- Burgundy"
+      ],
+      "date": "1842-01-01T00:00:00Z",
+      "description": [
+        "[2], xvi, 472 pages, 5 leaves of plates (4 folded) : 22 cm",
+        "(from title page) 1. Le livre de tous les ménages / par Appert. 5e édition, revue par MM. Prieur-Appert et Gannal -- 2. Anciens procédés de conservation des fruits, des légumes et des viandes, confitures, fruits a l'eau de vie, liqueurs, ratafias, sirops, parfums / par F***, ancien secrétaire de Carême. Conservation des viandes par le procédé dû à M. Gannal -- 3. Monographie des vins / par MM. Joubert, Bouchard et Louis Leclerc",
+        "Includes index"
+      ],
+      "downloads": 545,
+      "file": "books/leconservateurco00unse.pdf",
+      "source_pdf": "leconservateurco00unse.pdf"
+    },
+    {
+      "identifier": "secretsofcanning00schwrich",
+      "title": "The secrets of canning : a complete exposition of the theory and art of the canning industry",
+      "creator": "Schwaab, Ernest F",
+      "subjects": "Canning and preserving",
+      "date": "1890-01-01T00:00:00Z",
+      "description": "150 p. ; 20 cm",
+      "downloads": 1871,
+      "file": "books/secretsofcanning00schwrich.pdf",
+      "source_pdf": "secretsofcanning00schwrich.pdf"
+    },
+    {
+      "identifier": "apracticaltreat00brangoog",
+      "title": "A practical treatise on the manufacture of vinegar and acetates, cider, and fruit-wines; preservation of fruits and vegetables by canning and evaporation ..",
+      "creator": "Brannt, William T. (William Theodore), 1844-",
+      "subjects": [
+        "vinegar",
+        "acetic",
+        "acid",
+        "alcohol",
+        "fluid",
+        "quantity",
+        "alcoholic",
+        "ferment",
+        "acetate",
+        "preparation",
+        "acetic acid",
+        "alcoholic liquid",
+        "vinegar ferment",
+        "specific gravity",
+        "small quantity",
+        "sulphuric acid",
+        "henry carey",
+        "carbonic acid",
+        "greater portion",
+        "short time",
+        "Vinegar",
+        "Acetic acid",
+        "Fruit",
+        "Wine and wine making",
+        "Canning and preserving",
+        "Acetic Acid",
+        "Wine"
+      ],
+      "date": "1890-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of the University of California and uploaded to the Internet Archive by user tpb.",
+        "xxxii, 17-479 pages 24 cm"
+      ],
+      "downloads": 774,
+      "file": "books/apracticaltreat00brangoog.pdf",
+      "source_pdf": "apracticaltreat00brangoog.pdf"
+    },
+    {
+      "identifier": "cu31924089587129",
+      "title": "A little preserving book for a little girl",
+      "creator": "Waterman, Amy Harlow Lane, 1873-",
+      "subjects": "Canning and preserving",
+      "date": "1920-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Includes index",
+        "197 p. ; 19 cm"
+      ],
+      "downloads": 831,
+      "file": "books/cu31924089587129.pdf",
+      "source_pdf": "cu31924089587129.pdf"
+    },
+    {
+      "identifier": "preservationoffo00abel",
+      "title": "The preservation of food",
+      "creator": [
+        "Abel, Ambrose",
+        "Smith, E. Goodrich (Elizur Goodrich), 1802-1873"
+      ],
+      "subjects": "Canning and preserving",
+      "date": "1857-01-01T00:00:00Z",
+      "description": "Bound with v. 10, no. 1-v. 10, no. 11 subsequent to publication",
+      "downloads": 887,
+      "file": "books/preservationoffo00abel.pdf",
+      "source_pdf": "preservationoffo00abel.pdf"
+    },
+    {
+      "identifier": "preservingcannin00ries",
+      "title": "Preserving and canning; a book for the home economist",
+      "creator": "Riesenberg, Emily (Schorb), 1855- [from old catalog]",
+      "subjects": "Canning and preserving",
+      "date": "1914-01-01T00:00:00Z",
+      "description": "3 p.l., 5-104 p. 17 cm",
+      "downloads": 875,
+      "file": "books/preservingcannin00ries.pdf",
+      "source_pdf": "preservingcannin00ries.pdf"
+    },
+    {
+      "identifier": "timetablesforhom24unit",
+      "title": "Time-tables for home canning of fruits and vegetables",
+      "creator": "United States. Bureau of Human Nutrition and Home Economics",
+      "subjects": "Canning and preserving",
+      "date": "1924-01-01T00:00:00Z",
+      "description": "Caption title",
+      "downloads": 499,
+      "file": "books/timetablesforhom24unit.pdf",
+      "source_pdf": "timetablesforhom24unit.pdf"
+    },
+    {
+      "identifier": "steampressurecan1937unit",
+      "title": "The steam pressure canner",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": "Canning and preserving",
+      "date": "1937-01-01T00:00:00Z",
+      "description": "\"Friday, May 21, 1937.\"",
+      "downloads": 198,
+      "file": "books/steampressurecan1937unit.pdf",
+      "source_pdf": "steampressurecan1937unit.pdf"
+    },
+    {
+      "identifier": "questionsanswers1935unit_25",
+      "title": "Questions and answers",
+      "creator": [
+        "United States. Department of Agriculture. Radio Service",
+        "United States. Bureau of Home Economics"
+      ],
+      "subjects": [
+        "Pies",
+        "Baking",
+        "Canning and preserving",
+        "Fruit juices",
+        "Home economics"
+      ],
+      "date": "1935-01-01T00:00:00Z",
+      "description": "\"Tuesday, July 16, 1935\"",
+      "downloads": 166,
+      "file": "books/questionsanswers1935unit_25.pdf",
+      "source_pdf": "questionsanswers1935unit_25.pdf"
+    },
+    {
+      "identifier": "questionboxinfo1942unit_0",
+      "title": "Question-box : information from scientists and chemists of the U.S. Department of Agriculture",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": [
+        "Food Storage",
+        "Canning and preserving",
+        "Food Drying",
+        "Dried fruit",
+        "Food"
+      ],
+      "date": "1942-01-01T00:00:00Z",
+      "description": [
+        "Caption title",
+        "\"July 28, 1942.\""
+      ],
+      "downloads": 200,
+      "file": "books/questionboxinfo1942unit_0.pdf",
+      "source_pdf": "questionboxinfo1942unit_0.pdf"
+    },
+    {
+      "identifier": "questionboxansw943unit_65",
+      "title": "Question box : answers from plant scientists and home economists of the U.S. Department of Agriculture",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": [
+        "Fruit juices",
+        "Ketchup",
+        "Canning and preserving"
+      ],
+      "date": "1943-01-01T00:00:00Z",
+      "description": [
+        "Caption title",
+        "\"September 7, 1943.\""
+      ],
+      "downloads": 182,
+      "file": "books/questionboxansw943unit_65.pdf",
+      "source_pdf": "questionboxansw943unit_65.pdf"
+    },
+    {
+      "identifier": "savegardensurplu1941unit",
+      "title": "Save the garden surplus",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": [
+        "Canning and preserving",
+        "Canned vegetables"
+      ],
+      "date": "1941-01-01T00:00:00Z",
+      "description": [
+        "Caption title",
+        "\"August 22, 1941.\""
+      ],
+      "downloads": 245,
+      "file": "books/savegardensurplu1941unit.pdf",
+      "source_pdf": "savegardensurplu1941unit.pdf"
+    },
+    {
+      "identifier": "CAT31418717",
+      "title": "Preserving eggs for home use",
+      "creator": "United States. Bureau of Animal Industry. Animal Husbandry Division, author",
+      "subjects": [
+        "4-H clubs",
+        "Poultry industry",
+        "Eggs",
+        "Canning and preserving"
+      ],
+      "date": "1918-01-01T00:00:00Z",
+      "description": [
+        "3 pages : 23 cm",
+        "At head of title: \"Cooperative Extension Work in Agriculture and Home Economics. U.S. Dept. of Agriculture and State Agricultural Colleges cooperating. Boys' and Girls' Club Work.\"",
+        "\"Cricular 12, Office of Extension Work, North and West States Relations Service.\""
+      ],
+      "downloads": 186,
+      "file": "books/CAT31418717.pdf",
+      "source_pdf": "CAT31418717.pdf"
+    },
+    {
+      "identifier": "canningquestions1934unit",
+      "title": "Canning questions",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": [
+        "Canning and preserving",
+        "Home economics"
+      ],
+      "date": "1934-01-01T00:00:00Z",
+      "description": "\"Tuesday, June 5, 1934.\"",
+      "downloads": 203,
+      "file": "books/canningquestions1934unit.pdf",
+      "source_pdf": "canningquestions1934unit.pdf"
+    },
+    {
+      "identifier": "cabbagekraut1940unit",
+      "title": "Cabbage and kraut",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": [
+        "Cabbage",
+        "Sauerkraut",
+        "Canning and preserving"
+      ],
+      "date": "1940-01-01T00:00:00Z",
+      "description": [
+        "Caption title",
+        "\"October 4, 1940.\""
+      ],
+      "downloads": 268,
+      "file": "books/cabbagekraut1940unit.pdf",
+      "source_pdf": "cabbagekraut1940unit.pdf"
+    },
+    {
+      "identifier": "b32790983",
+      "title": "Every step in canning : the cold-pack method",
+      "creator": "Gray, Grace Viall",
+      "subjects": [
+        "Food Preservation",
+        "Canning and preserving"
+      ],
+      "date": "1919-01-01T00:00:00Z",
+      "description": "vii pages, 1 leaf, 11-253 pages ; 20 cm",
+      "downloads": 298,
+      "file": "books/b32790983.pdf",
+      "source_pdf": "b32790983.pdf"
+    },
+    {
+      "identifier": "canningpreservin00carv",
+      "title": "The canning and preserving of fruits and vegtables in the home",
+      "creator": "Carver, George W. [from old catalog]",
+      "subjects": "Canning and preserving",
+      "date": "1912-01-01T00:00:00Z",
+      "description": "8 p. 22 cm",
+      "downloads": 750,
+      "file": "books/canningpreservin00carv.pdf",
+      "source_pdf": "canningpreservin00carv.pdf"
+    },
+    {
+      "identifier": "CAT11013959",
+      "title": "Kerr home canning book",
+      "creator": [
+        "Weyant, Zella Hale",
+        "Kerr Glass Manufacturing Corporation"
+      ],
+      "subjects": "Canning and preserving",
+      "date": "1945-01-01T00:00:00Z",
+      "description": [
+        "Cover tile",
+        "Prepared by Zella Hale Weyant",
+        "Includes index"
+      ],
+      "downloads": 18524,
+      "file": "books/CAT11013959.pdf",
+      "source_pdf": "CAT11013959.pdf"
+    },
+    {
+      "identifier": "CAT11013985",
+      "title": "Successful canning and preserving:practical hand book for schools, clubs, and home use",
+      "creator": "Powell, Ola, b. 1889",
+      "subjects": "Canning and preserving",
+      "date": "1919-01-01T00:00:00Z",
+      "description": [
+        "Includes index",
+        "Bibliography at end of most of the chapters"
+      ],
+      "downloads": 700,
+      "file": "books/CAT11013985.pdf",
+      "source_pdf": "CAT11013985.pdf"
+    },
+    {
+      "identifier": "CAT31307022",
+      "title": "To Canning Club girls in the south ...",
+      "creator": [
+        "United States. Department of Agriculture",
+        "Creswell, Mary E. (Mary Ethel), 1878-",
+        "Powell, Ola, 1889-",
+        "United States. Office of Extension Work in the South"
+      ],
+      "subjects": "Canning and preserving",
+      "date": "1915-01-01T00:00:00Z",
+      "description": [
+        "Caption title",
+        "\"June 15, 1915.\""
+      ],
+      "downloads": 235,
+      "file": "books/CAT31307022.pdf",
+      "source_pdf": "CAT31307022.pdf"
+    },
+    {
+      "identifier": "recipesforprese00conggoog",
+      "title": "Recipes for the preserving of fruit, vegetables, and meat",
+      "creator": [
+        "Wagner, E. (Eduard), b. 1864",
+        "Katherine Golden Bitting Collection on Gastronomy (Library of Congress) DLC"
+      ],
+      "subjects": [
+        "Canning and preserving",
+        "cbk"
+      ],
+      "date": "1908-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of the University of California and uploaded to the Internet Archive by user tpb.",
+        "Translation of: Die Konserven",
+        "Publisher's advertisements on 24 p. at end",
+        "Bitting, K.G. Gastronomic bib.",
+        "Includes index",
+        "Source: Gift of A.W. Bitting, presented in memory of Katherine Golden Bitting, Oct. 6, 1939"
+      ],
+      "downloads": 766,
+      "file": "books/recipesforprese00conggoog.pdf",
+      "source_pdf": "recipesforprese00conggoog.pdf"
+    },
+    {
+      "identifier": "preservationoffo00ohio",
+      "title": "Preservation of food; canning, preserving, drying an preserving, drying and preserving of eggs",
+      "creator": [
+        "[Ohio. State university, Columbus. Dept. of home economics] [from old catalog]",
+        "Ohio. State council of defense, 1917-1918. [from old catalog]"
+      ],
+      "subjects": [
+        "Food conservation",
+        "Canning and preserving",
+        "Eggs",
+        "cbk"
+      ],
+      "date": "1917-01-01T00:00:00Z",
+      "description": "16 p. 23 cm",
+      "downloads": 2932,
+      "file": "books/preservationoffo00ohio.pdf",
+      "source_pdf": "preservationoffo00ohio.pdf"
+    },
+    {
+      "identifier": "cu31924003559550",
+      "title": "Home and farm food preservation",
+      "creator": "Cruess, W. V. (William Vere), 1886-1968",
+      "subjects": "Canning and preserving",
+      "date": "1918-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "\"References on home canning\": p. 260-267"
+      ],
+      "downloads": 1204,
+      "file": "books/cu31924003559550.pdf",
+      "source_pdf": "cu31924003559550.pdf"
+    },
+    {
+      "identifier": "cu31924085803793",
+      "title": "Ayer's preserve book",
+      "creator": "Dr. J.C. Ayer & Co",
+      "subjects": [
+        "Canning and preserving",
+        "Jelly",
+        "Cookery",
+        "Pickles",
+        "Medicine, Popular",
+        "cbk"
+      ],
+      "date": "1893-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Cover title",
+        "Includes index",
+        "Verso of each p. is advertisement for the Co.'s medicinal and personal care products",
+        "32 p. : 20 cm"
+      ],
+      "downloads": 995,
+      "file": "books/cu31924085803793.pdf",
+      "source_pdf": "cu31924085803793.pdf"
+    },
+    {
+      "identifier": "artediconservare00appe",
+      "title": "Arte di conservare tutte le sostanze animale e vegetabili per molti anni : opera sottoposta al guidizio del Consiglio delle arti, e manifatture, e dal medesimo approvata ...",
+      "creator": "Appert, Nicolas, 1749-1841",
+      "subjects": [
+        "Canning and preserving",
+        "Canned foods"
+      ],
+      "date": "1810-01-01T00:00:00Z",
+      "description": [
+        "84 p., [1] folded leaf of plates : 21 cm",
+        "Includes index"
+      ],
+      "downloads": 162,
+      "file": "books/artediconservare00appe.pdf",
+      "source_pdf": "artediconservare00appe.pdf"
+    },
+    {
+      "identifier": "makingjellyfroms1930unit",
+      "title": "Making jelly from summer fruits",
+      "creator": [
+        "United States. Department of Agriculture. Radio Service",
+        "United States. Bureau of Home Economics"
+      ],
+      "subjects": [
+        "Canning and preserving",
+        "Jelly"
+      ],
+      "date": "1930-01-01T00:00:00Z",
+      "description": "\"June 26, 1930.\"",
+      "downloads": 237,
+      "file": "books/makingjellyfroms1930unit.pdf",
+      "source_pdf": "makingjellyfroms1930unit.pdf"
+    },
+    {
+      "identifier": "meatcanning1937unit",
+      "title": "Meat canning",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": [
+        "Canning and preserving",
+        "Canned meat",
+        "Home economics"
+      ],
+      "date": "1937-01-01T00:00:00Z",
+      "description": "\"Friday, January 15, 1937.\"",
+      "downloads": 300,
+      "file": "books/meatcanning1937unit.pdf",
+      "source_pdf": "meatcanning1937unit.pdf"
+    },
+    {
+      "identifier": "blitssformulas00blit",
+      "title": "Blits's formulas",
+      "creator": "Blits, H. I. [from old catalog]",
+      "subjects": "Canning and preserving",
+      "date": "1887-01-01T00:00:00Z",
+      "description": "cover-title, 8 p. 23 cm",
+      "downloads": 562,
+      "file": "books/blitssformulas00blit.pdf",
+      "source_pdf": "blitssformulas00blit.pdf"
+    },
+    {
+      "identifier": "everywomanscann00hughgoog",
+      "title": "Everywomans canning book; the A B C of safe home canning and preserving",
+      "creator": "Hughes, Mary B. (Mary Burke), b. 1885",
+      "subjects": "Canning and preserving",
+      "date": "1918-01-01T00:00:00Z",
+      "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+      "downloads": 498,
+      "file": "books/everywomanscann00hughgoog.pdf",
+      "source_pdf": "everywomanscann00hughgoog.pdf"
+    },
+    {
+      "identifier": "creamstyleversus1936unit",
+      "title": "Cream-style versus whole-grain",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": [
+        "Canning and preserving",
+        "Corn",
+        "Home economics"
+      ],
+      "date": "1936-01-01T00:00:00Z",
+      "description": "\"Friday, July 10, 1936.\"",
+      "downloads": 206,
+      "file": "books/creamstyleversus1936unit.pdf",
+      "source_pdf": "creamstyleversus1936unit.pdf"
+    },
+    {
+      "identifier": "treatiseonfoodco00snyd",
+      "title": "A treatise on food conservation and the art of canning",
+      "creator": "Snyder, Sherwood P., Mrs., b. 1883",
+      "subjects": [
+        "Canning and preserving",
+        "Menus"
+      ],
+      "date": "1917-01-01T00:00:00Z",
+      "description": "6 p.l., [17]-205 p. 20 cm",
+      "downloads": 846,
+      "file": "books/treatiseonfoodco00snyd.pdf",
+      "source_pdf": "treatiseonfoodco00snyd.pdf"
+    },
+    {
+      "identifier": "pickletroubles1931unit",
+      "title": "Pickle troubles",
+      "creator": [
+        "United States. Department of Agriculture. Radio Service",
+        "United States. Bureau of Home Economics"
+      ],
+      "subjects": [
+        "Canning and preserving",
+        "Pickles Varieties",
+        "Formulas, recipes, etc"
+      ],
+      "date": "1931-01-01T00:00:00Z",
+      "description": "\"July 28, 1931.\"",
+      "downloads": 208,
+      "file": "books/pickletroubles1931unit.pdf",
+      "source_pdf": "pickletroubles1931unit.pdf"
+    },
+    {
+      "identifier": "homeandfarmfood00cruegoog",
+      "title": "Home and farm food preservation",
+      "creator": "Cruess, W. V. (William Vere), 1886-1968",
+      "subjects": "Canning and preserving",
+      "date": "1918-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of University of California and uploaded to the Internet Archive by user tpb.",
+        "\"References on home canning\": p. 260-267"
+      ],
+      "downloads": 1408,
+      "file": "books/homeandfarmfood00cruegoog.pdf",
+      "source_pdf": "homeandfarmfood00cruegoog.pdf"
+    },
+    {
+      "identifier": "homefarmpreparat37josl",
+      "title": "Home and farm preparation of pickles",
+      "creator": "Joslyn, Maynard A. (Maynard Alexander), 1904-1984",
+      "subjects": [
+        "Canning and preserving",
+        "Pickles"
+      ],
+      "date": "1929-01-01T00:00:00Z",
+      "description": "30 p. : 23 cm",
+      "downloads": 727,
+      "file": "books/homefarmpreparat37josl.pdf",
+      "source_pdf": "homefarmpreparat37josl.pdf"
+    },
+    {
+      "identifier": "homecanningrecip00butl",
+      "title": "Home canning recipes & instructions ..",
+      "creator": "Butler mfg. co. [from old catalog]",
+      "subjects": "Canning and preserving",
+      "date": "1917-01-01T00:00:00Z",
+      "description": "16 p. 23 cm",
+      "downloads": 1191,
+      "file": "books/homecanningrecip00butl.pdf",
+      "source_pdf": "homecanningrecip00butl.pdf"
+    },
+    {
+      "identifier": "questionboxansw941unit_19",
+      "title": "Question box : answers from home economists of the U.S. Department of Agriculture and scientists of the New York State Experiment Station",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": [
+        "Sauerkraut",
+        "Ketchup",
+        "Canning and preserving"
+      ],
+      "date": "1941-01-01T00:00:00Z",
+      "description": [
+        "Caption title",
+        "\"September 16, 1941.\""
+      ],
+      "downloads": 253,
+      "file": "books/questionboxansw941unit_19.pdf",
+      "source_pdf": "questionboxansw941unit_19.pdf"
+    },
+    {
+      "identifier": "questionsoncanni1933unit",
+      "title": "Questions on canning corn",
+      "creator": [
+        "United States. Department of Agriculture. Radio Service",
+        "United States. Bureau of Home Economics"
+      ],
+      "subjects": [
+        "Canning and preserving",
+        "Sweet corn",
+        "Cooking (Corn)"
+      ],
+      "date": "1933-01-01T00:00:00Z",
+      "description": "\"Thursday, August 24, 1933.\"",
+      "downloads": 182,
+      "file": "books/questionsoncanni1933unit.pdf",
+      "source_pdf": "questionsoncanni1933unit.pdf"
+    },
+    {
+      "identifier": "finepointsinjell1930unit",
+      "title": "Fine points in jelly making",
+      "creator": [
+        "United States. Department of Agriculture. Radio Service",
+        "United States. Bureau of Home Economics"
+      ],
+      "subjects": [
+        "Canning and preserving",
+        "Jelly",
+        "Menus Planning",
+        "Cooking (Fish)"
+      ],
+      "date": "1930-01-01T00:00:00Z",
+      "description": "\"June 13, 1930.\"",
+      "downloads": 214,
+      "file": "books/finepointsinjell1930unit.pdf",
+      "source_pdf": "finepointsinjell1930unit.pdf"
+    },
+    {
+      "identifier": "timelysuggestion1928unit",
+      "title": "Timely suggestions for homekeepers, menu and tested recipes",
+      "creator": [
+        "United States. Department of Agriculture. Radio Service",
+        "United States. Bureau of Home Economics"
+      ],
+      "subjects": [
+        "Canning and preserving",
+        "Cockroaches Control",
+        "Draperies Varieties",
+        "House cleaning",
+        "Menus Planning",
+        "Formulas, recipes, etc"
+      ],
+      "date": "1928-01-01T00:00:00Z",
+      "description": "\"Monday, June 4, or later.\"",
+      "downloads": 678,
+      "file": "books/timelysuggestion1928unit.pdf",
+      "source_pdf": "timelysuggestion1928unit.pdf"
+    },
+    {
+      "identifier": "CAT31418281",
+      "title": "Home canning instructions : methods and devices",
+      "creator": "Benson, O. H. (Oscar Herman), 1875-1951",
+      "subjects": [
+        "Canning and preserving",
+        "Canning and preserving Equipment and supplies"
+      ],
+      "date": "1915-01-01T00:00:00Z",
+      "description": [
+        "6 pages : 27 cm",
+        "Caption title",
+        "At head of title: Cooperative extension work in agriculture and home economics",
+        "\"Form NR-33.\""
+      ],
+      "downloads": 313,
+      "file": "books/CAT31418281.pdf",
+      "source_pdf": "CAT31418281.pdf"
+    },
+    {
+      "identifier": "CAT31418361",
+      "title": "Boys' and girls' club work : Some home canning difficulties and how to avoid them",
+      "creator": "Benson, O. H. (Oscar Herman), 1875-1951, author",
+      "subjects": [
+        "Agricultural extension work United States",
+        "Canning and preserving",
+        "4-H clubs"
+      ],
+      "date": "1917-01-01T00:00:00Z",
+      "description": [
+        "4 pages ; 27 cm",
+        "Caption title",
+        "NR-29"
+      ],
+      "downloads": 293,
+      "file": "books/CAT31418361.pdf",
+      "source_pdf": "CAT31418361.pdf"
+    },
+    {
+      "identifier": "cabbagekraut1940unit_0",
+      "title": "Cabbage and kraut",
+      "creator": [
+        "United States. Department of Agriculture. Press Service",
+        "United States. Department of Agriculture. Office of Information",
+        "United States. Extension Service"
+      ],
+      "subjects": [
+        "Sauerkraut",
+        "Canning and preserving"
+      ],
+      "date": "1940-01-01T00:00:00Z",
+      "description": "1 l. ; 27 cm",
+      "downloads": 221,
+      "file": "books/cabbagekraut1940unit_0.pdf",
+      "source_pdf": "cabbagekraut1940unit_0.pdf"
+    },
+    {
+      "identifier": "canningquestions1940unit",
+      "title": "Canning questions",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": "Canning and preserving",
+      "date": "1940-01-01T00:00:00Z",
+      "description": [
+        "Caption title",
+        "\"Thursday, August 8, 1940.\""
+      ],
+      "downloads": 274,
+      "file": "books/canningquestions1940unit.pdf",
+      "source_pdf": "canningquestions1940unit.pdf"
+    },
+    {
+      "identifier": "canningtomatoes1933unit",
+      "title": "Canning tomatoes",
+      "creator": [
+        "United States. Department of Agriculture. Radio Service",
+        "United States. Bureau of Home Economics"
+      ],
+      "subjects": [
+        "Canning and preserving",
+        "Canned tomatoes"
+      ],
+      "date": "1933-01-01T00:00:00Z",
+      "description": "\"Friday, August 25, 1933.\"",
+      "downloads": 269,
+      "file": "books/canningtomatoes1933unit.pdf",
+      "source_pdf": "canningtomatoes1933unit.pdf"
+    },
+    {
+      "identifier": "CAT31307014",
+      "title": "To county agents and Canning Club girls ...",
+      "creator": [
+        "United States. Bureau of Plant Industry",
+        "Creswell, Mary E. (Mary Ethel), 1878-",
+        "Powell, Ola, 1889-"
+      ],
+      "subjects": "Canning and preserving",
+      "date": "1915-01-01T00:00:00Z",
+      "description": [
+        "Caption title",
+        "\"June 15, 1915.\""
+      ],
+      "downloads": 204,
+      "file": "books/CAT31307014.pdf",
+      "source_pdf": "CAT31307014.pdf"
+    },
+    {
+      "identifier": "warfoodpractica00handgoog",
+      "title": "War food; practical and economical methods of keeping vegetables, fruits and meats",
+      "creator": "Handy, Amy L. (Amy Littlefield)",
+      "subjects": [
+        "Canning and preserving",
+        "Fruit"
+      ],
+      "date": "1917-01-01T00:00:00Z",
+      "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+      "downloads": 1160,
+      "file": "books/warfoodpractica00handgoog.pdf",
+      "source_pdf": "warfoodpractica00handgoog.pdf"
+    },
+    {
+      "identifier": "P010854",
+      "title": "Home canning of fruits, vegetables, meats",
+      "creator": "Alberta.:author",
+      "subjects": "Home canning of fruits, vegetables, meats",
+      "date": "1920-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 109,
+      "file": "books/P010854.pdf",
+      "source_pdf": "P010854.pdf"
+    },
+    {
+      "identifier": "cruess-home-pickling-olives-1945",
+      "title": "Cruess - Home Pickling of Olives 1945",
+      "creator": "W. V. Cruess and Reese H. Vaughn",
+      "subjects": [
+        "agricultural experiment stations",
+        "agriculture",
+        "olives",
+        "pickling",
+        "USPC 426/654"
+      ],
+      "date": "1945-10-01T00:00:00Z",
+      "description": "The Home Pickling of Olives, W. V. Cruess and Reese H. Vaughn, Agricultural Experiment Station, University of California, Berkeley, California, October 1945.",
+      "downloads": 17,
+      "file": "books/cruess-home-pickling-olives-1945.pdf",
+      "source_pdf": "Cruess_Home_Pickling_Olives_1945.pdf"
+    },
+    {
+      "identifier": "picklingpointers1933unit",
+      "title": "Pickling pointers",
+      "creator": [
+        "United States. Department of Agriculture. Radio Service",
+        "United States. Bureau of Home Economics"
+      ],
+      "subjects": [
+        "Fruit Pickling",
+        "Vegetables Pickling",
+        "Canning and preserving"
+      ],
+      "date": "1933-01-01T00:00:00Z",
+      "description": "\"Friday, August 11, 1933.\"",
+      "downloads": 566,
+      "file": "books/picklingpointers1933unit.pdf",
+      "source_pdf": "picklingpointers1933unit.pdf"
+    },
+    {
+      "identifier": "HomePickling",
+      "title": "Home Pickling",
+      "creator": null,
+      "subjects": [
+        "pickle",
+        "pickling"
+      ],
+      "date": "1947-01-01T00:00:00Z",
+      "description": "How to pickle meat, vegetables, etc. at home",
+      "downloads": 347,
+      "file": "books/HomePickling.pdf",
+      "source_pdf": "Home Pickling.pdf"
+    },
+    {
+      "identifier": "MakingFermentedPickles",
+      "title": "Making Fermented Pickles",
+      "creator": "Edwin LeFevre",
+      "subjects": [
+        "USDA",
+        "Farm",
+        "Pickle",
+        "Pickles",
+        "Pickling",
+        "Cucumber",
+        "Preservation",
+        "Vinegar",
+        "Salt",
+        "Sauerkraut",
+        "Cabbage",
+        "Dill",
+        "Sweet",
+        "Brining",
+        "Salinometer",
+        "Crock",
+        "DIY",
+        "Health",
+        "Food",
+        "Science",
+        "Fermentation",
+        "Ferment",
+        "Gastronomy"
+      ],
+      "date": "1924-08-01T00:00:00Z",
+      "description": "U.S. Department of Agriculture, Farmers' Bulletin No.1438: Making Fermented Pickles. August 1924. Text covers brining, preservation, salt pickles, sour pickles, dill pickles, sauerkraut, fermentation and salting of vegetables, coloring and hardening agents, etc. Includes illustrations and tables. As a publication of the Federal Government it is my understanding that this item is in the public domain. Digitized by Cornell's Frank A. Lee Library, NYSAES, Geneva NY.",
+      "downloads": 963,
+      "file": "books/MakingFermentedPickles.pdf",
+      "source_pdf": "MakingFermentedPickles.pdf"
+    },
+    {
+      "identifier": "gardenrelishes1933unit",
+      "title": "Garden relishes",
+      "creator": [
+        "United States. Department of Agriculture. Radio Service",
+        "United States. Bureau of Home Economics"
+      ],
+      "subjects": [
+        "Canned tomatoes",
+        "Vegetables Pickling",
+        "Cooking (Relishes)"
+      ],
+      "date": "1933-01-01T00:00:00Z",
+      "description": "\"Friday, September 8, 1933.\"",
+      "downloads": 215,
+      "file": "books/gardenrelishes1933unit.pdf",
+      "source_pdf": "gardenrelishes1933unit.pdf"
+    },
+    {
+      "identifier": "ohio-state-university-pickles-pickling-1930",
+      "title": "Ohio State University - Pickles and Pickling 1930",
+      "creator": "Lelia C. Ogle",
+      "subjects": [
+        "bulletin",
+        "pickles",
+        "pickling",
+        "cookbooks"
+      ],
+      "date": "1930-01-01T00:00:00Z",
+      "description": "Pickles and Pickling, Lelia C. Ogle, Bulletin No. 106, Agricultural Extension Service, Ohio State University, Columbus, Ohio, 1930.",
+      "downloads": 26,
+      "file": "books/ohio-state-university-pickles-pickling-1930.pdf",
+      "source_pdf": "Ohio_State_University_Pickles_Pickling_1930.pdf"
+    },
+    {
+      "identifier": "CAT87202796",
+      "title": "Preservation of vegetables by fermentation and salting",
+      "creator": "Round, L. A. (Lester Angell)",
+      "subjects": [
+        "Vegetables Preservation",
+        "Canning and preserving",
+        "food processing",
+        "food preservation",
+        "salting",
+        "pickling",
+        "fermented foods",
+        "fermentation",
+        "brining",
+        "vegetables",
+        "sauerkraut",
+        "pickled vegetables",
+        "recipes",
+        "pickled foods",
+        "vegetable products",
+        "salted foods",
+        "cucumbers",
+        "beans",
+        "tomatoes",
+        "beets",
+        "cabbage",
+        "corn",
+        "peas",
+        "turnips",
+        "turnip greens",
+        "Vegetables -- Preservation"
+      ],
+      "date": "1917-01-01T00:00:00Z",
+      "description": [
+        "15 pages : 23 cm",
+        "Cover title",
+        "\"Contribution from the States Relations Service ... and Bureau of Chemistry.\"",
+        "Recipes: p. 13-15"
+      ],
+      "downloads": 925,
+      "file": "books/CAT87202796.pdf",
+      "source_pdf": "farmbul0881.pdf"
+    },
+    {
+      "identifier": "food-conservation-and-the-art-of-canning",
+      "title": "Food Conservation And The Art Of Canning",
+      "creator": "Sherwood Snyder",
+      "subjects": [
+        "Canning",
+        "Soups",
+        "Meats",
+        "Fruits",
+        "Jellies",
+        "Preserves"
+      ],
+      "date": "1917-01-01T00:00:00Z",
+      "description": "This special edition of \"Food Conservation and the Art of Canning\" was written by Mrs. Sherwood P. Snyder, and first published in 1917. The book is filled with historic information on the art of canning and preserving food, and the different methods that can be utilized for food preservation at home. An interesting look into how things were done a hundred years ago, and all the fundamentals we still use today. Includes chapters on The Steam Pressure Canner, Hot Water Bath Canners, The Wash Boiler, Glass Jars, The Best Utensils for Canning Acid Food, A Few of the Essentials for Successful Canning, Preserving Eggs, The Open Method of Canning, Instructions and Recipes for Canning...Soups, Meats, Fruits, Jellies, and Preserves, and many more.",
+      "downloads": 480,
+      "file": "books/food-conservation-and-the-art-of-canning.pdf",
+      "source_pdf": "Food Conservation and the Art of Canning.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_robin-hood_flour_folioTX714R641915-23391",
+      "title": "Robin Hood Flour Cook Book",
+      "creator": "Rorer, Sarah Tyson, 1849-1937, author",
+      "subjects": [
+        "Preserves",
+        "Beverages.",
+        "Puddings.",
+        "Desserts.",
+        "Pies.",
+        "Pastry.",
+        "Icings",
+        "Cake.",
+        "Bread.",
+        "Cereal",
+        "Salads.",
+        "Vegetables.",
+        "Eggs.",
+        "Sauces.",
+        "Poultry and Game",
+        "Meat.",
+        "Fishes.",
+        "Soups.",
+        "Flour mills -- Canada.",
+        "Flour.",
+        "Cooking -- Saskatchewan -- Moose Jaw.",
+        "Cooking, Canadian.",
+        "Beverages",
+        "Bread",
+        "Vegetables",
+        "Eggs",
+        "Meat",
+        "Fishes",
+        "Flour",
+        "Boissons.",
+        "Tartes.",
+        "Pâtisserie.",
+        "Pain.",
+        "Salades.",
+        "Légumes.",
+        "Œufs.",
+        "Viande.",
+        "Poissons.",
+        "Soupes.",
+        "Moulins à farine -- Canada.",
+        "Farine.",
+        "Cuisine canadienne.",
+        "McGill University Library Digitized Title",
+        "cookbook project 2024",
+        "Puddings",
+        "Desserts",
+        "Pies",
+        "Pastry",
+        "Cake",
+        "Salads",
+        "Sauces",
+        "Soups",
+        "Flour mills -- Canada",
+        "Cooking -- Saskatchewan -- Moose Jaw",
+        "Cooking, Canadian",
+        "Boissons",
+        "Tartes",
+        "Pâtisserie",
+        "Pain",
+        "Salades",
+        "Légumes",
+        "Œufs",
+        "Viande",
+        "Poissons",
+        "Soupes",
+        "Moulins à farine -- Canada",
+        "Farine",
+        "Cuisine canadienne",
+        "beverages",
+        "bread",
+        "Flour mills",
+        "Cooking",
+        "Saskatchewan -- Moose Jaw",
+        "Canada"
+      ],
+      "date": "1915-01-01T00:00:00Z",
+      "description": [
+        "80 pages : colour illustrations ; 27 cm",
+        "80 pages : 27 cm",
+        "Paper with cloth spine, hole in upper left corner for cord"
+      ],
+      "downloads": 210,
+      "file": "books/McGillLibrary-rbsc_robin-hood_flour_folioTX714R641915-23391.pdf",
+      "source_pdf": "rbsc_robin-hood_flour_folioTX714R641915.pdf"
+    },
+    {
+      "identifier": "bookpreserves00goufgoog",
+      "title": "The Book of Preserves",
+      "creator": "Jules Gouffe",
+      "subjects": [
+        "boil",
+        "paste",
+        "syrup",
+        "sugar",
+        "water",
+        "pour",
+        "add",
+        "preserves",
+        "directed",
+        "pounded",
+        "syrup registering",
+        "cold water",
+        "pounded sugar",
+        "hair sieve",
+        "boiling water",
+        "silk sieve",
+        "fine hair",
+        "lemon juice",
+        "equal quantity",
+        "loaf sugar"
+      ],
+      "date": "1871-01-01T00:00:00Z",
+      "description": "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
+      "downloads": 665,
+      "file": "books/bookpreserves00goufgoog.pdf",
+      "source_pdf": "bookpreserves00goufgoog.pdf"
+    },
+    {
+      "identifier": "homepreparationo02crue",
+      "title": "Home preparation of jelly and marmalade",
+      "creator": "Cruess, W. V. (William Vere), 1886-1968",
+      "subjects": [
+        "Jelly",
+        "Marmalade"
+      ],
+      "date": "1926-01-01T00:00:00Z",
+      "description": "22 p. : 22 cm",
+      "downloads": 1157,
+      "file": "books/homepreparationo02crue.pdf",
+      "source_pdf": "homepreparationo02crue.pdf"
+    },
+    {
+      "identifier": "CAT31307699",
+      "title": "Amber marmalade",
+      "creator": "United States. Department of Agriculture. Press Service, issuing body",
+      "subjects": [
+        "Marmalade",
+        "Cooking (Fruit) Home economics Miscellanea"
+      ],
+      "date": "1933-01-01T00:00:00Z",
+      "description": "Caption title",
+      "downloads": 197,
+      "file": "books/CAT31307699.pdf",
+      "source_pdf": "CAT31307699.pdf"
+    },
+    {
+      "identifier": "marmaladejuiceje243crue",
+      "title": "Marmalade juice and jelly juice from citrus fruits",
+      "creator": [
+        "Cruess, W. V. (William Vere), 1886-1968",
+        "Singh, Lal"
+      ],
+      "subjects": [
+        "Jelly",
+        "Marmalade",
+        "Citrus juices"
+      ],
+      "date": "1922-01-01T00:00:00Z",
+      "description": "8 p. : 24 cm",
+      "downloads": 568,
+      "file": "books/marmaladejuiceje243crue.pdf",
+      "source_pdf": "marmaladejuiceje243crue.pdf"
+    },
+    {
+      "identifier": "jelliesmarmalade146crue",
+      "title": "Jellies and marmalades from citrus fruits",
+      "creator": "Cruess, W. V. (William Vere), 1886-1968",
+      "subjects": [
+        "Marmalade",
+        "Jelly"
+      ],
+      "date": "1916-01-01T00:00:00Z",
+      "description": "8 p. : 24 cm",
+      "downloads": 406,
+      "file": "books/jelliesmarmalade146crue.pdf",
+      "source_pdf": "jelliesmarmalade146crue.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_recipes-for-making-perfect-jams_TX612J3R431922-25345",
+      "title": "Recipes for making perfect jams, jellies and marmalades",
+      "creator": "Douglas Packing Co. Ltd.",
+      "subjects": [
+        "Jam.",
+        "Jelly.",
+        "Marmalade.",
+        "Pectin.",
+        "Cooking (Fruit)",
+        "Confitures.",
+        "Gelées (Confiserie)",
+        "Marmelades.",
+        "Pectine.",
+        "Cuisine (Fruits)",
+        "McGill University Library Digitized Title",
+        "cookbook project 2024",
+        "Jam",
+        "Jelly",
+        "Marmalade",
+        "Pectin",
+        "Confitures",
+        "Marmelades",
+        "Pectine"
+      ],
+      "date": "1922-01-01T00:00:00Z",
+      "description": [
+        "[14] pages, [16] pages ; 17 cm",
+        "Cover title",
+        "Includes index"
+      ],
+      "downloads": 0,
+      "file": "books/McGillLibrary-rbsc_recipes-for-making-perfect-jams_TX612J3R431922-25345.pdf",
+      "source_pdf": "rbsc_recipes-for-making-perfect-jams_TX612J3R431922.pdf"
+    },
+    {
+      "identifier": "b22017884",
+      "title": "The art of preserving all kinds of animal and vegetable substances for several years",
+      "creator": "Appert, Nicolas, 1749-1841. n 85227850",
+      "subjects": "Food Preservation",
+      "date": "1811-01-01T00:00:00Z",
+      "description": "Translated from first French edition: L'Art de conserver les substances animals et végétales",
+      "downloads": 350,
+      "file": "books/b22017884.pdf",
+      "source_pdf": "b22017884.pdf"
+    },
+    {
+      "identifier": "b32185509",
+      "title": "Home curing of bacon and hams : a manual of theory and practice for instructors and others",
+      "creator": null,
+      "subjects": [
+        "Bacon",
+        "Ham",
+        "Meat -- Preservation",
+        "Food Preservation"
+      ],
+      "date": "1945-01-01T00:00:00Z",
+      "description": [
+        "[ii], 62 pages, 4 unnumbered pages of plates : 25 cm",
+        "Includes bibliographical references (p. 59)",
+        "First ed. published in 1943"
+      ],
+      "downloads": 304,
+      "file": "books/b32185509.pdf",
+      "source_pdf": "b32185509.pdf"
+    },
+    {
+      "identifier": "b28089844",
+      "title": "The art and mystery of curing, preserving, and potting all kinds of meats, game, and fish : also the art of pickling and the preservation of fruits and vegetables adapted as well for the wholesale dealer as all housekeepers",
+      "creator": "J. R., jr",
+      "subjects": "Food Preservation",
+      "date": "1864-01-01T00:00:00Z",
+      "description": "Pref. signed: J. R., junior (James Robinson, jr.?)",
+      "downloads": 362,
+      "file": "books/b28089844.pdf",
+      "source_pdf": "b28089844.pdf"
+    },
+    {
+      "identifier": "b29980768",
+      "title": "Appertizing, or, The art of canning : its history and development",
+      "creator": "Bitting, A. W. (Arvill Wayne), 1870-1946. n 86113671",
+      "subjects": [
+        "Food Preservation",
+        "Canning and preserving"
+      ],
+      "date": "1937-01-01T00:00:00Z",
+      "description": "852, v pages : 25 cm",
+      "downloads": 872,
+      "file": "books/b29980768.pdf",
+      "source_pdf": "b29980768.pdf"
+    },
+    {
+      "identifier": "artdeconserverle00rjlj",
+      "title": "Art de conserver les substances alimentaires, particulièrement employées dans l'économie domestique pour la nourriture des hommes : suivi des moyens de désinfecter celles qui seraient corrompues, et d'utiliser celles qui ne sont pas susceptibles d'être conservées",
+      "creator": "R., J.-L. (Jean-Louis Rousselon, author",
+      "subjects": [
+        "Canning and preserving",
+        "Food -- Preservation"
+      ],
+      "date": "1829-01-01T00:00:00Z",
+      "description": [
+        "[2], vi, 171, [1] pages ; 17 cm (12mo)",
+        "Includes index",
+        "Signatures: pi⁴ 1-7⁴/⁸ 8²",
+        "Initial leaf and final page blank"
+      ],
+      "downloads": 111,
+      "file": "books/artdeconserverle00rjlj.pdf",
+      "source_pdf": "artdeconserverle00rjlj.pdf"
+    },
+    {
+      "identifier": "dorrbuchleinfurh00mert",
+      "title": "Dörrbüchlein für haushalt und kleinbetrieb : Anleitung zum trocknen von obst und gemüse auf den geisenheimer sowie anderen trockenapparaten nebst schluszwort über die zubereitung der dörrgemüse in der küche.",
+      "creator": "Mertens, R. (Reinh.)",
+      "subjects": "Food preservation",
+      "date": "1907-01-01T00:00:00Z",
+      "description": "70 p. : cm",
+      "downloads": 487,
+      "file": "books/dorrbuchleinfurh00mert.pdf",
+      "source_pdf": "dorrbuchleinfurh00mert.pdf"
+    },
+    {
+      "identifier": "b30752267",
+      "title": "Specification of William Jayne : preserving eggs",
+      "creator": "Jayne, William, 1826-1916",
+      "subjects": [
+        "Eggs",
+        "Lime",
+        "Cream of tartar",
+        "Salt",
+        "Food Preservation",
+        "Great Britain"
+      ],
+      "date": "1855-01-01T00:00:00Z",
+      "description": [
+        "2 pages ; 28 cm",
+        "Patent for preserving \"the eggs of hens, turkeys, geese and ducks\" for up to two years with a mixture of salt, quicklime and cream of tartar",
+        "At head of title: A.D. 1791. No. 1791",
+        "\"William Jayne, of Sheffield, in the county of York, confectioner\""
+      ],
+      "downloads": 250,
+      "file": "books/b30752267.pdf",
+      "source_pdf": "b30752267.pdf"
+    },
+    {
+      "identifier": "freezingvegetabl1944unit",
+      "title": "Freezing vegetables and fruit from your garden",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": [
+        "Vegetable gardening",
+        "Food Preservation",
+        "Frozen foods",
+        "World War, 1939-1945 Food supply"
+      ],
+      "date": "1944-01-01T00:00:00Z",
+      "description": [
+        "Caption title",
+        "\"June 12, 1944.\""
+      ],
+      "downloads": 219,
+      "file": "books/freezingvegetabl1944unit.pdf",
+      "source_pdf": "freezingvegetabl1944unit.pdf"
+    },
+    {
+      "identifier": "stevenson-canning-lobsters-1898",
+      "title": "Stevenson - Canning Lobsters 1898",
+      "creator": "C. H. Stevenson",
+      "subjects": [
+        "lobsters",
+        "food preservation",
+        "Bureau of Fisheries"
+      ],
+      "date": "1898-01-01T00:00:00Z",
+      "description": "Canning Lobsters, From the Preservation of Fishery Products for Food, C. H. Stevenson, Bulletin of the U.S. Fish Commission, Washington, DC, 1898.",
+      "downloads": 31,
+      "file": "books/stevenson-canning-lobsters-1898.pdf",
+      "source_pdf": "Stevenson_Canning_Lobsters_1898.pdf"
+    },
+    {
+      "identifier": "CAT31413310",
+      "title": "Preserving eggs in water-glass solution and limewater",
+      "creator": "United States. Bureau of Animal Industry. Animal Husbandry Division",
+      "subjects": [
+        "Eggs",
+        "Food Preservation"
+      ],
+      "date": "1917-01-01T00:00:00Z",
+      "description": [
+        "2 pages ; 24 cm",
+        "Caption title"
+      ],
+      "downloads": 201,
+      "file": "books/CAT31413310.pdf",
+      "source_pdf": "CAT31413310.pdf"
+    },
+    {
+      "identifier": "questionboxansw942unit_20",
+      "title": "Question box : answers from scientists of the U.S. Department of Agriculture and Montana State Experiment Station",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": [
+        "Pickles Storage",
+        "Pork Storage",
+        "Food Preservation",
+        "Corn",
+        "Pickles",
+        "Pork",
+        "Food"
+      ],
+      "date": "1942-01-01T00:00:00Z",
+      "description": [
+        "Caption title",
+        "\"August 18, 1942.\""
+      ],
+      "downloads": 165,
+      "file": "books/questionboxansw942unit_20.pdf",
+      "source_pdf": "questionboxansw942unit_20.pdf"
+    },
+    {
+      "identifier": "b22038048",
+      "title": "L'art de conserver pendant plusieurs années, toutes les substances animales et végétales ...",
+      "creator": "Appert, Nicolas, 1749-1841. n 85227850",
+      "subjects": "Food Preservation",
+      "date": "1810-01-01T00:00:00Z",
+      "description": "Half-title: Le livre de tous les ménages, ou L'art de conserver, pendant plusieurs années, toutes les substances animales et végétales",
+      "downloads": 450,
+      "file": "books/b22038048.pdf",
+      "source_pdf": "b22038048.pdf"
+    },
+    {
+      "identifier": "artofpreservinga0000appe",
+      "title": "The art of preserving all kinds of animal and vegetable substances for several years",
+      "creator": "Appert, Nicolas, 1749-1841",
+      "subjects": [
+        "Canning and preserving",
+        "Food -- Preservation",
+        "Food Preservation",
+        "Canned foods"
+      ],
+      "date": "1812-01-01T00:00:00Z",
+      "description": [
+        "xxv, 164, [2], 36 p. : 20 cm",
+        "\"A work published by order of the French Minister of the Interior, on the report of the Board of Arts and Manufacturers .\"",
+        "Translation of: L'art de conserver pendant plusieurs années, toutes les substances animales et végétales",
+        "Publisher's booklist at end of text: [2], 36 p"
+      ],
+      "downloads": 126,
+      "file": "books/artofpreservinga0000appe.pdf",
+      "source_pdf": "artofpreservinga0000appe.pdf"
+    },
+    {
+      "identifier": "b21505974",
+      "title": "Canning, preserving and pickling",
+      "creator": [
+        "Neil, Marion Harris",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Food Preservation",
+      "date": "1914-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 815,
+      "file": "books/b21505974.pdf",
+      "source_pdf": "b21505974.pdf"
+    },
+    {
+      "identifier": "CAT31307544",
+      "title": "Jelly making : a radio talk by Fanny Walker Yeatman, Junior home economics specialist, Bureau of Home Economics, delivered through WRC and 16 other radio stations associated with the National Broadcasting Company, at 1:35 P.M. Eastern Standard Time, Thursday, June 13, 1929",
+      "creator": [
+        "Yeatman, Fanny Walker, 1876-",
+        "United States. Bureau of Home Economics",
+        "WRC (Radio station : Washington, D.C.)"
+      ],
+      "subjects": [
+        "Jelly",
+        "Jam",
+        "Cooking (Fruit) Canning and preserving",
+        "Radio addresses, debates, etc",
+        "United States"
+      ],
+      "date": "1929-01-01T00:00:00Z",
+      "description": [
+        "Mimeograph",
+        "Caption title"
+      ],
+      "downloads": 275,
+      "file": "books/CAT31307544.pdf",
+      "source_pdf": "CAT31307544.pdf"
+    }
+  ]
+}

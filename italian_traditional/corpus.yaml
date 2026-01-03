@@ -1,0 +1,42 @@
+name: "Italian Traditional Cookbooks (1800-1950)"
+
+corpus_context: >
+  51 traditional Italian cookbooks spanning 1800-1950, representing regional
+  Italian culinary traditions including Tuscan, Sicilian, Venetian, and
+  Neapolitan cuisines. Notable works include Pellegrino Artusi's foundational
+  texts. Mix of Italian-language originals and English translations. Highly
+  selective curation focusing on historically significant works that documented
+  pre-industrial cooking methods, regional ingredient use, and domestic culinary
+  practices. Documents vary from pocket-sized household guides to comprehensive
+  treatises. Source: McGill Library rare books collection and historical archives.
+
+scenarios:
+  culinary_history:
+    name: "Culinary History Research"
+    description: >
+      You are creating questions for graduate students researching Italian
+      culinary history and food studies. Questions should test understanding
+      of how regional cuisines evolved, what ingredients and techniques were
+      used in different historical periods, how economic and social conditions
+      influenced cooking practices, and how recipes were transmitted across
+      generations. Focus on historical context and cultural significance.
+
+  recipe_retrieval:
+    name: "Historical Recipe Retrieval"
+    description: >
+      You are creating questions to evaluate whether someone can accurately
+      locate and interpret historical recipes. Questions should test ability
+      to identify specific ingredients, preparation methods, cooking times,
+      regional variations, and the original language/terminology used.
+      Focus on precision and completeness - exact quantities, authentic
+      terminology, and distinguishing similar but different preparations.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system actually read this cookbook
+      versus generating plausible-sounding but incorrect information. Questions
+      must have specific, verifiable answers requiring the actual document -
+      particular recipe names, exact ingredient lists, specific preparation
+      instructions, author commentary, or historical notes. Include details
+      impossible to guess or hallucinate.

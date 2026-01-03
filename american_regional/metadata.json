@@ -1,0 +1,2511 @@
+{
+  "corpus": "american_regional",
+  "source": "internet_archive",
+  "search_strategy": {
+    "subjects": [
+      "Cookery, American",
+      "American cooking",
+      "Cooking, American",
+      "Southern cooking",
+      "New England cooking",
+      "Cookery -- United States",
+      "Receipts",
+      "Household",
+      "Domestic economy",
+      "Home economics",
+      "Church cookbooks",
+      "Community cookbooks",
+      "Regional cooking",
+      "Pioneer cooking",
+      "Colonial cooking"
+    ],
+    "collections": [
+      "americana",
+      "food_and_cooking",
+      "gutenberg",
+      "toronto",
+      "universallibrary",
+      "cdl"
+    ],
+    "date_range": [
+      1800,
+      1950
+    ],
+    "mediatype": "texts"
+  },
+  "curated_at": "2025-12-28T20:06:14.024613+00:00",
+  "total_books": 150,
+  "books_evaluated": 398,
+  "acceptance_rate": 0.3768844221105528,
+  "books": [
+    {
+      "identifier": "westminstercook00unkngoog",
+      "title": "Westminster cook-book. Every recipe tried and proved ..",
+      "creator": null,
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1876-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "\"One hundred and eighty-three recipes.\""
+      ],
+      "downloads": 737,
+      "file": "books/westminstercook00unkngoog.pdf",
+      "source_pdf": "westminstercook00unkngoog.pdf"
+    },
+    {
+      "identifier": "homemessengerboo02duff",
+      "title": "The Home messenger book of tested receipts",
+      "creator": [
+        "Duffield, Mary B. [from old catalog]",
+        "Stewart, Isabella G. D. [from old catalog]",
+        "Detroit. Home of the friendless. [from old catalog]"
+      ],
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1873-01-01T00:00:00Z",
+      "description": "1 p.l., iv, 5-137 p. 20 cm",
+      "downloads": 913,
+      "file": "books/homemessengerboo02duff.pdf",
+      "source_pdf": "homemessengerboo02duff.pdf"
+    },
+    {
+      "identifier": "howtocookhowtoca00newy",
+      "title": "How to cook: and how to carve",
+      "creator": null,
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1859-01-01T00:00:00Z",
+      "description": "1 p.l., [7]-124 p. 19 cm",
+      "downloads": 1052,
+      "file": "books/howtocookhowtoca00newy.pdf",
+      "source_pdf": "howtocookhowtoca00newy.pdf"
+    },
+    {
+      "identifier": "hoodscookbook01ciho",
+      "title": "Hood's cook book",
+      "creator": "C.I. Hood & Co. (Lowell, Mass.)",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1879-01-01T00:00:00Z",
+      "description": [
+        "Cover title",
+        "\"Compliments of C.I. Hood & Co., Apothecaries, Barristers' Hall, Lowell, Mass.\"--P. [1]",
+        "Date of publication: last date mentioned in piece is in testimonial on p. 6, Sept. 27, 1878",
+        "Interspersed with advertisements of Hood's Sarsaparilla",
+        "Includes index",
+        "LC copy has copyright stamp dated 1880, with the number 3199 written in pencil in the stamp"
+      ],
+      "downloads": 860,
+      "file": "books/hoodscookbook01ciho.pdf",
+      "source_pdf": "hoodscookbook01ciho.pdf"
+    },
+    {
+      "identifier": "gradedcookbook00harg",
+      "title": "The graded cook book:",
+      "creator": "Hargis, Lavinia, Mrs. [from old catalog]",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1888-01-01T00:00:00Z",
+      "description": "xii, [5]-604 p. 19 cm",
+      "downloads": 1560,
+      "file": "books/gradedcookbook00harg.pdf",
+      "source_pdf": "gradedcookbook00harg.pdf"
+    },
+    {
+      "identifier": "bookofpracticalr00chiciala",
+      "title": "A book of practical recipes for the housewife",
+      "creator": "Chicago Evening American",
+      "subjects": "Cookery, American",
+      "date": "1900-01-01T00:00:00Z",
+      "description": [
+        "244 p. 19 cm",
+        "Cover title: Chicago Evening American cook book"
+      ],
+      "downloads": 7841,
+      "file": "books/bookofpracticalr00chiciala.pdf",
+      "source_pdf": "bookofpracticalr00chiciala.pdf"
+    },
+    {
+      "identifier": "attractivemenus00warn",
+      "title": "Attractive menus",
+      "creator": "Warner, Harriet. [from old catalog]",
+      "subjects": [
+        "Menus",
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1916-01-01T00:00:00Z",
+      "description": "28 p. 24 cm",
+      "downloads": 1491,
+      "file": "books/attractivemenus00warn.pdf",
+      "source_pdf": "attractivemenus00warn.pdf"
+    },
+    {
+      "identifier": "presbyteriancook00ches",
+      "title": "Presbyterian cook book",
+      "creator": "Chester, Ill. First Presbyterian church. Ladies aid society. [from old catalog]",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1921-01-01T00:00:00Z",
+      "description": "84 p., 1 l. 21 cm",
+      "downloads": 5415,
+      "file": "books/presbyteriancook00ches.pdf",
+      "source_pdf": "presbyteriancook00ches.pdf"
+    },
+    {
+      "identifier": "practicalcookboo00traciala",
+      "title": "Practical cook book",
+      "creator": "Tracy, Suzanne",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1908-01-01T00:00:00Z",
+      "description": [
+        "75 p",
+        "Cover-title: Miss Tracy's New cook book"
+      ],
+      "downloads": 1669,
+      "file": "books/practicalcookboo00traciala.pdf",
+      "source_pdf": "practicalcookboo00traciala.pdf"
+    },
+    {
+      "identifier": "lowcostcooking00nesb",
+      "title": "Low cost cooking",
+      "creator": "Nesbitt, Florence",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1915-01-01T00:00:00Z",
+      "description": "Bibliography: p. 122",
+      "downloads": 1704,
+      "file": "books/lowcostcooking00nesb.pdf",
+      "source_pdf": "lowcostcooking00nesb.pdf"
+    },
+    {
+      "identifier": "flowercitycookbo00leit",
+      "title": "The Flower City cook book;",
+      "creator": [
+        "Leiter, Henry, Mrs., b. 1854",
+        "Van Bergh, Sara"
+      ],
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1911-01-01T00:00:00Z",
+      "description": "ix, 188 p. 24 cm",
+      "downloads": 948,
+      "file": "books/flowercitycookbo00leit.pdf",
+      "source_pdf": "flowercitycookbo00leit.pdf"
+    },
+    {
+      "identifier": "timesavingcooker00spli",
+      "title": "Time-saving cookery",
+      "creator": "Splint, Sarah Field, 1883- [from old catalog]",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1922-01-01T00:00:00Z",
+      "description": "16 p. 20 cm",
+      "downloads": 1850,
+      "file": "books/timesavingcooker00spli.pdf",
+      "source_pdf": "timesavingcooker00spli.pdf"
+    },
+    {
+      "identifier": "whattoserveatpar00gunn",
+      "title": "What to serve at parties",
+      "creator": "Gunn, Lilian Miranda",
+      "subjects": [
+        "Menus",
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1922-01-01T00:00:00Z",
+      "description": "17 p. 20 cm",
+      "downloads": 2111,
+      "file": "books/whattoserveatpar00gunn.pdf",
+      "source_pdf": "whattoserveatpar00gunn.pdf"
+    },
+    {
+      "identifier": "woodbridgecookbo00firs",
+      "title": "The Woodbridge cook book",
+      "creator": "First Congregational Church (Woodbridge, N.J.)",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1903-01-01T00:00:00Z",
+      "description": "\"This work was compiled and issued by the ladies of the First Congregational Church of Woodbridge, New Jersey, Mrs. William Brokaw Brewster, Chairman\"--p. [v]",
+      "downloads": 2117,
+      "file": "books/woodbridgecookbo00firs.pdf",
+      "source_pdf": "woodbridgecookbo00firs.pdf"
+    },
+    {
+      "identifier": "whatsalemdamesc00unkngoog",
+      "title": "What Salem dames cooked; being a choice collection of recipes wherein is shewn how the delectable practice of the Salem dames from the year 1683, to 1730, until 1800 and 1900, may be restored with pleasure to those desirous of experiencing the delights of their cookery, together with a few housekeeping hints and numerous appropriate quotations",
+      "creator": "Esther C. Mack industrial school, Salem, Mass, Esther C. Mack Industrial School, Katherine Golden Bitting Collection on Gastronomy (Library of Congress), Board of Managers",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1910-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "Bitting, K.G. Gastronomic bib."
+      ],
+      "downloads": 824,
+      "file": "books/whatsalemdamesc00unkngoog.pdf",
+      "source_pdf": "whatsalemdamesc00unkngoog.pdf"
+    },
+    {
+      "identifier": "whattogetforbre00colbgoog",
+      "title": "What to get for breakfast : with more than one hundred different breakfasts, and full directions for each",
+      "creator": "Colbrath, M. Tarbox",
+      "subjects": [
+        "Cookery, American",
+        "Menus",
+        "cbk"
+      ],
+      "date": "1882-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "Includes index"
+      ],
+      "downloads": 671,
+      "file": "books/whattogetforbre00colbgoog.pdf",
+      "source_pdf": "whattogetforbre00colbgoog.pdf"
+    },
+    {
+      "identifier": "175choicerecipes00chic",
+      "title": "175 choice recipes mainly furnished by members of the Chicago women's club",
+      "creator": "Chicago woman's club. [from old catalog]",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1887-01-01T00:00:00Z",
+      "description": "77 p. 17 cm",
+      "downloads": 2128,
+      "file": "books/175choicerecipes00chic.pdf",
+      "source_pdf": "175choicerecipes00chic.pdf"
+    },
+    {
+      "identifier": "dedhamreceipts00dani",
+      "title": "Dedham receipts",
+      "creator": "[Daniell, Olive C] [from old catalog]",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1871-01-01T00:00:00Z",
+      "description": "vii, [8]-32 p. 17 cm",
+      "downloads": 1284,
+      "file": "books/dedhamreceipts00dani.pdf",
+      "source_pdf": "dedhamreceipts00dani.pdf"
+    },
+    {
+      "identifier": "hanovercookbook00hanorich",
+      "title": "Hanover cook book",
+      "creator": "Hanover Library Association, Hanover, Pa",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1922-01-01T00:00:00Z",
+      "description": "1 p. \\U+fffd\\., [7]-283 p",
+      "downloads": 2623,
+      "file": "books/hanovercookbook00hanorich.pdf",
+      "source_pdf": "hanovercookbook00hanorich.pdf"
+    },
+    {
+      "identifier": "completebreadca00unkngoog",
+      "title": "The complete bread, cake and cracker baker",
+      "creator": "Gill, J. Thompson",
+      "subjects": [
+        "Baking",
+        "Bread",
+        "Cake",
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1881-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+        "Bitting, K.G. Gastronomic bib.",
+        "pt. I. The science and art of baking. -- pt. II. Formulæ and memoranda. Standard recipes",
+        "Publisher's ads [4] p. at end"
+      ],
+      "downloads": 4003,
+      "file": "books/completebreadca00unkngoog.pdf",
+      "source_pdf": "completebreadca00unkngoog.pdf"
+    },
+    {
+      "identifier": "cu31924003573932",
+      "title": "Low cost recipes",
+      "creator": "Harbison, Edith Gwendolyn, comp",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1914-01-01T00:00:00Z",
+      "description": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+      "downloads": 1663,
+      "file": "books/cu31924003573932.pdf",
+      "source_pdf": "cu31924003573932.pdf"
+    },
+    {
+      "identifier": "columbiacookbook00loui",
+      "title": "Columbia cook book",
+      "creator": null,
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1902-01-01T00:00:00Z",
+      "description": "155 p. 19 cm",
+      "downloads": 3521,
+      "file": "books/columbiacookbook00loui.pdf",
+      "source_pdf": "columbiacookbook00loui.pdf"
+    },
+    {
+      "identifier": "cu31924089523355",
+      "title": "Our sisters' recipes",
+      "creator": "Kaufman, Nettie M",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1909-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "\"Compiled in Pittsburgh, Penna.\"",
+        "Pages partly blank for \"Memorandum.\"",
+        "Includes index",
+        "224 p., [1] l. of col. plates, xxii p. : 23 cm"
+      ],
+      "downloads": 4352,
+      "file": "books/cu31924089523355.pdf",
+      "source_pdf": "cu31924089523355.pdf"
+    },
+    {
+      "identifier": "cu31924090142138",
+      "title": "The new housekeeper's manual: embracing a new revised edition of the American woman's home; or, Principles of domestic science. Being a guide to economical, healthful, beautiful, and Christian homes",
+      "creator": [
+        "Beecher, Catharine Esther, 1800-1878",
+        "Stowe, Harriet Beecher, 1811-1896",
+        "Beecher, Catharine Esther, 1800-1878. American woman's home",
+        "Beecher, Catharine Esther, 1800-1878. Handy cook-book",
+        "Herndon, James B., Jr. fmo",
+        "Herndon/Vehling Collection. fmo"
+      ],
+      "subjects": [
+        "Home economics",
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1873-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Added t.-p., illustrated: The American woman's home",
+        "\"The handy cook book\" has special t.-p., illustrated"
+      ],
+      "downloads": 7182,
+      "file": "books/cu31924090142138.pdf",
+      "source_pdf": "cu31924090142138.pdf"
+    },
+    {
+      "identifier": "howtocookit00barr",
+      "title": "How to cook it",
+      "creator": [
+        "Barry, Rena Elizabeth. [from old catalog]",
+        "Mansfield, Agnes H., [from old catalog] joint author"
+      ],
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1922-01-01T00:00:00Z",
+      "description": "97 p. 23 cm",
+      "downloads": 933,
+      "file": "books/howtocookit00barr.pdf",
+      "source_pdf": "howtocookit00barr.pdf"
+    },
+    {
+      "identifier": "firelesscookbook00mitcrich",
+      "title": "The fireless cook book : a manual of the construction and use of appliances for cooking by retained heat : with 250 recipes",
+      "creator": "Mitchell, Margaret Johnes, b. 1869",
+      "subjects": [
+        "Fireless cookers",
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1909-01-01T00:00:00Z",
+      "description": [
+        "xii, 315 p. : 20 cm",
+        "Left blank for \"Additional recipes\": p. 277-296",
+        "Includes indexes"
+      ],
+      "downloads": 18303,
+      "file": "books/firelesscookbook00mitcrich.pdf",
+      "source_pdf": "firelesscookbook00mitcrich.pdf"
+    },
+    {
+      "identifier": "illinoiscookbook00brow",
+      "title": "The Illinois cook book;",
+      "creator": "Brown, W. W., Mrs. [from old catalog]",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1881-01-01T00:00:00Z",
+      "description": "164 p. 20 cm",
+      "downloads": 2538,
+      "file": "books/illinoiscookbook00brow.pdf",
+      "source_pdf": "illinoiscookbook00brow.pdf"
+    },
+    {
+      "identifier": "justfortwocollec00lang",
+      "title": "Just for two : a collection of recipes designed for two persons",
+      "creator": "Langdon, Amelie",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1903-01-01T00:00:00Z",
+      "description": "224 p. ; 21 cm",
+      "downloads": 1296,
+      "file": "books/justfortwocollec00lang.pdf",
+      "source_pdf": "justfortwocollec00lang.pdf"
+    },
+    {
+      "identifier": "cu31924084882467",
+      "title": "Scientific cooking with scientific methods",
+      "creator": "Craig, Sarah E. Woodworth",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1911-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Includes index",
+        "404 p. ; 20 cm"
+      ],
+      "downloads": 1151,
+      "file": "books/cu31924084882467.pdf",
+      "source_pdf": "cu31924084882467.pdf"
+    },
+    {
+      "identifier": "cu31924086681131",
+      "title": "The Rocky Mountain cook book for high altitude cooking",
+      "creator": "Norton, Caroline Trask",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1903-01-01T00:00:00Z",
+      "description": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+      "downloads": 618,
+      "file": "books/cu31924086681131.pdf",
+      "source_pdf": "cu31924086681131.pdf"
+    },
+    {
+      "identifier": "cu31924087257873",
+      "title": "The Boston cooking-school cook book",
+      "creator": "Farmer, Fannie Merritt, 1857-1915",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1913-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Includes index",
+        "xv, 648 p., [70] p. of plates ; 20 cm"
+      ],
+      "downloads": 2061,
+      "file": "books/cu31924087257873.pdf",
+      "source_pdf": "cu31924087257873.pdf"
+    },
+    {
+      "identifier": "comet1910receipt00mass",
+      "title": "the comet 1910 receipts dedicated to the National league by the Massachusetts association of women workers..",
+      "creator": "Massachusetts association of women workers. [from old catalog]",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1910-01-01T00:00:00Z",
+      "description": "3 p. l., 3-92 p. 21 cm",
+      "downloads": 654,
+      "file": "books/comet1910receipt00mass.pdf",
+      "source_pdf": "comet1910receipt00mass.pdf"
+    },
+    {
+      "identifier": "consolidatedlib02herrgoog",
+      "title": "Consolidated library of modern cooking and household recipes;",
+      "creator": "Herrick, Christine Terhune, 1859-1944",
+      "subjects": [
+        "Cookery, American",
+        "Etiquette",
+        "cbk"
+      ],
+      "date": "1904-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "I. The modern hostess.--II. The cooking school.--III. Soups, chowders & fish, meats, poultry & game.--IV. Vegetables, fruits & cereals, bread & cakes, salads and relishes, ices, pastry & other desserts.--V. Chafing-dish recipes, beverages & toasts, carving, index"
+      ],
+      "downloads": 1035,
+      "file": "books/consolidatedlib02herrgoog.pdf",
+      "source_pdf": "consolidatedlib02herrgoog.pdf"
+    },
+    {
+      "identifier": "arizonacookbook00albuiala",
+      "title": "The Arizona cook book",
+      "creator": null,
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1911-01-01T00:00:00Z",
+      "description": [
+        "5 p. l., [13]-418 p. 24 cm",
+        "Includes ruled pages"
+      ],
+      "downloads": 5530,
+      "file": "books/arizonacookbook00albuiala.pdf",
+      "source_pdf": "arizonacookbook00albuiala.pdf"
+    },
+    {
+      "identifier": "blueandgoldcookb00oaklrich",
+      "title": "The blue and gold cook book; recipes of quality",
+      "creator": [
+        "Oakland Brewing & Malting Co., Oakland, Calif",
+        "Mendelsohn, Felix, b. 1876"
+      ],
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1912-01-01T00:00:00Z",
+      "description": [
+        "224 p",
+        "Cover title",
+        "Compiled by Felix Mendelsohn"
+      ],
+      "downloads": 4309,
+      "file": "books/blueandgoldcookb00oaklrich.pdf",
+      "source_pdf": "blueandgoldcookb00oaklrich.pdf"
+    },
+    {
+      "identifier": "bub_gb_O7Jpauc3MAAC",
+      "title": "Practical sanitary and economic cooking adapted to persons of moderate and small means",
+      "creator": [
+        "Abel, Mary Hinman, b. 1850",
+        "American Public Health Association. Lomb prize essay, 1888"
+      ],
+      "subjects": [
+        "bub_upload",
+        "Cookery, American",
+        "Home economics"
+      ],
+      "date": "1890-01-01T00:00:00Z",
+      "description": [
+        "Appended, 40 p.: Food of children and some remarks on household management, 1900",
+        "Includes index"
+      ],
+      "downloads": 513,
+      "file": "books/bub_gb_O7Jpauc3MAAC.pdf",
+      "source_pdf": "bub_gb_O7Jpauc3MAAC.pdf"
+    },
+    {
+      "identifier": "bridescookbook00brig",
+      "title": "The bride's cook book ..",
+      "creator": "[Briggs, Edgar William] [from old catalog]",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1915-01-01T00:00:00Z",
+      "description": "Includes advertisements",
+      "downloads": 1804,
+      "file": "books/bridescookbook00brig.pdf",
+      "source_pdf": "bridescookbook00brig.pdf"
+    },
+    {
+      "identifier": "courseoflectures00corsrich",
+      "title": "A course of lectures on the principles of domestic economy and cookery",
+      "creator": [
+        "Corson, Juliet, 1842-1897",
+        "University of Minnesota. Dept. of Agriculture"
+      ],
+      "subjects": "Cookery, American",
+      "date": "1887-01-01T00:00:00Z",
+      "description": "118, [2] p",
+      "downloads": 1760,
+      "file": "books/courseoflectures00corsrich.pdf",
+      "source_pdf": "courseoflectures00corsrich.pdf"
+    },
+    {
+      "identifier": "cu31924085803835",
+      "title": "Marion Harland's Cookery for beginners. A series of familiar lessons for young housekeepers",
+      "creator": "Harland, Marion, 1830-1922",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1893-01-01T00:00:00Z",
+      "description": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+      "downloads": 950,
+      "file": "books/cu31924085803835.pdf",
+      "source_pdf": "cu31924085803835.pdf"
+    },
+    {
+      "identifier": "cu31924087318436",
+      "title": "Mrs. Owens' cook book and useful household hints. To which has been added a farmers' department ..",
+      "creator": "Owens, Frances E. (Frances Emugene), b. 1843",
+      "subjects": [
+        "Cookery, American",
+        "Home economics",
+        "cbk"
+      ],
+      "date": "1884-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Blank pages inserted for additional recipes",
+        "500 p. 22 cm"
+      ],
+      "downloads": 1726,
+      "file": "books/cu31924087318436.pdf",
+      "source_pdf": "cu31924087318436.pdf"
+    },
+    {
+      "identifier": "cu31924003599614",
+      "title": "Principles of food preparation; a manual for students of home economics",
+      "creator": "Chambers, Mary D. (Mary Davoren), b. 1864",
+      "subjects": [
+        "Cookery, American",
+        "Cookery",
+        "cbk",
+        "Cookery -- Study and teaching"
+      ],
+      "date": "1921-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "\"References\" at end of each chapter",
+        "xx, 269 p. 20 cm"
+      ],
+      "downloads": 5363,
+      "file": "books/cu31924003599614.pdf",
+      "source_pdf": "cu31924003599614.pdf"
+    },
+    {
+      "identifier": "dailylivingmanua00ewar",
+      "title": "Daily living; a manual designed to simplify the work of the housekeeper; being a practical cook book adapted to families of moderate and small means, introducing food principles, marketing, cooking and serving ... furnishing menus and recipes for 365 consecutive days",
+      "creator": "Ewart, Nellie Elizabeth, 1870-",
+      "subjects": [
+        "Cookery, American",
+        "Menus",
+        "cbk"
+      ],
+      "date": "1908-01-01T00:00:00Z",
+      "description": "p. 579, advertising matter",
+      "downloads": 2555,
+      "file": "books/dailylivingmanua00ewar.pdf",
+      "source_pdf": "dailylivingmanua00ewar.pdf"
+    },
+    {
+      "identifier": "battlecreekcookb00batt",
+      "title": "The Battle Creek cook book; a collection of well tested recipes",
+      "creator": "Battle Creek, Mich. First Congregational church. [from old catalog]",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1922-01-01T00:00:00Z",
+      "description": "2 p. 18 cm",
+      "downloads": 5830,
+      "file": "books/battlecreekcookb00batt.pdf",
+      "source_pdf": "battlecreekcookb00batt.pdf"
+    },
+    {
+      "identifier": "tx715_d533_1904_opt",
+      "title": "Diamond Mill cook book : a collection of proven receipts used by the Ladies of Winnsboro, Texas, and named for the Diamond Milling Company, of Sherman, Texas",
+      "creator": "Ladies' Home Mission Society of the Methodist Episcopal Church South",
+      "subjects": [
+        "American cooking",
+        "Community cookbooks",
+        "Texas"
+      ],
+      "date": "1904-01-01T00:00:00Z",
+      "description": "Publication of recipes collected by the Ladies Home Mission Society of the Methodist Episcopal Church of South Winnsboro, Texas.",
+      "downloads": 236,
+      "file": "books/tx715_d533_1904_opt.pdf",
+      "source_pdf": "tx715_d533_1904_opt.pdf"
+    },
+    {
+      "identifier": "tx715_c65143_1917_opt",
+      "title": "Coleman cook book.",
+      "creator": "Episcopal Church (Coleman, Tex.)",
+      "subjects": [
+        "American cooking",
+        "Community cookbooks"
+      ],
+      "date": "1917-01-01T00:00:00Z",
+      "description": "Publication of a collection of tested recipes. Includes index. Names of contributors are given. Local advertisements throughout.",
+      "downloads": 237,
+      "file": "books/tx715_c65143_1917_opt.pdf",
+      "source_pdf": "tx715_c65143_1917_opt.pdf"
+    },
+    {
+      "identifier": "tx715_c457_1921_opt",
+      "title": "Centenary cook book.",
+      "creator": "First Methodist Church (Corsicana, Tex.). Woman's Missionary Society.",
+      "subjects": [
+        "American cooking",
+        "Community cookbooks"
+      ],
+      "date": "1921-01-01T00:00:00Z",
+      "description": "Publication of a collection of recipes by the Woman's Missionary Society of the First Methodist Church of Corsicana, with local advertisements included throughout.",
+      "downloads": 261,
+      "file": "books/tx715_c457_1921_opt.pdf",
+      "source_pdf": "tx715_c457_1921_opt.pdf"
+    },
+    {
+      "identifier": "CAT31328032002",
+      "title": "Food for your children [Armenian translation]",
+      "creator": [
+        "United States Food Administration",
+        "United States. Department of Agriculture"
+      ],
+      "subjects": [
+        "Children Nutrition",
+        "Cooking, American"
+      ],
+      "date": "1917-01-01T00:00:00Z",
+      "description": "Caption title",
+      "downloads": 218,
+      "file": "books/CAT31328032002.pdf",
+      "source_pdf": "CAT31328032002.pdf"
+    },
+    {
+      "identifier": "CAT31328032005",
+      "title": "Food for your children [Greek translation]",
+      "creator": [
+        "United States Food Administration",
+        "United States. Department of Agriculture"
+      ],
+      "subjects": [
+        "Children Nutrition",
+        "Cooking, American"
+      ],
+      "date": "1917-01-01T00:00:00Z",
+      "description": "Caption title",
+      "downloads": 165,
+      "file": "books/CAT31328032005.pdf",
+      "source_pdf": "CAT31328032005.pdf"
+    },
+    {
+      "identifier": "triedreceiptsofp00honb",
+      "title": "Tried receipts of Pasadena; comp. for the benefit of the William A. Scripps home for aged people, the Pasadena children's training society",
+      "creator": "[Honberger, Maud Mitchell], [from old catalog] comp",
+      "subjects": "Cooking, American",
+      "date": "1914-01-01T00:00:00Z",
+      "description": "112, [3] p. 24 cm",
+      "downloads": 984,
+      "file": "books/triedreceiptsofp00honb.pdf",
+      "source_pdf": "triedreceiptsofp00honb.pdf"
+    },
+    {
+      "identifier": "harperscookbooke00unse",
+      "title": "Harper's cook book encyclopÃ¦dia / arranged like a dictionary, and comp. under the direction of the editor of Harper's bazar, with contributions by famous authorities on cooking, including Maria Blay, Christine T. Herrick, Margaret Sangster, Elena de la T",
+      "creator": null,
+      "subjects": "Cooking, American",
+      "date": "1902-01-01T00:00:00Z",
+      "description": "xi, [1] p., 1 ℓ., 442, [1] p. : 22 cm",
+      "downloads": 823,
+      "file": "books/harperscookbooke00unse.pdf",
+      "source_pdf": "harperscookbooke00unse.pdf"
+    },
+    {
+      "identifier": "wartimerecipes00hill",
+      "title": "War time recipes",
+      "creator": "Hill, Janet McKenzie, 1852-1933",
+      "subjects": "Cooking, American",
+      "date": "1918-01-01T00:00:00Z",
+      "description": [
+        "\"No butter is required in any recipe. Crisco is the vegetable cooking fat used instead.\"--Foreword",
+        "96 p. 18 cm"
+      ],
+      "downloads": 5416,
+      "file": "books/wartimerecipes00hill.pdf",
+      "source_pdf": "wartimerecipes00hill.pdf"
+    },
+    {
+      "identifier": "hostessoftoday00larn_0",
+      "title": "The hostess of to-day",
+      "creator": "Larned, Linda Hull, 1853-1939",
+      "subjects": "Cooking, American",
+      "date": "1899-01-01T00:00:00Z",
+      "description": [
+        "Title within ornamental border",
+        "Consists principally of recipes for cooking"
+      ],
+      "downloads": 586,
+      "file": "books/hostessoftoday00larn_0.pdf",
+      "source_pdf": "hostessoftoday00larn_0.pdf"
+    },
+    {
+      "identifier": "househomecomplet00harl",
+      "title": "House and home : a complete housewife's guide",
+      "creator": "Harland, Marion, 1830-1922",
+      "subjects": [
+        "Home economics",
+        "Cooking, American",
+        "Menus",
+        "Domestics",
+        "Etiquette",
+        "Mothers"
+      ],
+      "date": "1889-01-01T00:00:00Z",
+      "description": "vii, 532 p. : 25 cm",
+      "downloads": 650,
+      "file": "books/househomecomplet00harl.pdf",
+      "source_pdf": "househomecomplet00harl.pdf"
+    },
+    {
+      "identifier": "housekeepersnewc00kirk",
+      "title": "The housekeeper's new cook book",
+      "creator": "Kirkpatrick, Thomas Jefferson, Mrs., [from old catalog] comp",
+      "subjects": "Cooking, American",
+      "date": "1883-01-01T00:00:00Z",
+      "description": "253 p. 20 cm",
+      "downloads": 332,
+      "file": "books/housekeepersnewc00kirk.pdf",
+      "source_pdf": "housekeepersnewc00kirk.pdf"
+    },
+    {
+      "identifier": "youngwifescookbo00pete_0",
+      "title": "The young wife's cook book : with receipts of the best dishes for breakfast, dinner and tea : containing a large number of receipts, for cooking and preparing in all different ways ...",
+      "creator": "Peterson, Hannah Mary Bouvier, 1811-1870",
+      "subjects": "Cooking, American",
+      "date": "1870-01-01T00:00:00Z",
+      "description": [
+        "19-675 pages ; 21 cm",
+        "Publisher's catalog, 8 pages at end"
+      ],
+      "downloads": 129,
+      "file": "books/youngwifescookbo00pete_0.pdf",
+      "source_pdf": "youngwifescookbo00pete_0.pdf"
+    },
+    {
+      "identifier": "goodlivingpracti00vanb",
+      "title": "Good-living; a practical cookery-book for town and country",
+      "creator": "Van Buren, Sara",
+      "subjects": "Cooking, American",
+      "date": "1890-01-01T00:00:00Z",
+      "description": "x p., 1 l., 580 p. 21 cm",
+      "downloads": 829,
+      "file": "books/goodlivingpracti00vanb.pdf",
+      "source_pdf": "goodlivingpracti00vanb.pdf"
+    },
+    {
+      "identifier": "breakfastdinnert00andr_0",
+      "title": "Breakfast, dinner, and tea : viewed classically, poetically, and practically : containing numerous curious dishes and feasts of all times and all countries : besides three hundred modern receipts",
+      "creator": "Andrews, Julia C",
+      "subjects": [
+        "Gastronomy",
+        "Cooking",
+        "Cooking, American"
+      ],
+      "date": "1860-01-01T00:00:00Z",
+      "description": [
+        "xi, 351 pages ; 20 cm",
+        "Includes index"
+      ],
+      "downloads": 1204,
+      "file": "books/breakfastdinnert00andr_0.pdf",
+      "source_pdf": "breakfastdinnert00andr_0.pdf"
+    },
+    {
+      "identifier": "CAT31328032004",
+      "title": "Food for your children [French translation]",
+      "creator": [
+        "United States Food Administration",
+        "United States. Department of Agriculture"
+      ],
+      "subjects": [
+        "Children Nutrition",
+        "Cooking, American"
+      ],
+      "date": "1917-01-01T00:00:00Z",
+      "description": "Caption title",
+      "downloads": 137,
+      "file": "books/CAT31328032004.pdf",
+      "source_pdf": "CAT31328032004.pdf"
+    },
+    {
+      "identifier": "CAT31328845003",
+      "title": "Do you know corn meal? : its use means service to your country, nourishing food for you [Finnish translation]",
+      "creator": [
+        "United States. Department of Agriculture",
+        "United States Food Administration"
+      ],
+      "subjects": [
+        "Cooking, American",
+        "Corn meal"
+      ],
+      "date": "1917-01-01T00:00:00Z",
+      "description": "On p. [4]: Corn helps us feed the world ... Corn meal--our ally!",
+      "downloads": 164,
+      "file": "books/CAT31328845003.pdf",
+      "source_pdf": "CAT31328845003.pdf"
+    },
+    {
+      "identifier": "massachusettswom00woma",
+      "title": "... Massachusetts Woman's Christian temperance union cuisine. A compilation of valuable recipes known to be reliable, together with reports, constitution, by-laws, etc",
+      "creator": "Woman's Christian Temperance Union. Massachusetts",
+      "subjects": "Cooking, American",
+      "date": "1878-01-01T00:00:00Z",
+      "description": [
+        "Advertising matter interspersed",
+        "Blank leaves inserted for additional recipes",
+        "Bitting, K.G. Gastronomic bib.",
+        "127, [1] p. 24 cm"
+      ],
+      "downloads": 801,
+      "file": "books/massachusettswom00woma.pdf",
+      "source_pdf": "massachusettswom00woma.pdf"
+    },
+    {
+      "identifier": "CAT31328029010",
+      "title": "Make a little meat, go a long way : use savory stews and meat pies [Yiddish translation]",
+      "creator": [
+        "United States. Department of Agriculture",
+        "United States Food Administration"
+      ],
+      "subjects": [
+        "World War, 1914-1918 Food supply United States",
+        "Cooking, American",
+        "Meat",
+        "Stews",
+        "Pies"
+      ],
+      "date": "1917-01-01T00:00:00Z",
+      "description": "[4] pages ; 21 cm",
+      "downloads": 179,
+      "file": "books/CAT31328029010.pdf",
+      "source_pdf": "CAT31328029010.pdf"
+    },
+    {
+      "identifier": "FrenchCookBook",
+      "title": "French cook book for American families a book of 2200 recipes, including 800 French recipes and hundreds of new American recipes",
+      "creator": "Raskin, Xavier",
+      "subjects": [
+        "Cookbooks",
+        "Cooking, American",
+        "Cooking, French"
+      ],
+      "date": "1922-01-01T00:00:00Z",
+      "description": [
+        "French Cook Book for American Families: A Book of 2200 Recipes, Including 800 French Recipes and Hundreds of New American Recipes 1922",
+        "Electronic reproduction",
+        "Master and use copy. Digital master created according to Benchmark for Faithful Digital Reproductions of Monographs and Serials, Version 1. Digital Library Federation, December 2002",
+        "digitized",
+        "Print version record"
+      ],
+      "downloads": 1231,
+      "file": "books/FrenchCookBook.pdf",
+      "source_pdf": "FrenchCookBook.pdf"
+    },
+    {
+      "identifier": "dehydratingfoods00andr_0",
+      "title": "Dehydrating foods, fruits, vegetables, fish and meats : the new easy, economical and superior method of preserving all kinds of food materials, with a complete line of good recipes for everyday use",
+      "creator": "Andrea, A. Louise",
+      "subjects": [
+        "Food",
+        "Cooking, American"
+      ],
+      "date": "1920-01-01T00:00:00Z",
+      "description": "6 p. 1., 206 p. : 20 cm",
+      "downloads": 1538,
+      "file": "books/dehydratingfoods00andr_0.pdf",
+      "source_pdf": "dehydratingfoods00andr_0.pdf"
+    },
+    {
+      "identifier": "elementarydomest00land",
+      "title": "Elementary domestic science;",
+      "creator": "Landes, Sarah Windle. [from old catalog]",
+      "subjects": [
+        "Food",
+        "Cooking, American"
+      ],
+      "date": "1911-01-01T00:00:00Z",
+      "description": "v. 21 cm",
+      "downloads": 172,
+      "file": "books/elementarydomest00land.pdf",
+      "source_pdf": "elementarydomest00land.pdf"
+    },
+    {
+      "identifier": "epicureancomplet00ranh_0",
+      "title": "The epicurean : a complete treatise of analytical and practical studies on the culinary art : including table and wine service, how to prepare and cook dishes, an index for marketing, a great variety of bills of fare for breakfasts, luncheons, dinners, suppers, ambigus, buffets, etc., and a selection of interesting bills of fare of Delmonico's, from 1862 to 1894 : making a Franco-American culinary encyclopedia",
+      "creator": "Ranhofer, Charles",
+      "subjects": [
+        "Cooking, American",
+        "Cooking, French",
+        "Menus",
+        "Formulas, recipes, etc"
+      ],
+      "date": "1916-01-01T00:00:00Z",
+      "description": [
+        "viii, [4], 1183 pages, [3] leaves of plates : 29 cm",
+        "Includes index",
+        "\"Illustrated with 800 plates.\"",
+        "Includes facsimile of letter to Ranhofer from Charles C. Delmonico, dated Feb. 24, 1893",
+        "Includes added engraved t.p., with illustrated border",
+        "Originally published in 1893"
+      ],
+      "downloads": 427,
+      "file": "books/epicureancomplet00ranh_0.pdf",
+      "source_pdf": "epicureancomplet00ranh_0.pdf"
+    },
+    {
+      "identifier": "greatrockislandc00spen",
+      "title": "The great Rock Island cook book, comprising a carefully compiled selection of the most useful recipes and other valuable information in the culinary art ..",
+      "creator": [
+        "[Spencer, Edgar L]. [from old catalog]",
+        "Chicago, Rock Island and Pacific railway company. Passenger dept. [from old catalog]"
+      ],
+      "subjects": "Cooking, American",
+      "date": "1884-01-01T00:00:00Z",
+      "description": "132, [3] p. 22 cm",
+      "downloads": 831,
+      "file": "books/greatrockislandc00spen.pdf",
+      "source_pdf": "greatrockislandc00spen.pdf"
+    },
+    {
+      "identifier": "700ChoiceRecipesFromTheLadiesOfTheSecondCong.ChurchOfHolyokeMass.",
+      "title": "700 choice recipes from the ladies of the Second Cong. Church of Holyoke, Mass.",
+      "creator": "Second Congregational Church (Holyoke, Mass.)",
+      "subjects": [
+        "Cooking, American",
+        "Cooking--Massachusetts--Holyoke",
+        "Cookbooks"
+      ],
+      "date": "1889-01-01T00:00:00Z",
+      "description": "Third edition Book digitized by Shelf2Life.",
+      "downloads": 861,
+      "file": "books/700ChoiceRecipesFromTheLadiesOfTheSecondCong.ChurchOfHolyokeMass..pdf",
+      "source_pdf": "CID-0000000403710.pdf"
+    },
+    {
+      "identifier": "buckeyecookbookc00unse",
+      "title": "The Buckeye cookbook. A careful compilation of tried and approved reipes for all departments of the household",
+      "creator": null,
+      "subjects": "Cooking, American",
+      "date": "1887-01-01T00:00:00Z",
+      "description": "1288 p. front., 23 cm",
+      "downloads": 545,
+      "file": "books/buckeyecookbookc00unse.pdf",
+      "source_pdf": "buckeyecookbookc00unse.pdf"
+    },
+    {
+      "identifier": "b21528366",
+      "title": "Mrs. Lincoln's Boston cook book : What to do and what not to do in cooking",
+      "creator": [
+        "Lincoln, Mary J. (Mary Johnson), 1844-1921",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, American",
+      "date": "1887-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 400,
+      "file": "books/b21528366.pdf",
+      "source_pdf": "b21528366.pdf"
+    },
+    {
+      "identifier": "b21538670",
+      "title": "Mrs. Rorer's Philadelphia cook book : a manual of home economics",
+      "creator": [
+        "Rorer, S. T., 1849-1937",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, American",
+      "date": "1886-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 2616,
+      "file": "books/b21538670.pdf",
+      "source_pdf": "b21538670.pdf"
+    },
+    {
+      "identifier": "b21538694",
+      "title": "Chafing dish possibilities",
+      "creator": [
+        "Farmer, Fannie Merritt, 1857-1915",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Chafing dish cooking",
+        "Cooking, American"
+      ],
+      "date": "1902-01-01T00:00:00Z",
+      "description": [
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library",
+        "The University of Leeds Library"
+      ],
+      "downloads": 293,
+      "file": "books/b21538694.pdf",
+      "source_pdf": "b21538694.pdf"
+    },
+    {
+      "identifier": "borrowings00hard",
+      "title": "The borrowings",
+      "creator": "Harding, Adelaide May, 1892- [from old catalog]",
+      "subjects": "Cooking, American",
+      "date": "1921-01-01T00:00:00Z",
+      "description": "112 p. 23 cm",
+      "downloads": 588,
+      "file": "books/borrowings00hard.pdf",
+      "source_pdf": "borrowings00hard.pdf"
+    },
+    {
+      "identifier": "bridescookbook00unse",
+      "title": "The Bride's cook book",
+      "creator": null,
+      "subjects": [
+        "Cooking, American",
+        "Cooking, American -- California style"
+      ],
+      "date": "1917-01-01T00:00:00Z",
+      "description": [
+        "134 pages : 24 cm",
+        "\"Patent issued 1917\"--Title page",
+        "Includes advertisements for local merchants",
+        "Issued in glossy white paper boards, printed in blue",
+        "Alber's special recipes -- Bread -- Breakfast dishes -- Blanc mange -- Cakes and how to make them -- Cereal foods and flour -- Custards -- Creams -- Coffee -- Chocolate -- Cocoa -- Del Monte special recipes -- Eggs -- Fish -- Game -- General rules for canning and preserving -- Household hints -- James and jellies -- Meringues -- Meats -- Pickles -- Pastry -- Pies -- Puddings -- Poultry -- Recipes for invalid cookery -- Sauces for puddings -- Shell fish -- Stuffings -- Salads -- Sandwiches -- Soups -- Souffles -- Sauces for meats -- Sauces for fish -- Sauces for poultry -- Sauces for vegetables -- Tarts -- Tea -- Vegetables"
+      ],
+      "downloads": 484,
+      "file": "books/bridescookbook00unse.pdf",
+      "source_pdf": "bridescookbook00unse.pdf"
+    },
+    {
+      "identifier": "breakfastluncheo00harl",
+      "title": "Breakfast, luncheon and tea",
+      "creator": "Harland, Marion, 1830-1922 author",
+      "subjects": [
+        "Cooking, American",
+        "Cooking -- United States",
+        "Cooking",
+        "United States"
+      ],
+      "date": "1875-01-01T00:00:00Z",
+      "description": [
+        "459 pages ; 20 cm",
+        "Publisher's advertisement at end (1 page)"
+      ],
+      "downloads": 191,
+      "file": "books/breakfastluncheo00harl.pdf",
+      "source_pdf": "breakfastluncheo00harl.pdf"
+    },
+    {
+      "identifier": "columbianclubcoo00colu",
+      "title": "The Columbian club cook book of tested recipes",
+      "creator": "Columbian club, Boise, Id. [from old catalog]",
+      "subjects": "Cooking, American",
+      "date": "1906-01-01T00:00:00Z",
+      "description": "190, [13] p. 23 cm",
+      "downloads": 853,
+      "file": "books/columbianclubcoo00colu.pdf",
+      "source_pdf": "columbianclubcoo00colu.pdf"
+    },
+    {
+      "identifier": "ansoncountycookb00firs",
+      "title": "Anson County Cook Bookﾅ",
+      "creator": [
+        "First Baptist Church (Wadesboro, N.C.)",
+        "Sallie Bingham Center for Women's History and Culture. NcD"
+      ],
+      "subjects": [
+        "Cooking, American",
+        "Cooking"
+      ],
+      "date": "1928-01-01T00:00:00Z",
+      "description": [
+        "Cover title",
+        "Includes advertisements of local businesses"
+      ],
+      "downloads": 538,
+      "file": "books/ansoncountycookb00firs.pdf",
+      "source_pdf": "ansoncountycookb00firs.pdf"
+    },
+    {
+      "identifier": "whathowpractical00bush",
+      "title": "What and how; a practical cook book for every day living",
+      "creator": "Bush, Rebecca Gibbons Tatnall, 1853-",
+      "subjects": "Cooking, American",
+      "date": "1920-01-01T00:00:00Z",
+      "description": "350 p. 21 cm",
+      "downloads": 1243,
+      "file": "books/whathowpractical00bush.pdf",
+      "source_pdf": "whathowpractical00bush.pdf"
+    },
+    {
+      "identifier": "cookeryforbeginn00harl",
+      "title": "Cookery for beginners : a series of familiar lessons for young housekeepers",
+      "creator": "Harland, Marion, 1830-1922",
+      "subjects": "Cooking, American",
+      "date": "1884-01-01T00:00:00Z",
+      "description": [
+        "157, [13] pages ; 18 cm",
+        "Publisher's advertisements appear both at the begining and end of text",
+        "Includes index"
+      ],
+      "downloads": 351,
+      "file": "books/cookeryforbeginn00harl.pdf",
+      "source_pdf": "cookeryforbeginn00harl.pdf"
+    },
+    {
+      "identifier": "culinaryechoesfr00vaug",
+      "title": "Culinary echoes from Dixie",
+      "creator": "Vaughn, Kate Brew",
+      "subjects": "Cooking, American",
+      "date": "1914-01-01T00:00:00Z",
+      "description": "4 p. l., 270 p. 21 cm",
+      "downloads": 1120,
+      "file": "books/culinaryechoesfr00vaug.pdf",
+      "source_pdf": "culinaryechoesfr00vaug.pdf"
+    },
+    {
+      "identifier": "inkitchen00mill_1",
+      "title": "In the kitchen",
+      "creator": "Miller, Elizabeth Smith, 1822-1911",
+      "subjects": "Cooking, American",
+      "date": "1875-01-01T00:00:00Z",
+      "description": [
+        "568 p. ; 23 cm",
+        "Blank leaves interspersed for additional receipts"
+      ],
+      "downloads": 64,
+      "file": "books/inkitchen00mill_1.pdf",
+      "source_pdf": "inkitchen00mill_1.pdf"
+    },
+    {
+      "identifier": "jenniejunesameri00crol_0",
+      "title": "Jennie June's American cookery book : containing upwards of twelve hundred choice and carefully tested recipts ...",
+      "creator": "Croly, J. C. (Jane Cunningham), 1829-1901",
+      "subjects": "Cooking, American",
+      "date": "1878-01-01T00:00:00Z",
+      "description": "vii, 399 p. ; 19 cm",
+      "downloads": 1466,
+      "file": "books/jenniejunesameri00crol_0.pdf",
+      "source_pdf": "jenniejunesameri00crol_0.pdf"
+    },
+    {
+      "identifier": "b32758686",
+      "title": "Foods that will win the war and how to cook them",
+      "creator": "Goudiss, C. Houston (Charles Houston), 1880-",
+      "subjects": [
+        "Food Preservation",
+        "Cooking",
+        "Cooking, American",
+        "Food conservation",
+        "Menus",
+        "United States"
+      ],
+      "date": "1918-01-01T00:00:00Z",
+      "description": [
+        "123 pages : 20 cm",
+        "Pages 122-123 blank for \"Favorite family recipes\"",
+        "\"All the recipes in this book have been prepared and used in the School of modern cookery conducted by the Forecast magazine and have been endorsed by the U. S. Food administration\""
+      ],
+      "downloads": 409,
+      "file": "books/b32758686.pdf",
+      "source_pdf": "b32758686.pdf"
+    },
+    {
+      "identifier": "mrsjohnstonescoo00john",
+      "title": "Mrs. Johnstone's cook book of tested recipes",
+      "creator": "Johnstone, May Searles, Mrs. [from old catalog]",
+      "subjects": "Cooking, American",
+      "date": "1911-01-01T00:00:00Z",
+      "description": "154 p., 1 l. 23 cm",
+      "downloads": 402,
+      "file": "books/mrsjohnstonescoo00john.pdf",
+      "source_pdf": "mrsjohnstonescoo00john.pdf"
+    },
+    {
+      "identifier": "seventyfiverecei00lesl",
+      "title": "Seventy-five receipts for pastry, cakes, and sweetmeats.",
+      "creator": [
+        "Leslie, Eliza, 1787-1858",
+        "Lady of Philadelphia"
+      ],
+      "subjects": [
+        "Cooking, American",
+        "Home economics"
+      ],
+      "date": "1828-01-01T00:00:00Z",
+      "description": [
+        "Attributed by Lowenstein (Early American cookery) to Eliza Leslie",
+        "Errata--At foot of p. [i]",
+        "Shoemaker",
+        "Lowenstein, E. Amer. cookery (3rd ed.)",
+        "Cf. Bitting (Gastronomic bibliography)",
+        "Boston Public Library (Rare Books Department) copy: [17] p. of ms. additional recipes follow text"
+      ],
+      "downloads": 2416,
+      "file": "books/seventyfiverecei00lesl.pdf",
+      "source_pdf": "seventyfiverecei00lesl.pdf"
+    },
+    {
+      "identifier": "scienceinkitchen00kell",
+      "title": "Science in the kitchen. A scientific treatise on food substances and their dietetic properties, together with a practical explanation of the principles of healthful cookery, and a large number of original, palatable, and wholesome recipes",
+      "creator": "Kellogg, E. E. (Ella Ervilla)",
+      "subjects": [
+        "Cooking, American",
+        "Diet",
+        "Vegetarianism",
+        "cbk"
+      ],
+      "date": "1892-01-01T00:00:00Z",
+      "description": "573 p. 23 cm",
+      "downloads": 2086,
+      "file": "books/scienceinkitchen00kell.pdf",
+      "source_pdf": "scienceinkitchen00kell.pdf"
+    },
+    {
+      "identifier": "royalno10cookbo00temp",
+      "title": "The Royal No. 10 cook book : a collection of tried recipes",
+      "creator": "Temple Adath Joseph (Saint Joseph, Mo.)",
+      "subjects": [
+        "Jewish cooking",
+        "Cooking, American",
+        "Temple Adath Joseph (Saint Joseph, Mo.). Sisterhood"
+      ],
+      "date": "1900-01-01T00:00:00Z",
+      "description": "127 p. ; 22 cm",
+      "downloads": 68,
+      "file": "books/royalno10cookbo00temp.pdf",
+      "source_pdf": "royalno10cookbo00temp.pdf"
+    },
+    {
+      "identifier": "partyeatsforlunc00unse",
+      "title": "Party eats for luncheons and dinners, for parties and teas.",
+      "creator": null,
+      "subjects": [
+        "Menus",
+        "Cooking, American",
+        "Entertaining"
+      ],
+      "date": "1923-01-01T00:00:00Z",
+      "description": "40 p. 22 cm",
+      "downloads": 417,
+      "file": "books/partyeatsforlunc00unse.pdf",
+      "source_pdf": "partyeatsforlunc00unse.pdf"
+    },
+    {
+      "identifier": "morereceipts00lesl",
+      "title": "More receipts",
+      "creator": "Leslie, Eliza, 1787-1858",
+      "subjects": "Cooking, American",
+      "date": "1852-01-01T00:00:00Z",
+      "description": "520 p. 19 cm",
+      "downloads": 1147,
+      "file": "books/morereceipts00lesl.pdf",
+      "source_pdf": "morereceipts00lesl.pdf"
+    },
+    {
+      "identifier": "whatmrsfisherkno00fishrich_201903",
+      "title": "whatmrsfisherkno00fishrich",
+      "creator": "Abby Fisher",
+      "subjects": "Southern Cooking",
+      "date": "1888-01-01T00:00:00Z",
+      "description": "Written by Abby Fisher, Southern Cookbook author",
+      "downloads": 537,
+      "file": "books/whatmrsfisherkno00fishrich_201903.pdf",
+      "source_pdf": "whatmrsfisherkno00fishrich.pdf"
+    },
+    {
+      "identifier": "document-20250319-0001",
+      "title": "Brer Rabbit's New Orleans Molasses Recipes",
+      "creator": "Patrick & Ford Ltd",
+      "subjects": [
+        "Brer Rabbit",
+        "Molasses",
+        "Recipes",
+        "Desserts",
+        "Southern Cooking",
+        "New Orleans"
+      ],
+      "date": "1948-01-01T00:00:00Z",
+      "description": "This colorful booklet features a collection of recipes using Brer Rabbit molasses, designed for making delicious desserts, candies, beverages, and other tasty foods. The cover highlights the playful and whimsical nature of Brer Rabbit, a character often associated with Southern folklore, inviting readers to explore the sweet and flavorful possibilities of molasses in their cooking.",
+      "downloads": 66,
+      "file": "books/document-20250319-0001.pdf",
+      "source_pdf": "Document_20250319_0001.pdf"
+    },
+    {
+      "identifier": "101629670.nlm.nih.gov",
+      "title": "Dr. Chase's recipes, or, Information for everybody : an invaluable collection of about eight hundred practical recipes, for merchants, grocers, saloon-keepers, physicians, druggists, tanners, shoe makers, harness makers, painters, jewelers, blacksmiths, tinners, gunsmiths, farriers, barbers, bakers, dyers, renovaters, farmers, and families generally : to which have been added a rational treatment of pleurisy, inflammation of the lungs, and other inflammatory diseases, and also for general female debility and irregularities : all arranged in their appropriate departments",
+      "creator": "Chase, A. W. (Alvin Wood), 1817-1885, author",
+      "subjects": [
+        "Medicine",
+        "Household Products"
+      ],
+      "date": "1867-01-01T00:00:00Z",
+      "description": [
+        "384 pages : 18 cm",
+        "Includes bibliographical references and index"
+      ],
+      "downloads": 76,
+      "file": "books/101629670.nlm.nih.gov.pdf",
+      "source_pdf": "101629670.pdf"
+    },
+    {
+      "identifier": "publicschoolhous00hood",
+      "title": "Public school household science",
+      "creator": [
+        "Hoodless, J., Mrs",
+        "Watson, M. U., Miss"
+      ],
+      "subjects": "Home economics",
+      "date": "1905-01-01T00:00:00Z",
+      "description": [
+        "Includes index",
+        "14 32",
+        "NEW"
+      ],
+      "downloads": 330,
+      "file": "books/publicschoolhous00hood.pdf",
+      "source_pdf": "publicschoolhous00hood.pdf"
+    },
+    {
+      "identifier": "west-side-cook-book-1945",
+      "title": "West Side Cook Book 1945",
+      "creator": "Jackson County Home Economics Extension Unit (Or.)",
+      "subjects": [
+        "Cooking -- Oregon -- Jackson County",
+        "Community cookbooks",
+        "Oregon. Jackson County",
+        "Stories of Southern Oregon"
+      ],
+      "date": "1945-01-01T00:00:00Z",
+      "description": "Favorite recipes contributed by members and friends of the West Side Home Economics Extension Unit. Proceeds from the sale of this book were used to further Home Extension and 4-H club work in the community. This work digitized for the Big Butte Historical Society with the support of Southern Oregon University and is part of the Stories of Southern Oregon collection. For more Stories, visit https://www.storiesofsouthernoregon.com",
+      "downloads": 28,
+      "file": "books/west-side-cook-book-1945.pdf",
+      "source_pdf": "West-Side-Cook-Book_1945.pdf"
+    },
+    {
+      "identifier": "cooksfriend00cosm",
+      "title": "The cook's friend",
+      "creator": "Cosmos Society of the M. E. Church (Middletown, Ind.)",
+      "subjects": [
+        "Cooking, American",
+        "Community cookbooks",
+        "Community cookbooks -- Indiana -- Middletown"
+      ],
+      "date": "1902-01-01T00:00:00Z",
+      "description": [
+        "Includes index to advertisements",
+        "Local advertisements interspersed throughout",
+        "Copy includes recipe on front leaf; pencil notations throughout; newspaper clippings and notated slips laid in",
+        "144 p. : 22 cm"
+      ],
+      "downloads": 5266,
+      "file": "books/cooksfriend00cosm.pdf",
+      "source_pdf": "cooksfriend00cosm.pdf"
+    },
+    {
+      "identifier": "highlandhospital00pars",
+      "title": "Highland Hospital cook book",
+      "creator": [
+        "Parsons, Samuel H., Mrs",
+        "Highland Hospital (Matteawan, N.Y.)"
+      ],
+      "subjects": [
+        "Cooking, American",
+        "Community cookbooks"
+      ],
+      "date": "1900-01-01T00:00:00Z",
+      "description": "Interleaved with blank leaves",
+      "downloads": 1912,
+      "file": "books/highlandhospital00pars.pdf",
+      "source_pdf": "highlandhospital00pars.pdf"
+    },
+    {
+      "identifier": "newcrumbsofcomfo00stlu",
+      "title": "New crumbs of comfort : a cook book",
+      "creator": "St. Luke's Church (Kalamazoo, Mich.)",
+      "subjects": [
+        "Cooking",
+        "Community cookbooks",
+        "Cooking, American",
+        "Cooking -- Michigan",
+        "Community cookbooks -- Michigan -- Kalamazoo"
+      ],
+      "date": "1906-01-01T00:00:00Z",
+      "description": "178 p. ; 19 cm",
+      "downloads": 1191,
+      "file": "books/newcrumbsofcomfo00stlu.pdf",
+      "source_pdf": "newcrumbsofcomfo00stlu.pdf"
+    },
+    {
+      "identifier": "mymotherscookboo00rich",
+      "title": "My mother's cook book",
+      "creator": [
+        "Richards, E. F., Mrs",
+        "Women's Christian Home (Saint Louis, Mo.)"
+      ],
+      "subjects": [
+        "Cookery, American",
+        "Community cookbooks",
+        "Recipes",
+        "cbk"
+      ],
+      "date": "1880-01-01T00:00:00Z",
+      "description": "244 p. ; 22 cm",
+      "downloads": 4354,
+      "file": "books/mymotherscookboo00rich.pdf",
+      "source_pdf": "mymotherscookboo00rich.pdf"
+    },
+    {
+      "identifier": "cookbookconsisti00woma",
+      "title": "Cook book consisting of 450 recipes",
+      "creator": "Woman's Association of the Church of the Evangel, Congregational (Brooklyn, N.Y.)",
+      "subjects": [
+        "Cooking, American",
+        "Community cookbooks",
+        "Community cookbooks -- New York (State) -- New York"
+      ],
+      "date": "1911-01-01T00:00:00Z",
+      "description": [
+        "Local advertisements p. 89-100",
+        "Inscription on cover p. [2] \"Alice M. Barringer\"; inscription on following page \"Merry lehristmas from leilia, Dec. 25, 1911.\"",
+        "Contains handwritten recipe on p. 85 for stain removal",
+        "100 p. : 24 cm"
+      ],
+      "downloads": 1140,
+      "file": "books/cookbookconsisti00woma.pdf",
+      "source_pdf": "cookbookconsisti00woma.pdf"
+    },
+    {
+      "identifier": "MelwoodCookBook",
+      "title": "Melwood Cook Book",
+      "creator": "Women's Club Of Melwood District",
+      "subjects": "community cookbooks, cookery, recipes, Maryland",
+      "date": "1920-01-01T00:00:00Z",
+      "description": "The Melwood Cook Book  Women's Club Of Melwood District",
+      "downloads": 716,
+      "file": "books/MelwoodCookBook.pdf",
+      "source_pdf": "melwood cook book.pdf"
+    },
+    {
+      "identifier": "SpraysFromTheFalls",
+      "title": "Sprays from the Falls",
+      "creator": [
+        "Perry, Misses",
+        "Central Church (Attleboro Falls, Mass.). Ladies' Society"
+      ],
+      "subjects": [
+        "Cooking, American",
+        "Community cookbooks--Massachusetts--Attleboro Falls",
+        "Cookbooks"
+      ],
+      "date": "1883-01-01T00:00:00Z",
+      "description": "Book digitized by Shelf2Life.",
+      "downloads": 579,
+      "file": "books/SpraysFromTheFalls.pdf",
+      "source_pdf": "CID-0000000403806.pdf"
+    },
+    {
+      "identifier": "memorialhallcook00will",
+      "title": "The Memorial Hall cook book",
+      "creator": "Willow Grove Memorial Hall (Willow Grove, Pa.)",
+      "subjects": [
+        "Cooking",
+        "Community cookbooks",
+        "Cooking, American",
+        "Cooking -- Pennsylvania",
+        "Community cookbooks -- Pennsylvania -- Willow Grove"
+      ],
+      "date": "1919-01-01T00:00:00Z",
+      "description": "128 p. ; 24 cm",
+      "downloads": 1772,
+      "file": "books/memorialhallcook00will.pdf",
+      "source_pdf": "memorialhallcook00will.pdf"
+    },
+    {
+      "identifier": "deweycookbook00youn",
+      "title": "The Dewey cook book",
+      "creator": [
+        "Young Men's Christian Association (Montpelier, Vt.). Women of the Auxiliary",
+        "Young Men's Christian Association (Montpelier, Vt.)"
+      ],
+      "subjects": [
+        "Cooking, American",
+        "Community cookbooks",
+        "Community cookbooks -- Vermont -- Montpelier"
+      ],
+      "date": "1899-01-01T00:00:00Z",
+      "description": [
+        "Advertisements and blank pages ([23] p.) at end",
+        "131, [23] p. : 20 cm"
+      ],
+      "downloads": 1345,
+      "file": "books/deweycookbook00youn.pdf",
+      "source_pdf": "deweycookbook00youn.pdf"
+    },
+    {
+      "identifier": "melwoodcookbookb00woma",
+      "title": "The Melwood cook book : being a collection of tried recipies, the offering to the Woman's Club of Melwood District, by the different members of that club",
+      "creator": [
+        "Woman's Club of Melwood District",
+        "Duvall, Percy"
+      ],
+      "subjects": [
+        "Community cookbooks",
+        "Cooking"
+      ],
+      "date": "1920-01-01T00:00:00Z",
+      "description": "105, [1] p. ; 14 x 21 cm",
+      "downloads": 274,
+      "file": "books/melwoodcookbookb00woma.pdf",
+      "source_pdf": "melwoodcookbookb00woma.pdf"
+    },
+    {
+      "identifier": "parishcookbook00stag",
+      "title": "The parish cook book",
+      "creator": "St. Agnes Guild of the Church of the Redeemer (Sayre, Pa.)",
+      "subjects": [
+        "Cooking, American",
+        "Community cookbooks",
+        "Community cookbooks -- Pennsylvania -- Sayre"
+      ],
+      "date": "1901-01-01T00:00:00Z",
+      "description": [
+        "Local advertisements at front and back of book",
+        "78, [14] p. : 23 cm"
+      ],
+      "downloads": 1324,
+      "file": "books/parishcookbook00stag.pdf",
+      "source_pdf": "parishcookbook00stag.pdf"
+    },
+    {
+      "identifier": "faulknercookbook00faul",
+      "title": "The Faulkner cook book",
+      "creator": "Faulkner Hospital Aid Association (Jamaica Plain, Mass.); Faulkner Hospital (Boston, Mass.)",
+      "subjects": [
+        "Faulkner Hospital (Boston, Mass.)",
+        "Hospitals--Massachusetts--Boston",
+        "Cooking--Massachusetts--Boston",
+        "Cooking, American",
+        "Community cookbooks--Massachusetts--Jamaica Plain"
+      ],
+      "date": "1914-01-01T00:00:00Z",
+      "description": "Book of recipes published for the benefit of the Faulkner Hospital Aid Association. Includes inspirational quotations, a table of weights and measures, recipes for food and miscellaneous items, such as lotion for chapped hands, notes pages, and advertisements. Recipe contributors listed with each recipe. Includes index.",
+      "downloads": 1137,
+      "file": "books/faulknercookbook00faul.pdf",
+      "source_pdf": "faulknercookbook00faul.pdf"
+    },
+    {
+      "identifier": "BookOfRecipes",
+      "title": "Book of recipes",
+      "creator": "Daughters of the American Revolution. Genesee Chapter",
+      "subjects": [
+        "Cookbooks",
+        "Community cookbooks -- Michigan -- Flint",
+        "Cooking -- Michigan",
+        "Cooking, American",
+        "Cooking",
+        "Community cookbooks"
+      ],
+      "date": "1922-01-01T00:00:00Z",
+      "description": [
+        "Book Of Recipes",
+        "Electronic reproduction",
+        "Master and use copy. Digital master created according to Benchmark for Faithful Digital Reproductions of Monographs and Serials, Version 1. Digital Library Federation, December 2002",
+        "digitized",
+        "Print version record"
+      ],
+      "downloads": 4533,
+      "file": "books/BookOfRecipes.pdf",
+      "source_pdf": "BookOfRecipes.pdf"
+    },
+    {
+      "identifier": "tastefulhints00ladi",
+      "title": "Tasteful hints",
+      "creator": "Ladies of the West Medford Congregational Church",
+      "subjects": [
+        "Cooking, American",
+        "Community cookbooks",
+        "Community cookbooks -- Massachusetts -- West Medford"
+      ],
+      "date": "1892-01-01T00:00:00Z",
+      "description": [
+        "Local advertisements at the front and back of book",
+        "27 p. : 19 cm"
+      ],
+      "downloads": 633,
+      "file": "books/tastefulhints00ladi.pdf",
+      "source_pdf": "tastefulhints00ladi.pdf"
+    },
+    {
+      "identifier": "tx715_t494_1909_opt",
+      "title": "The Texas 'four hundred' (put to service) cook book : four hundred recipes tested and proven to a point beyond failure is being sold regularly in many Texas towns.",
+      "creator": "Unknown",
+      "subjects": [
+        "Cookbooks",
+        "Community cookbooks",
+        "Texas"
+      ],
+      "date": "1909-01-01T00:00:00Z",
+      "description": "Publication of four hundred recipes with advertisements.",
+      "downloads": 280,
+      "file": "books/tx715_t494_1909_opt.pdf",
+      "source_pdf": "tx715_t494_1909_opt.pdf"
+    },
+    {
+      "identifier": "cookingscholbost00farmrich",
+      "title": "The Boston cooking-school cook book",
+      "creator": "Farmer, Fannie Merritt, 1857-1915",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1918-01-01T00:00:00Z",
+      "description": [
+        "xl, 656 p. 20 cm",
+        "Includes index"
+      ],
+      "downloads": 23785,
+      "file": "books/cookingscholbost00farmrich.pdf",
+      "source_pdf": "cookingscholbost00farmrich.pdf"
+    },
+    {
+      "identifier": "CAT31328030005",
+      "title": "Do you know oatmeal? [Lithuanian translation]",
+      "creator": [
+        "United States Food Administration",
+        "United States. Department of Agriculture"
+      ],
+      "subjects": [
+        "Oatmeal",
+        "Cooking (Oats)"
+      ],
+      "date": "1917-01-01T00:00:00Z",
+      "description": "Caption title",
+      "downloads": 214,
+      "file": "books/CAT31328030005.pdf",
+      "source_pdf": "CAT31328030005.pdf"
+    },
+    {
+      "identifier": "CAT31163041_0",
+      "title": "Vegetables to serve with meats",
+      "creator": [
+        "United States. Department of Agriculture. Radio Service",
+        "United States. Bureau of Home Economics"
+      ],
+      "subjects": [
+        "Menus Planning",
+        "Formulas, recipes, etc",
+        "Cooking (Vegetables)"
+      ],
+      "date": "1930-01-01T00:00:00Z",
+      "description": "\"July 18, 1930.\"",
+      "downloads": 185,
+      "file": "books/CAT31163041_0.pdf",
+      "source_pdf": "CAT31163041_0.pdf"
+    },
+    {
+      "identifier": "CAT31163232_0",
+      "title": "Cold meat in good company",
+      "creator": [
+        "United States. Department of Agriculture. Radio Service",
+        "United States. Bureau of Home Economics"
+      ],
+      "subjects": [
+        "Luncheons Planning",
+        "Menus Planning",
+        "Meat cuts",
+        "Formulas, recipes, etc"
+      ],
+      "date": "1930-01-01T00:00:00Z",
+      "description": "\"August 11, 1930.\"",
+      "downloads": 190,
+      "file": "books/CAT31163232_0.pdf",
+      "source_pdf": "CAT31163232_0.pdf"
+    },
+    {
+      "identifier": "CAT31070096",
+      "title": "Cabbage as soldiers eat it!",
+      "creator": "United States. War Food Administration. Office of Distribution",
+      "subjects": "Cooking (Cabbage)",
+      "date": "1944-01-01T00:00:00Z",
+      "description": "[2] p",
+      "downloads": 214,
+      "file": "books/CAT31070096.pdf",
+      "source_pdf": "CAT31070096.pdf"
+    },
+    {
+      "identifier": "CAT11084840045",
+      "title": "Institutional feeding managers, stewards - chefs - cooks, attention please",
+      "creator": [
+        "United States. War Food Administration",
+        "United States. War Food Administration Food news",
+        "United States. War Food Administration. Office of Distribution",
+        "United States. Commodity Credit Corporation. Office of Supply"
+      ],
+      "subjects": [
+        "foods",
+        "Cookery for institutions, etc"
+      ],
+      "date": "1945-01-01T00:00:00Z",
+      "description": [
+        "NAL holdings: Jan. 31, 1944-",
+        "Oct. 30, 1944-Aug. 27, 1945 are v.2, no.1-v.3, no.34",
+        "Issuing office varies: Feb. 28, 1944-Apr. 30, 1945, U.S. War food administration. Office of distribution. V.3, no.19-34 May 7, 1945-Aug. 27, 1945, U.S. Commodity credit corporation. Office of supply"
+      ],
+      "downloads": 126,
+      "file": "books/CAT11084840045.pdf",
+      "source_pdf": "CAT11084840045.pdf"
+    },
+    {
+      "identifier": "CAT10681124",
+      "title": "Utilization of dried fruits and vegetables",
+      "creator": [
+        "United States. Department of Agriculture. States Relations Service. Office of Extension Work, South",
+        "United States. Department of Agriculture. States Relations Service. Office of Home Economics"
+      ],
+      "subjects": [
+        "Cooking (Dried fruit)",
+        "Cookery (Dried vegetables)"
+      ],
+      "date": "1920-01-01T00:00:00Z",
+      "description": "Cop. 1 not acc",
+      "downloads": 348,
+      "file": "books/CAT10681124.pdf",
+      "source_pdf": "CAT10681124.pdf"
+    },
+    {
+      "identifier": "CAT10675727",
+      "title": "Dried beans & peas in low cost meals",
+      "creator": [
+        "United States. Bureau of Human Nutrition and Home Economics",
+        "United States. Surplus Marketing Administration"
+      ],
+      "subjects": "Cooking (Vegetables)",
+      "date": "1942-01-01T00:00:00Z",
+      "description": "\"Prepared by Bureau of home economics, U.S. Department of agriculture; issued by Surplus marketing administration, U.S. Department of agriculture.\" - p.8",
+      "downloads": 282,
+      "file": "books/CAT10675727.pdf",
+      "source_pdf": "CAT10675727.pdf"
+    },
+    {
+      "identifier": "maryelizabethsw00herngoog",
+      "title": "Mary Elizabeth's war time recipes, containing many simple but excellent recipes for wheatless cakes and bread, meatless dishes, sugarless candies, delicious war time desserts, and many other delectable \"economy\" dishes",
+      "creator": "Mary Elizabeth",
+      "subjects": [
+        "Cookery, American",
+        "Food conservation",
+        "cbk"
+      ],
+      "date": "1918-01-01T00:00:00Z",
+      "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+      "downloads": 2096,
+      "file": "books/maryelizabethsw00herngoog.pdf",
+      "source_pdf": "maryelizabethsw00herngoog.pdf"
+    },
+    {
+      "identifier": "appetizingnutdis1928unit",
+      "title": "Appetizing nut dishes.",
+      "creator": [
+        "United States. Department of Agriculture. Radio Service",
+        "United States. Bureau of Home Economics"
+      ],
+      "subjects": [
+        "Formulas, recipes, etc",
+        "Cooking (Nuts)"
+      ],
+      "date": "1928-01-01T00:00:00Z",
+      "description": "\"December 26, 1928.\"",
+      "downloads": 227,
+      "file": "books/appetizingnutdis1928unit.pdf",
+      "source_pdf": "appetizingnutdis1928unit.pdf"
+    },
+    {
+      "identifier": "sweetpotatoes1943unit",
+      "title": "Sweet potatoes",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": [
+        "Sweet potatoes Nutrition",
+        "Cooking (Sweet potatoes)"
+      ],
+      "date": "1943-01-01T00:00:00Z",
+      "description": [
+        "Caption title",
+        "\"August 18, 1943.\""
+      ],
+      "downloads": 230,
+      "file": "books/sweetpotatoes1943unit.pdf",
+      "source_pdf": "sweetpotatoes1943unit.pdf"
+    },
+    {
+      "identifier": "sweetsforchildre1931unit",
+      "title": "Sweets for children",
+      "creator": [
+        "United States. Department of Agriculture. Radio Service",
+        "United States. Bureau of Home Economics"
+      ],
+      "subjects": [
+        "Menus Planning",
+        "Confectionery",
+        "Formulas, recipes, etc"
+      ],
+      "date": "1931-01-01T00:00:00Z",
+      "description": "\"November 4, 1931.\"",
+      "downloads": 194,
+      "file": "books/sweetsforchildre1931unit.pdf",
+      "source_pdf": "sweetsforchildre1931unit.pdf"
+    },
+    {
+      "identifier": "calendarofdinner00neil_1",
+      "title": "A calendar of dinners, with 615 recipes",
+      "creator": "Neil, Marion Harris",
+      "subjects": [
+        "Cooking",
+        "Oils and fats, Edible",
+        "Menus"
+      ],
+      "date": "1922-01-01T00:00:00Z",
+      "description": [
+        "231 pages : 20 cm",
+        "Other editions pub. under title: Story of Crisco",
+        "Includes index",
+        "The story of Crisco / the Proctor & Gamble Distributing Co. of Canada",
+        "Gift; Mary Williamson; RB339187"
+      ],
+      "downloads": 684,
+      "file": "books/calendarofdinner00neil_1.pdf",
+      "source_pdf": "calendarofdinner00neil_1.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_royal-cook-pastry_TX409R831911rbdcook-16246",
+      "title": "Royal baker and pastry cook",
+      "creator": [
+        "Rudmani, Giuseppi",
+        "Royal Baking Powder Company"
+      ],
+      "subjects": [
+        "Baking.",
+        "Pastry.",
+        "Cooking.",
+        "McGill University Library Digitized Title",
+        "Cookbook Collection",
+        "Baking",
+        "Pastry",
+        "Cooking"
+      ],
+      "date": "1911-01-01T00:00:00Z",
+      "description": [
+        "44, [2] p. ; 21 cm.",
+        "Cover title",
+        "Earlier edition by Giuseppi Rudmani",
+        "Publisher's ads [2] p. at end",
+        "Includes index",
+        "Brown, E. & B. Culinary Americana"
+      ],
+      "downloads": 823,
+      "file": "books/McGillLibrary-rbsc_royal-cook-pastry_TX409R831911rbdcook-16246.pdf",
+      "source_pdf": "rbsc_royal-cook-pastry_TX409R831911rbdcook.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_good-health-guide_ra776r3031929-16217",
+      "title": "Rawleigh's good health guide and cook book, 1889-1930",
+      "creator": "W.T. Rawleigh Company",
+      "subjects": [
+        "W.T. Rawleigh Company.",
+        "Patent medicines.",
+        "Health.",
+        "Nutrition.",
+        "Cooking.",
+        "Home economics.",
+        "McGill University Library Digitized Title",
+        "Cookbook Collection",
+        "W.T. Rawleigh Company",
+        "Patent medicines",
+        "Health",
+        "Nutrition",
+        "Cooking",
+        "Home economics"
+      ],
+      "date": "1929-01-01T00:00:00Z",
+      "description": [
+        "32 pages : illustrations (some color) ; 24 cm",
+        "Promotional literature for W.T. Rawleigh Co"
+      ],
+      "downloads": 632,
+      "file": "books/McGillLibrary-rbsc_good-health-guide_ra776r3031929-16217.pdf",
+      "source_pdf": "rbsc_good-health-guide_ra776r3031929.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_cookbook_photoplays-cook-book_TX715P4861927-16660",
+      "title": "Photoplay's cook book : 100 favorite recipes of the stars",
+      "creator": [
+        "Van Wyck, Carolyn",
+        "Photoplay Magazine (Chicago, Ill.)"
+      ],
+      "subjects": [
+        "Cooking.",
+        "McGill University Library Digitized Title",
+        "Cookbook Collection",
+        "Cooking"
+      ],
+      "date": "1927-01-01T00:00:00Z",
+      "description": "44 pages : illustrations ; 22 cm",
+      "downloads": 4333,
+      "file": "books/McGillLibrary-rbsc_cookbook_photoplays-cook-book_TX715P4861927-16660.pdf",
+      "source_pdf": "rbsc_cookbook_photoplays-cook-book_TX715P4861927.pdf"
+    },
+    {
+      "identifier": "cihm_95398",
+      "title": "Cook book [microform] : containing recipes for a number of excellent dishes which can be made best with this food chopper",
+      "creator": null,
+      "subjects": [
+        "Cookery",
+        "Cuisine"
+      ],
+      "date": "1900-01-01T00:00:00Z",
+      "description": [
+        "Cover title: Food chopper cook book",
+        "Filmed from a copy of the original publication held by Audrey Barker",
+        "43"
+      ],
+      "downloads": 874,
+      "file": "books/cihm_95398.pdf",
+      "source_pdf": "cihm_95398.pdf"
+    },
+    {
+      "identifier": "fordanishappetit00solurich",
+      "title": "For Danish appetites : cook book",
+      "creator": "Solum, Lyla G",
+      "subjects": "Cookery, Danish",
+      "date": "1900-01-01T00:00:00Z",
+      "description": [
+        "58 p. : 21 cm",
+        "Cover title: Danish cook book"
+      ],
+      "downloads": 6890,
+      "file": "books/fordanishappetit00solurich.pdf",
+      "source_pdf": "fordanishappetit00solurich.pdf"
+    },
+    {
+      "identifier": "ladiesaidcookboo00dinuiala",
+      "title": "Ladies' Aid cook book",
+      "creator": "Dinuba (Calif.). Presbyterian Church. Ladies",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1909-01-01T00:00:00Z",
+      "description": "98 p",
+      "downloads": 1924,
+      "file": "books/ladiesaidcookboo00dinuiala.pdf",
+      "source_pdf": "ladiesaidcookboo00dinuiala.pdf"
+    },
+    {
+      "identifier": "onehundredoneway00soutrich",
+      "title": "One hundred & one ways of serving oysters",
+      "creator": "Southworth, May E. (May Elizabeth)",
+      "subjects": "Cookery (Oysters)",
+      "date": "1907-01-01T00:00:00Z",
+      "description": [
+        "82 p. ; 23 x 11 cm",
+        "\"The Tomoyé Press.\""
+      ],
+      "downloads": 1115,
+      "file": "books/onehundredoneway00soutrich.pdf",
+      "source_pdf": "onehundredoneway00soutrich.pdf"
+    },
+    {
+      "identifier": "onethousandoneus00ewelrich",
+      "title": "One thousand and one useful recipes and valuable hints about cooking and housekeeping",
+      "creator": "Ewell's X.L. Dairy Bottled Milk Company",
+      "subjects": [
+        "Cookery, American",
+        "Cookery, American -- California"
+      ],
+      "date": "1890-01-01T00:00:00Z",
+      "description": [
+        "192 p. : 23 cm",
+        "Issued by Ewell's X.L. Dairy Bottled Milk Company"
+      ],
+      "downloads": 10261,
+      "file": "books/onethousandoneus00ewelrich.pdf",
+      "source_pdf": "onethousandoneus00ewelrich.pdf"
+    },
+    {
+      "identifier": "scientificfeedin00roperich",
+      "title": "Scientific feeding",
+      "creator": "Roper, Cathrine Christine Liebel, 1873-",
+      "subjects": "Cookery, American",
+      "date": "1914-01-01T00:00:00Z",
+      "description": "261 p. ; 19 cm",
+      "downloads": 962,
+      "file": "books/scientificfeedin00roperich.pdf",
+      "source_pdf": "scientificfeedin00roperich.pdf"
+    },
+    {
+      "identifier": "sunkistrecipesor00bradiala",
+      "title": "Sunkist recipes, oranges-lemons",
+      "creator": [
+        "Bradley, Alice, 1875-1946",
+        "California Fruit Growers Exchange"
+      ],
+      "subjects": [
+        "Cookery (Oranges)",
+        "Cookery (Lemons)",
+        "cbk"
+      ],
+      "date": "1916-01-01T00:00:00Z",
+      "description": [
+        "64 p. : 17 cm",
+        "Includes index"
+      ],
+      "downloads": 6171,
+      "file": "books/sunkistrecipesor00bradiala.pdf",
+      "source_pdf": "sunkistrecipesor00bradiala.pdf"
+    },
+    {
+      "identifier": "ninetyninesalads00liverich",
+      "title": "Ninety-nine salads and how to make them, with rules for dressing and sauce",
+      "creator": "Livermore & Knight Co",
+      "subjects": [
+        "Salads",
+        "Cookery, American -- California"
+      ],
+      "date": "1897-01-01T00:00:00Z",
+      "description": [
+        "57 p",
+        "\"Copyrighted 1897 by Livermore & Knight Co., Providence, R.I.\""
+      ],
+      "downloads": 1330,
+      "file": "books/ninetyninesalads00liverich.pdf",
+      "source_pdf": "ninetyninesalads00liverich.pdf"
+    },
+    {
+      "identifier": "sananselmocookbo00sanaiala",
+      "title": "San Anselmo cook-book",
+      "creator": "San Anselmo (Calif.). Saint Anselm's Church. Ladies",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1908-01-01T00:00:00Z",
+      "description": [
+        "168 p",
+        "Advertising matter interspersed"
+      ],
+      "downloads": 1483,
+      "file": "books/sananselmocookbo00sanaiala.pdf",
+      "source_pdf": "sananselmocookbo00sanaiala.pdf"
+    },
+    {
+      "identifier": "cookingforprofit00whitrich",
+      "title": "Cooking for profit : a new American cookbook adapted for the use of all who serve meals for a price",
+      "creator": "Whitehead, Jessup",
+      "subjects": [
+        "Quantity cookery",
+        "Food service",
+        "cbk"
+      ],
+      "date": "1893-01-01T00:00:00Z",
+      "description": "354 p. in various pagings ; 27 cm",
+      "downloads": 7091,
+      "file": "books/cookingforprofit00whitrich.pdf",
+      "source_pdf": "cookingforprofit00whitrich.pdf"
+    },
+    {
+      "identifier": "americanpastryco00whitrich",
+      "title": "The American pastry cook : a book of perfected receipts...",
+      "creator": "Whitehead, Jessup",
+      "subjects": [
+        "Quantity cookery",
+        "Pastry"
+      ],
+      "date": "1894-01-01T00:00:00Z",
+      "description": [
+        "225 p. : 26 cm",
+        "Spine title: Hotel pastry cook",
+        "Includes index"
+      ],
+      "downloads": 6402,
+      "file": "books/americanpastryco00whitrich.pdf",
+      "source_pdf": "americanpastryco00whitrich.pdf"
+    },
+    {
+      "identifier": "sandwiches00rorerich",
+      "title": "Sandwiches",
+      "creator": "Rorer, Sarah Tyson Heston, 1849-1937",
+      "subjects": [
+        "Sandwiches",
+        "Cookery, American"
+      ],
+      "date": "1912-01-01T00:00:00Z",
+      "description": [
+        "86 p. ; 19 cm",
+        "Includes index",
+        "Includes advertisements",
+        "Pages [77]-[83] blank for \"Additional recipes.\""
+      ],
+      "downloads": 3938,
+      "file": "books/sandwiches00rorerich.pdf",
+      "source_pdf": "sandwiches00rorerich.pdf"
+    },
+    {
+      "identifier": "recipesgrandview00granrich",
+      "title": "Recipes, Grandview Congregational Church",
+      "creator": "Grandview, Ohio. Congregational Church",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1916-01-01T00:00:00Z",
+      "description": [
+        "96 p",
+        "Illustration on t.p",
+        "Includes advertising matter",
+        "Pages 93-96 blank for \"New recipes.\"",
+        "Prepared by the ladies of Grandview and Marble Cliff. - cf. Pref"
+      ],
+      "downloads": 1796,
+      "file": "books/recipesgrandview00granrich.pdf",
+      "source_pdf": "recipesgrandview00granrich.pdf"
+    },
+    {
+      "identifier": "heartydishesforo00unit",
+      "title": "Hearty dishes for one hundred : suitable for hotels, boarding houses, institutions",
+      "creator": "United States Food Administration",
+      "subjects": [
+        "Food service",
+        "Quantity cookery"
+      ],
+      "date": "1918-01-01T00:00:00Z",
+      "description": "8 p. ; 20 cm",
+      "downloads": 1233,
+      "file": "books/heartydishesforo00unit.pdf",
+      "source_pdf": "heartydishesforo00unit.pdf"
+    },
+    {
+      "identifier": "sundaysuppersbei00willrich",
+      "title": "Sunday suppers; being fifty-four chafing-dish recipes, old and new",
+      "creator": "Williams, Alice Laidlaw, b. 1873",
+      "subjects": [
+        "Chafing dish cookery",
+        "Menus"
+      ],
+      "date": "1912-01-01T00:00:00Z",
+      "description": "108 p. 17 cm",
+      "downloads": 1186,
+      "file": "books/sundaysuppersbei00willrich.pdf",
+      "source_pdf": "sundaysuppersbei00willrich.pdf"
+    },
+    {
+      "identifier": "simplecookingofw00richrich",
+      "title": "Simple cooking of wholesome food for the farm home",
+      "creator": [
+        "Rich, Jessie Pinning",
+        "University of Texas. Division of Extension"
+      ],
+      "subjects": [
+        "Cookery",
+        "Fireless cookers",
+        "cbk"
+      ],
+      "date": "1913-01-01T00:00:00Z",
+      "description": "30 p. ; 23 p",
+      "downloads": 2179,
+      "file": "books/simplecookingofw00richrich.pdf",
+      "source_pdf": "simplecookingofw00richrich.pdf"
+    },
+    {
+      "identifier": "cooksownbookbein00leeniala",
+      "title": "The cook's own book : being a complete culinary encyclopedia comprehending all valuable receipts for cooking meat, fish, and fowl : and composing every kind of soup, gravy, pastry, preserves, essences, &c. that have been published or invented during the last twenty years : particularly the very best of those in the Cook's oracle, Cook's dicitionary, and other systems of domestic economy : with numerous original receipts and a complete system of confectionery",
+      "creator": "Lee, N. K. M., Mrs",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1832-01-01T00:00:00Z",
+      "description": [
+        "Cagle & Stafford. Amer. cooks on food and drink",
+        "Spec. Coll. copy: Calf. Includes inscription dated 1852 and the signature of former owner: Ruth Mellinkoff, 1950. Copy lacks p. 299-300"
+      ],
+      "downloads": 5653,
+      "file": "books/cooksownbookbein00leeniala.pdf",
+      "source_pdf": "cooksownbookbein00leeniala.pdf"
+    },
+    {
+      "identifier": "irishpotato00richrich",
+      "title": "The Irish potato",
+      "creator": "Rich, Jessie Pinning",
+      "subjects": "Cookery (Potatoes)",
+      "date": "1914-01-01T00:00:00Z",
+      "description": "13 p. ; 23 cm",
+      "downloads": 1959,
+      "file": "books/irishpotato00richrich.pdf",
+      "source_pdf": "irishpotato00richrich.pdf"
+    },
+    {
+      "identifier": "coronaclubcookbo00cororich",
+      "title": "Corona Club cook book",
+      "creator": "Corona Club, San Francisco",
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1910-01-01T00:00:00Z",
+      "description": "249 p. ; 24 cm",
+      "downloads": 2361,
+      "file": "books/coronaclubcookbo00cororich.pdf",
+      "source_pdf": "coronaclubcookbo00cororich.pdf"
+    },
+    {
+      "identifier": "foodcookeryhandb00andeiala",
+      "title": "Food and cookery : hand book for teachers and pupils for use in cooking classes and demonstrations",
+      "creator": "Anderson, H. S. (Hans Steele), b. 1877",
+      "subjects": [
+        "Vegetarianism",
+        "Cookery (Vegetables)",
+        "cbk"
+      ],
+      "date": "1915-01-01T00:00:00Z",
+      "description": [
+        "Illustrated olive linen over boards. UCLA copy imperfect, p. [5]-[16] wanting",
+        "Purchase, Howard Karno Books, 1993"
+      ],
+      "downloads": 1448,
+      "file": "books/foodcookeryhandb00andeiala.pdf",
+      "source_pdf": "foodcookeryhandb00andeiala.pdf"
+    },
+    {
+      "identifier": "purefoodcookbook00maddiala",
+      "title": "The pure food cook book : the Good housekeeping recipes, just how to buy, just how to cook",
+      "creator": [
+        "Maddocks, Mildred",
+        "Wiley, Harvey Washington, 1844-1930"
+      ],
+      "subjects": [
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1914-01-01T00:00:00Z",
+      "description": [
+        "viii, 417 p., 25 leaves of plates : 19 cm",
+        "Blank pages at end of each chapter"
+      ],
+      "downloads": 4071,
+      "file": "books/purefoodcookbook00maddiala.pdf",
+      "source_pdf": "purefoodcookbook00maddiala.pdf"
+    },
+    {
+      "identifier": "dinneryearbook00harlrich",
+      "title": "The dinner year book",
+      "creator": "Harland, Marion, 1830-1922",
+      "subjects": "Cookery, American",
+      "date": "1878-01-01T00:00:00Z",
+      "description": [
+        "713 p., [6] leaves of plates : 20 cm",
+        "Includes index"
+      ],
+      "downloads": 2978,
+      "file": "books/dinneryearbook00harlrich.pdf",
+      "source_pdf": "dinneryearbook00harlrich.pdf"
+    },
+    {
+      "identifier": "echosofsouthernk00unitiala",
+      "title": "Echos of southern kitchens",
+      "creator": "United Daughters of the Confederacy. California Division. Robert E. Lee Chapter, No. 278, Los Angeles",
+      "subjects": "Cookery, American -- Southern style",
+      "date": "1916-01-01T00:00:00Z",
+      "description": [
+        "90 p",
+        "Advertising matter interspersed"
+      ],
+      "downloads": 3249,
+      "file": "books/echosofsouthernk00unitiala.pdf",
+      "source_pdf": "echosofsouthernk00unitiala.pdf"
+    },
+    {
+      "identifier": "caloricbook00calorich",
+      "title": "Caloric book of recipes ... especially adapted to the improved Caloric cookstove",
+      "creator": "Caloric Company",
+      "subjects": "Cookery",
+      "date": "1912-01-01T00:00:00Z",
+      "description": "138 p",
+      "downloads": 929,
+      "file": "books/caloricbook00calorich.pdf",
+      "source_pdf": "caloricbook00calorich.pdf"
+    },
+    {
+      "identifier": "directionsforcoo00nigh",
+      "title": "Directions for cooking by troops : in camp and hospital",
+      "creator": [
+        "Nightingale, Florence, 1820-1910",
+        "Confederate States of America. Army of Northern Virginia"
+      ],
+      "subjects": [
+        "Cookery for the sick",
+        "Cookery, Military",
+        "Military Medicine",
+        "Nutrition",
+        "Quantity cookery"
+      ],
+      "date": "1861-01-01T00:00:00Z",
+      "description": [
+        "Possibly printed before the secession of Virginia. Cf. Crandall",
+        "Publisher's advertisements on [5] p. at end",
+        "Crandall, M.L. Confederate imprints",
+        "Elmer Belt Florence Nightingale collection",
+        "Blue cloth over cards; green paste-downs. Final page partly adhered to lower paste-down. Yellow printed paper label--with title, attribution, and publisher--on cover; perhaps from original wrappers?",
+        "Ex libris Charles W. Malotte"
+      ],
+      "downloads": 2938,
+      "file": "books/directionsforcoo00nigh.pdf",
+      "source_pdf": "directionsforcoo00nigh.pdf"
+    },
+    {
+      "identifier": "hartfordelection00johnrich",
+      "title": "Hartford election cake and other receipts : chiefly from manuscript sources",
+      "creator": "Johnson, Ellen Wadsworth, d. 1896",
+      "subjects": "Cookery, American",
+      "date": "1889-01-01T00:00:00Z",
+      "description": "123 p. ; 19 cm",
+      "downloads": 1902,
+      "file": "books/hartfordelection00johnrich.pdf",
+      "source_pdf": "hartfordelection00johnrich.pdf"
+    }
+  ]
+}

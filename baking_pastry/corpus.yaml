@@ -1,0 +1,41 @@
+name: "Historical Baking and Pastry (1800-1950)"
+
+corpus_context: >
+  85 specialized baking and pastry books spanning 1800-1950, covering bread
+  making, pastry arts, confectionery, and desserts. Collection includes
+  professional baker's manuals, home baking guides, confectioner's handbooks,
+  and specialized cake decorating texts. Documents feature precise formulas
+  (often using baker's percentages), technical procedures for leavening and
+  lamination, sugar work techniques, and equipment specifications from the
+  pre-industrial and early industrial eras. Many texts bridge the transition
+  from artisan to commercial baking. Sourced from culinary school archives,
+  trade publications, and Internet Archive.
+
+scenarios:
+  culinary_history:
+    name: "Baking History Research"
+    description: >
+      You are creating questions for researchers studying the history of baking
+      and pastry arts. Questions should test understanding of how baking
+      techniques evolved, what equipment and ingredients were available in
+      different periods, how professional versus home baking differed, and how
+      industrialization changed the craft. Focus on technical evolution and
+      cultural context.
+
+  recipe_retrieval:
+    name: "Baking Formula Retrieval"
+    description: >
+      You are creating questions to test precise retrieval of baking formulas
+      and techniques. Questions should target specific ingredient ratios,
+      leavening methods, fermentation times, temperatures, and procedural steps.
+      Test ability to extract exact measurements (including baker's percentages
+      where applicable) and distinguish between similar preparations.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system actually read these baking
+      texts. Questions must have specific, verifiable answers - exact formulas,
+      precise timing, specific equipment names, and procedural details that
+      require the actual document. Baking is particularly precise; test for
+      exact proportions and technical details that cannot be approximated.

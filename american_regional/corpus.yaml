@@ -1,0 +1,41 @@
+name: "American Regional Cookbooks (1850-1950)"
+
+corpus_context: >
+  75 regional American cookbooks spanning 1850-1950, representing distinct
+  culinary traditions from across the United States. Collection includes
+  Southern, New England, Midwestern, Southwestern, and Pacific Coast cooking
+  traditions. Documents feature community recipe collections, church and charity
+  cookbooks, settlement house publications, and regional specialty compilations.
+  Content reflects immigrant foodways, agricultural practices, and local
+  ingredient availability. Many texts preserve oral traditions and family recipes
+  that would otherwise be lost. Sourced from Internet Archive and regional
+  historical societies.
+
+scenarios:
+  culinary_history:
+    name: "Culinary History Research"
+    description: >
+      You are creating questions for researchers studying American food history
+      and regional culinary identity. Questions should test understanding of how
+      regional cuisines developed, what immigrant influences shaped local
+      foodways, how geography and agriculture affected cooking practices, and
+      how community cookbooks preserved cultural traditions. Focus on regional
+      distinctions and historical context.
+
+  recipe_retrieval:
+    name: "Regional Recipe Retrieval"
+    description: >
+      You are creating questions to test retrieval of specific regional recipes
+      and their variations. Questions should target particular dishes, local
+      ingredient names, regional techniques, and community-specific preparations.
+      Test ability to distinguish between regional variants of similar dishes
+      and identify authentic historical preparations.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system actually read these cookbooks.
+      Questions need specific, verifiable answers - exact measurements, cooking
+      times, ingredient lists, and recipe attributions that require the actual
+      document. Focus on details that cannot be fabricated from general knowledge
+      of American regional cooking.

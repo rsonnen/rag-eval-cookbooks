@@ -1,0 +1,73 @@
+american_regional:
+  description: |
+    Regional American cookbooks 1800-1950 featuring Southern, New England,
+    Midwestern, and other regional cuisines with authentic period recipes.
+
+  source: archive
+
+  search_strategy:
+    subjects:
+      - "Cookery, American"
+      - "American cooking"
+      - "Cooking, American"
+      - "Southern cooking"
+      - "New England cooking"
+      - "Cookery -- United States"
+      - "Receipts"
+      - "Household"
+      - "Domestic economy"
+      - "Home economics"
+      - "Church cookbooks"
+      - "Community cookbooks"
+      - "Regional cooking"
+      - "Pioneer cooking"
+      - "Colonial cooking"
+    collections:
+      - "americana"
+      - "food_and_cooking"
+      - "gutenberg"
+      - "toronto"
+      - "universallibrary"
+      - "cdl"
+    date_range: [1800, 1950]
+    mediatype: texts
+
+  target_count: 150
+
+  evaluator_model: gpt-5-mini
+  confidence_threshold: 0.7
+
+  validation_prompt: |
+    You are evaluating whether a document belongs in a corpus of
+    HISTORICAL AMERICAN REGIONAL COOKBOOKS (1800-1950).
+
+    TEMPORAL REQUIREMENT (CRITICAL):
+    The work must have been PUBLISHED between 1800 and 1950.
+    Modern reprints or facsimiles do NOT belong.
+
+    CONTENT REQUIREMENTS:
+    The work must contain ACTUAL RECIPES with:
+    - Ingredient lists (even if embedded in prose)
+    - Cooking instructions/procedures
+    - Measurements and techniques
+
+    INCLUDE:
+    - American recipe collections and cookbooks
+    - Regional cookbooks (Southern, New England, Midwestern, etc.)
+    - Church and community cookbooks
+    - Household manuals with significant recipe sections
+    - Pioneer and frontier cooking guides
+    - Settlement house and charity cookbooks
+    - State and city-specific recipe collections
+
+    EXCLUDE:
+    - Novels or memoirs that merely mention food
+    - Food history without recipes
+    - Nutrition/diet books without actual recipes
+    - Agricultural reports without recipes
+    - Single-page menus or ephemera
+    - Newspapers (even with recipe columns)
+    - Non-American cookbooks
+
+    Look for page layouts with recipe formatting: titles, ingredient lists,
+    numbered steps, cooking times, serving suggestions.

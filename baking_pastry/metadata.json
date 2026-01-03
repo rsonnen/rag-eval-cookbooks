@@ -1,0 +1,2043 @@
+{
+  "corpus": "baking_pastry",
+  "source": "internet_archive",
+  "search_strategy": {
+    "subjects": [
+      "Baking",
+      "Pastry",
+      "Confectionery",
+      "Cake baking",
+      "Cake decorating",
+      "Bread making",
+      "Patisserie",
+      "Desserts",
+      "Cookies",
+      "Pies",
+      "Puddings",
+      "Sugar work",
+      "Pastry cook",
+      "Baker's manual",
+      "Baking recipes"
+    ],
+    "collections": [
+      "food_and_cooking",
+      "americana",
+      "gutenberg",
+      "toronto"
+    ],
+    "collection_subject_filter": [
+      "baking",
+      "pastry",
+      "confectionery",
+      "cake",
+      "bread",
+      "recipes"
+    ],
+    "date_range": [
+      1800,
+      1950
+    ],
+    "mediatype": "texts"
+  },
+  "curated_at": "2025-12-29T03:16:24.710740+00:00",
+  "total_books": 100,
+  "books_evaluated": 131,
+  "acceptance_rate": 0.7633587786259542,
+  "books": [
+    {
+      "identifier": "intriguingwayswi1928unit",
+      "title": "Intriguing ways with winter vegetables",
+      "creator": [
+        "United States. Department of Agriculture. Radio Service",
+        "United States. Bureau of Home Economics"
+      ],
+      "subjects": [
+        "Cooking (Vegetables) Baking",
+        "Formulas, recipes, etc"
+      ],
+      "date": "1928-01-01T00:00:00Z",
+      "description": "\"Jan. 5, 1928.\"",
+      "downloads": 196,
+      "file": "books/intriguingwayswi1928unit.pdf",
+      "source_pdf": "intriguingwayswi1928unit.pdf"
+    },
+    {
+      "identifier": "bakedbeansbrownb1930unit",
+      "title": "Baked beans and brown bread",
+      "creator": [
+        "United States. Department of Agriculture. Radio Service",
+        "United States. Bureau of Home Economics"
+      ],
+      "subjects": [
+        "Cooking (Beans) Bread",
+        "Baking",
+        "Formulas, recipes, etc"
+      ],
+      "date": "1930-01-01T00:00:00Z",
+      "description": "\"February 28, 1930.\"",
+      "downloads": 375,
+      "file": "books/bakedbeansbrownb1930unit.pdf",
+      "source_pdf": "bakedbeansbrownb1930unit.pdf"
+    },
+    {
+      "identifier": "TM10-410",
+      "title": "TM 10-410 Army Baker, 1941",
+      "creator": "United States. Army. Quartermaster Corps",
+      "subjects": [
+        "WWII",
+        "World War, 1939-1945",
+        "United States. Army",
+        "World War II",
+        "United States. -- Army -- Handbooks, Manuals, Etc",
+        "Field Manual",
+        "Baking -- Handbooks, Manuals, Etc",
+        "Technical Manual",
+        "Baking",
+        "Cooking for military personnel",
+        "Bakers and bakeries",
+        "Bakeries",
+        "Bakers"
+      ],
+      "date": "1941-03-22T00:00:00Z",
+      "description": "TM 10-410 Army Baker, 1941-03-22 Prepared under direction of The Quartermaster General Paragraphs Section I. General 1-3 II. Grains and flours 4^12 III. Leavening agents 13-21 IV. Additional bread dough ingredients 22-27 V. Manufacture of bread 28-40 VI. Percentage system of formula construction 41-45 VII. Bread formulas 46-53 VIII. Bread faults ; their causes and corrections 54-58 IX. Sweet dough and pastry products 59-67 X. Post bakery equipment and arrangement 68-85 XI. Field baking and equipment 86-104 XII. Bakery sanitation 105-112 XIII. Weights, measures, and tables 113-115 Page Index 143 This manual supersedes TM 2100-151, November 20, 1030.",
+      "downloads": 2217,
+      "file": "books/TM10-410.pdf",
+      "source_pdf": "TM10-410.pdf"
+    },
+    {
+      "identifier": "americanhousewi00shutgoog",
+      "title": "The American Housewife: Cook Book",
+      "creator": "T.S. Shute",
+      "subjects": [
+        "boil",
+        "add",
+        "water",
+        "pint",
+        "pour",
+        "stir",
+        "salt",
+        "teaspoonful",
+        "half",
+        "butter",
+        "condensed baking",
+        "cold water",
+        "boiling water",
+        "baking powder",
+        "hot water",
+        "standard family",
+        "best family",
+        "add half",
+        "small piece",
+        "absolutely pure"
+      ],
+      "date": "1878-01-01T00:00:00Z",
+      "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+      "downloads": 1408,
+      "file": "books/americanhousewi00shutgoog.pdf",
+      "source_pdf": "americanhousewi00shutgoog.pdf"
+    },
+    {
+      "identifier": "stirringdays1934unit",
+      "title": "Stirring days",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": "Baking. Cake. Christmas cooking. Formulas, recipes, etc. Menus. Home economics.",
+      "date": "1934-01-01T00:00:00Z",
+      "description": "\"Friday, December 7, 1934.\"",
+      "downloads": 249,
+      "file": "books/stirringdays1934unit.pdf",
+      "source_pdf": "stirringdays1934unit.pdf"
+    },
+    {
+      "identifier": "war-time-cookery-by-edith-blackman-1917",
+      "title": "War Time Cookery By Edith Blackman 1917",
+      "creator": "Edith Blackman",
+      "subjects": [
+        "ww1",
+        "world war 1",
+        "rations",
+        "cooking",
+        "baking",
+        "survival",
+        "field kitchen",
+        "mass feeding"
+      ],
+      "date": "1917-01-01T00:00:00Z",
+      "description": "This little book is not published as a cook book in the sense that it covers all phases of cookery. It is the outcome of an earnest desire to know how, in the average home, one may conserve some materials and substitute others for those needed most by our men and Allies, without radically changing the daily menu or method of living. By giving the matter earnest thought we may easily plan for seven wheatless, fourteen meatless, and twenty-one wasteless meals each week and serve food which is attractive, palatable, and sufficient for the daily needs of the body. While leaving eggs and milk out of many recipes, lessens the food value of the dishes, this often seems a wise elimination. Eggs, when used, should be looked upon as a meat substitute, and the children often need the milk.",
+      "downloads": 103,
+      "file": "books/war-time-cookery-by-edith-blackman-1917.pdf",
+      "source_pdf": "War-Time Cookery by Edith Blackman  1917.pdf"
+    },
+    {
+      "identifier": "b21527490",
+      "title": "A treatise on the art of baking : with a preliminary introduction, shewing the various productions of the different quarters of the globe -- observations on the present state of agriculture --the farmer and middleman -- strictures on the corn bill, &c. With a number of valuable receipts, original and selected for the baker and domestic circle",
+      "creator": [
+        "White, John, fl.1828",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Agriculture",
+        "Baking"
+      ],
+      "date": "1828-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 434,
+      "file": "books/b21527490.pdf",
+      "source_pdf": "b21527490.pdf"
+    },
+    {
+      "identifier": "chillyweatherpud1933unit",
+      "title": "Chilly weather puddings",
+      "creator": [
+        "United States. Department of Agriculture. Radio Service",
+        "United States. Bureau of Home Economics"
+      ],
+      "subjects": [
+        "Puddings",
+        "Pies",
+        "Baking"
+      ],
+      "date": "1933-01-01T00:00:00Z",
+      "description": "\"Wednesday, October 18, 1933.\"",
+      "downloads": 210,
+      "file": "books/chillyweatherpud1933unit.pdf",
+      "source_pdf": "chillyweatherpud1933unit.pdf"
+    },
+    {
+      "identifier": "summerpastries1936unit",
+      "title": "Summer pastries",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": [
+        "Pastry",
+        "Baking",
+        "Pies",
+        "Desserts",
+        "Home economics"
+      ],
+      "date": "1936-01-01T00:00:00Z",
+      "description": "\"Friday, August 7, 1936.\"",
+      "downloads": 309,
+      "file": "books/summerpastries1936unit.pdf",
+      "source_pdf": "summerpastries1936unit.pdf"
+    },
+    {
+      "identifier": "33-select-recipes",
+      "title": "33 Select Recipes",
+      "creator": "Standard Milling Co.",
+      "subjects": [
+        "cooking",
+        "baking",
+        "flour",
+        "cresota",
+        "kitchen",
+        "vendor"
+      ],
+      "date": "1933-01-01T00:00:00Z",
+      "description": "A scan of a small recipe booklet put out by The Northwestern Consolidated Milling Division of Standard Milling Co to promote their Cresota Flour product. There are 33 recipes in the booklet.",
+      "downloads": 329,
+      "file": "books/33-select-recipes.pdf",
+      "source_pdf": "33 select recipes.pdf"
+    },
+    {
+      "identifier": "completebreadca00unkngoog",
+      "title": "The complete bread, cake and cracker baker",
+      "creator": "Gill, J. Thompson",
+      "subjects": [
+        "Baking",
+        "Bread",
+        "Cake",
+        "Cookery, American",
+        "cbk"
+      ],
+      "date": "1881-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+        "Bitting, K.G. Gastronomic bib.",
+        "pt. I. The science and art of baking. -- pt. II. Formulæ and memoranda. Standard recipes",
+        "Publisher's ads [4] p. at end"
+      ],
+      "downloads": 4003,
+      "file": "books/completebreadca00unkngoog.pdf",
+      "source_pdf": "completebreadca00unkngoog.pdf"
+    },
+    {
+      "identifier": "bookofamericanba00amer",
+      "title": "Book of American baking; a practical guide covering various branches of the baking industry ..",
+      "creator": "American trade publishing company, New York. [from old catalog]",
+      "subjects": "Baking. [from old catalog]",
+      "date": "1910-01-01T00:00:00Z",
+      "description": "191 p. 20 cm",
+      "downloads": 2184,
+      "file": "books/bookofamericanba00amer.pdf",
+      "source_pdf": "bookofamericanba00amer.pdf"
+    },
+    {
+      "identifier": "spongecakesyello1938unit",
+      "title": "Sponge cakes : yellow and white",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": [
+        "Cake",
+        "Baking"
+      ],
+      "date": "1938-01-01T00:00:00Z",
+      "description": "\"Friday, April 8, 1938.\"",
+      "downloads": 388,
+      "file": "books/spongecakesyello1938unit.pdf",
+      "source_pdf": "spongecakesyello1938unit.pdf"
+    },
+    {
+      "identifier": "itspietomake1936unit",
+      "title": "It's \"pie\" to make",
+      "creator": [
+        "United States. Department of Agriculture. Press Service",
+        "United States. Department of Agriculture. Office of Information",
+        "United States. Extension Service"
+      ],
+      "subjects": "Baking. Pies Varieties. Formulas, recipes, etc.",
+      "date": "1936-01-01T00:00:00Z",
+      "description": "2 l. ; 27 cm",
+      "downloads": 201,
+      "file": "books/itspietomake1936unit.pdf",
+      "source_pdf": "itspietomake1936unit.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_royal-cook-pastry_TX409R831911rbdcook-16246",
+      "title": "Royal baker and pastry cook",
+      "creator": [
+        "Rudmani, Giuseppi",
+        "Royal Baking Powder Company"
+      ],
+      "subjects": [
+        "Baking.",
+        "Pastry.",
+        "Cooking.",
+        "McGill University Library Digitized Title",
+        "Cookbook Collection",
+        "Baking",
+        "Pastry",
+        "Cooking"
+      ],
+      "date": "1911-01-01T00:00:00Z",
+      "description": [
+        "44, [2] p. ; 21 cm.",
+        "Cover title",
+        "Earlier edition by Giuseppi Rudmani",
+        "Publisher's ads [2] p. at end",
+        "Includes index",
+        "Brown, E. & B. Culinary Americana"
+      ],
+      "downloads": 823,
+      "file": "books/McGillLibrary-rbsc_royal-cook-pastry_TX409R831911rbdcook-16246.pdf",
+      "source_pdf": "rbsc_royal-cook-pastry_TX409R831911rbdcook.pdf"
+    },
+    {
+      "identifier": "TheBakersGuideAndPracticalAssistant",
+      "title": "The Bakers Guide And Practical Assistant To The Art Of Bread-Making In All Its Branches, 4th Ed.",
+      "creator": "Blandy, John",
+      "subjects": [
+        "Baking",
+        "Cookery",
+        "Bakers and bakeries",
+        "Confectionery",
+        "Bread"
+      ],
+      "date": "1899-01-01T00:00:00Z",
+      "description": [
+        "PREFACE. IT is with more than ordinary pleasure that I write the few words asked from me by Mr. Blandy as a preface to the Fourth Edition of the \" Bakers' and Confectioners' Guide.\" The circumstances under which this edition is called for and published are unique, and reflect the greatest credit on Mr. Blandy. That a trade in which reading and study is so little respected should have already bought up three editions is a circumstance in itself remarkable enough, but it is more than remarkable when the text is studied. Mr. Blandy does not spare his trade, but talks out straight, and points out without flinching the sins and shortcomings to which it is addicted. I cannot agree with all the strictures set forth in the \"Bakers' Guide,\" or subscrible to all the modes of reform the author suggests, but I can bear witness to the integrity and honesty of his opinions, and to the unselfish enthusiasm with which he has pursued the good and great work of reforming and educating the baking trade. He knows, as all reformers know, what it is to have his work disparaged and his motives misconstrued, but he troubles not, keeping his face well set to the work before him, and going heroically forward. He acts up to his ideal : \"It is of no consequence whether the outside world says ' successful ' to you or not ; your concern is to get the c well done ' at the finish of the journey from the man inside your own breast.\" It is not a worldly-wise ideal this, it is rather heroic ; but it is men with such ideals who do the pioneer work of the world, although the credit does not always turn their way. The original edition of the \"Bakers' Guide,\" published in 1882, was not the first book published for bakers, but there had been nothing of the kind issued for about thirty years before the \" Guide \" appeared, and the older works were either forgotten or obsolete, and were only interesting as ancient literature. In each subsequent edition — and I have read them carefully — some new matter and new feature has been added ; but the present edition — of which I have had the privilege of reading the proof sheets — is quite a vade mecum for the baker and confectioner, whether he is old or young, master or man. If I have a preference for the \" literary \" part of the work — those little paragraph sermons which Mr. Blandy can write so ingeniously and so forcibly — it may be because of a personal predilection of mine, but it is also because there is wisdom and wit in them, and because where they are not directly instructive, they are always stimulating and provocative of thought. Mr. Blandy is original in the sense that his individuality predominates in all he does and all he writes ; he cannot, even if he tries, think of, write, or speak as the ordinary man, so that his literary work, however one may disagree with its purport, is always refreshing and always instructive. Since the last edition of this book was published the author has had the important experience of successfully teaching for several sessions a large class of bakers — workers, managers, and masters — at the Borough Polytechnic, London, and the result of his experience, or part of it, is now incorporated in the new edition of \" The Guide.\" He has learned that bakers don't care about long arrays of figures and compound technical terms, and he has tried, and tried successfully, to teach technics in language as plain as possible. But as knowledge of technical terms is absolutely necessary to the student, all that are essential and Some more have been incorporated in \" The Guide,\" in dictionary form, for ready reference. The multitude of recipes given are useful to those in search of variety, or to those so situated that they must be their own instructors ; to such this book will be a real guide. I could wish for nothing better for the baking and confectionery trades than that every young man would carefully peruse this new edition of the \"Bakers' Guide,'' in itself it is a liberal education. John Kirkland Digitized by Google.",
+        "Earlier edition has title: The bakers' guide and practical assistant to the art of breadmaking, etc"
+      ],
+      "downloads": 2256,
+      "file": "books/TheBakersGuideAndPracticalAssistant.pdf",
+      "source_pdf": "TheBakersGuideAndPracticalAssistant.pdf"
+    },
+    {
+      "identifier": "beloitcookbook00belgoog",
+      "title": "Beloit Cook Book",
+      "creator": "Wis Beloit Federation of Women (Beloit",
+      "subjects": [
+        "cup",
+        "add",
+        "teaspoon",
+        "cups",
+        "tablespoon",
+        "knox",
+        "bake",
+        "tablespoons",
+        "gelatine",
+        "milk",
+        "knox gelatine",
+        "boiling water",
+        "teaspoons baking",
+        "cold water",
+        "cup sweet",
+        "vale bakery",
+        "pasteurized milk",
+        "cup chopped",
+        "eggs beaten",
+        "hot water"
+      ],
+      "date": "1914-01-01T00:00:00Z",
+      "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+      "downloads": 1261,
+      "file": "books/beloitcookbook00belgoog.pdf",
+      "source_pdf": "beloitcookbook00belgoog.pdf"
+    },
+    {
+      "identifier": "balanceddailydi00hillgoog",
+      "title": "Balanced Daily Diet",
+      "creator": "Janet McKenzie Hill",
+      "subjects": [
+        "cupful",
+        "crisco",
+        "teaspoonful",
+        "salt",
+        "flour",
+        "add",
+        "sugar",
+        "tablespoonfuls",
+        "egg",
+        "stir",
+        "teaspoonful salt",
+        "cupful crisco",
+        "boiling water",
+        "beaten light",
+        "baking powder",
+        "cupful sugar",
+        "cupful milk",
+        "cold water",
+        "tablespoonfuls crisco",
+        "teaspoonful paprika"
+      ],
+      "date": "1920-01-01T00:00:00Z",
+      "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+      "downloads": 476,
+      "file": "books/balanceddailydi00hillgoog.pdf",
+      "source_pdf": "balanceddailydi00hillgoog.pdf"
+    },
+    {
+      "identifier": "manual-for-army-cooks-1896",
+      "title": "Manual For Army Cooks 1896",
+      "creator": "United States, War Department",
+      "subjects": [
+        "us army",
+        "cook",
+        "mess hall",
+        "rations",
+        "mass feeding",
+        "baking",
+        "cooking",
+        "food",
+        "survival"
+      ],
+      "date": "1896-01-01T00:00:00Z",
+      "description": "This manual gives the basics for being and Army Cook in garrison and in the field.  It gives information on running a Mess Hall.  Recipes are given for using the items that the Cook can get a hold of.",
+      "downloads": 69,
+      "file": "books/manual-for-army-cooks-1896.pdf",
+      "source_pdf": "Manual For Army Cooks  1896.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_five-roses-cook-book_TX769F581913-23364",
+      "title": "Five roses cook book; being a manual of good recipes carefully chosen from the contributions of over two thousand successful users of Five Roses Flour throughout Canada",
+      "creator": "Lake of the Woods Milling Company",
+      "subjects": [
+        "Bread.",
+        "Cooking.",
+        "Pastry.",
+        "Bread",
+        "Pain.",
+        "Pâtisserie.",
+        "McGill University Library Digitized Title",
+        "cookbook project 2024",
+        "Cooking",
+        "Pastry",
+        "Pain",
+        "Pâtisserie",
+        "bread"
+      ],
+      "date": "1913-01-01T00:00:00Z",
+      "description": [
+        "144 pages color illustrations",
+        "144 pages"
+      ],
+      "downloads": 117,
+      "file": "books/McGillLibrary-rbsc_five-roses-cook-book_TX769F581913-23364.pdf",
+      "source_pdf": "rbsc_five-roses-cook-book_TX769F581913.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_robin-hood_flour_folioTX714R641915-23391",
+      "title": "Robin Hood Flour Cook Book",
+      "creator": "Rorer, Sarah Tyson, 1849-1937, author",
+      "subjects": [
+        "Preserves",
+        "Beverages.",
+        "Puddings.",
+        "Desserts.",
+        "Pies.",
+        "Pastry.",
+        "Icings",
+        "Cake.",
+        "Bread.",
+        "Cereal",
+        "Salads.",
+        "Vegetables.",
+        "Eggs.",
+        "Sauces.",
+        "Poultry and Game",
+        "Meat.",
+        "Fishes.",
+        "Soups.",
+        "Flour mills -- Canada.",
+        "Flour.",
+        "Cooking -- Saskatchewan -- Moose Jaw.",
+        "Cooking, Canadian.",
+        "Beverages",
+        "Bread",
+        "Vegetables",
+        "Eggs",
+        "Meat",
+        "Fishes",
+        "Flour",
+        "Boissons.",
+        "Tartes.",
+        "Pâtisserie.",
+        "Pain.",
+        "Salades.",
+        "Légumes.",
+        "Œufs.",
+        "Viande.",
+        "Poissons.",
+        "Soupes.",
+        "Moulins à farine -- Canada.",
+        "Farine.",
+        "Cuisine canadienne.",
+        "McGill University Library Digitized Title",
+        "cookbook project 2024",
+        "Puddings",
+        "Desserts",
+        "Pies",
+        "Pastry",
+        "Cake",
+        "Salads",
+        "Sauces",
+        "Soups",
+        "Flour mills -- Canada",
+        "Cooking -- Saskatchewan -- Moose Jaw",
+        "Cooking, Canadian",
+        "Boissons",
+        "Tartes",
+        "Pâtisserie",
+        "Pain",
+        "Salades",
+        "Légumes",
+        "Œufs",
+        "Viande",
+        "Poissons",
+        "Soupes",
+        "Moulins à farine -- Canada",
+        "Farine",
+        "Cuisine canadienne",
+        "beverages",
+        "bread",
+        "Flour mills",
+        "Cooking",
+        "Saskatchewan -- Moose Jaw",
+        "Canada"
+      ],
+      "date": "1915-01-01T00:00:00Z",
+      "description": [
+        "80 pages : colour illustrations ; 27 cm",
+        "80 pages : 27 cm",
+        "Paper with cloth spine, hole in upper left corner for cord"
+      ],
+      "downloads": 210,
+      "file": "books/McGillLibrary-rbsc_robin-hood_flour_folioTX714R641915-23391.pdf",
+      "source_pdf": "rbsc_robin-hood_flour_folioTX714R641915.pdf"
+    },
+    {
+      "identifier": "cakesforbakers00rich",
+      "title": "Cakes for bakers",
+      "creator": "Richards, Paul",
+      "subjects": [
+        "Cake",
+        "Pastry"
+      ],
+      "date": "1921-01-01T00:00:00Z",
+      "description": "At head of title: Bake shop library",
+      "downloads": 2934,
+      "file": "books/cakesforbakers00rich.pdf",
+      "source_pdf": "cakesforbakers00rich.pdf"
+    },
+    {
+      "identifier": "perfectioninbaki00brau",
+      "title": "Perfection in baking",
+      "creator": "Braun, Emil. [from old catalog]",
+      "subjects": [
+        "Pastry",
+        "Cake",
+        "cbk"
+      ],
+      "date": "1893-01-01T00:00:00Z",
+      "description": "85 p. 24 cm",
+      "downloads": 1020,
+      "file": "books/perfectioninbaki00brau.pdf",
+      "source_pdf": "perfectioninbaki00brau.pdf"
+    },
+    {
+      "identifier": "grandlivredespat00dubo",
+      "title": "Grand livre des patissiers et des confiseurs",
+      "creator": "Dubois, Urbain, 1818-1901 author",
+      "subjects": [
+        "Pastry",
+        "Confectionery",
+        "Desserts",
+        "Cooking, French"
+      ],
+      "date": "1886-01-01T00:00:00Z",
+      "description": [
+        "2 volumes in 1 (XXIV, 432 pages, 2 unnumbered leaves of plates (1 double)) : 31 cm",
+        "Includes indexes"
+      ],
+      "downloads": 17394,
+      "file": "books/grandlivredespat00dubo.pdf",
+      "source_pdf": "grandlivredespat00dubo.pdf"
+    },
+    {
+      "identifier": "bakersfriendupto00mack",
+      "title": "Baker's friend; up-to-date receipts",
+      "creator": "Mackenzie, James L. [from old catalog]",
+      "subjects": [
+        "Cake",
+        "Pastry",
+        "cbk"
+      ],
+      "date": "1921-01-01T00:00:00Z",
+      "description": "88 p. 16 cm",
+      "downloads": 4068,
+      "file": "books/bakersfriendupto00mack.pdf",
+      "source_pdf": "bakersfriendupto00mack.pdf"
+    },
+    {
+      "identifier": "b29328949_0002",
+      "title": "Le pâtissier royal parisien, ou traité élémentaire et pratique de la pâtisserie ... ancienne et moderne, de l'entremets de sucre, des entrées froides et des socles; suivi d'observations utiles aux progrès de cet art, d'une série de plus de soixante menus, et d'une revue critique des grands bals de 1810 et 1811",
+      "creator": "Carême, M. A. (Marie Antonin), 1784-1833. n 80003970",
+      "subjects": [
+        "Pastry",
+        "Cake",
+        "Candy",
+        "Confectionery"
+      ],
+      "date": "1815-01-01T00:00:00Z",
+      "description": "2 volumes, folded plates : (8vo)",
+      "downloads": 946,
+      "file": "books/b29328949_0002.pdf",
+      "source_pdf": "b29328949_0002.pdf"
+    },
+    {
+      "identifier": "cakesforbakers00rich_0",
+      "title": "Cakes for bakers",
+      "creator": "Richards, Paul",
+      "subjects": [
+        "Cake",
+        "Pastry"
+      ],
+      "date": "1921-01-01T00:00:00Z",
+      "description": [
+        "280, [13] p. incl. front. (port.) 24 cm",
+        "At head of title: Bake shop library"
+      ],
+      "downloads": 47,
+      "file": "books/cakesforbakers00rich_0.pdf",
+      "source_pdf": "cakesforbakers00rich_0.pdf"
+    },
+    {
+      "identifier": "perfectioninbaki02brau",
+      "title": "Perfection in baking",
+      "creator": "Braun, Emil",
+      "subjects": [
+        "Pastry",
+        "Cake",
+        "cbk"
+      ],
+      "date": "1895-01-01T00:00:00Z",
+      "description": "105 p. 24 cm",
+      "downloads": 1118,
+      "file": "books/perfectioninbaki02brau.pdf",
+      "source_pdf": "perfectioninbaki02brau.pdf"
+    },
+    {
+      "identifier": "cakesforbaker00rich",
+      "title": "Cakes for bakers",
+      "creator": "Richards, Paul",
+      "subjects": [
+        "Cake",
+        "Pastry"
+      ],
+      "date": "1922-01-01T00:00:00Z",
+      "description": "At head of title: Bake shop library",
+      "downloads": 2174,
+      "file": "books/cakesforbaker00rich.pdf",
+      "source_pdf": "cakesforbaker00rich.pdf"
+    },
+    {
+      "identifier": "lepatissierroyal12care",
+      "title": "Le pâtissier royal parisien, ou, Traité élémentaire et pratique de la pâtisserie ancienne et moderne : suivi d'observations utiles aux progrès de cet art, et d'une revue critique des grands bals de 1810 et 1811",
+      "creator": "Carême, M. A. (Marie Antonin), 1784-1833, author",
+      "subjects": [
+        "Pastry",
+        "Cake",
+        "Confectionery",
+        "Cake decorating"
+      ],
+      "date": "1828-01-01T00:00:00Z",
+      "description": [
+        "2 volumes : 22 cm",
+        "Pagination, volume 1: LXXXIII, [1], 394 pages, 13 leaves of plates; volume 2: [4], 435, [1] pages, 14-41 leaves of plates",
+        "Volume 1 has added engraved title page",
+        "Advertisements on verso of half-titles in both volumes"
+      ],
+      "downloads": 586,
+      "file": "books/lepatissierroyal12care.pdf",
+      "source_pdf": "lepatissierroyal12care.pdf"
+    },
+    {
+      "identifier": "b21538736",
+      "title": "Pastry-making and confectionery : including the art of icing and piping, also cakes, buns, fancy biscuits, sweetmeats, etc.",
+      "creator": [
+        "Hérisse, Emile",
+        "Senn, Charles Herman, 1862-1934",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Pastry",
+        "Confectionery"
+      ],
+      "date": "1900-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "\" ... translated by the author from his French edition\"--P. 5",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 1070,
+      "file": "books/b21538736.pdf",
+      "source_pdf": "b21538736.pdf"
+    },
+    {
+      "identifier": "americanpastryco00whitrich",
+      "title": "The American pastry cook : a book of perfected receipts...",
+      "creator": "Whitehead, Jessup",
+      "subjects": [
+        "Quantity cookery",
+        "Pastry"
+      ],
+      "date": "1894-01-01T00:00:00Z",
+      "description": [
+        "225 p. : 26 cm",
+        "Spine title: Hotel pastry cook",
+        "Includes index"
+      ],
+      "downloads": 6401,
+      "file": "books/americanpastryco00whitrich.pdf",
+      "source_pdf": "americanpastryco00whitrich.pdf"
+    },
+    {
+      "identifier": "deutschamerikan00brau",
+      "title": "Deutsch-amerikanische feinbäckerei und conditorei",
+      "creator": "Braun, Emil. [from old catalog]",
+      "subjects": [
+        "Pastry",
+        "Cake",
+        "Confectionery"
+      ],
+      "date": "1894-01-01T00:00:00Z",
+      "description": "119, [5] p. 23 cm",
+      "downloads": 739,
+      "file": "books/deutschamerikan00brau.pdf",
+      "source_pdf": "deutschamerikan00brau.pdf"
+    },
+    {
+      "identifier": "b21538785",
+      "title": "The pastrycook & confectioner's guide : for hotels, restaurants, and the trade in general adapted also for family use : including a large variety of modern recipes for bread - cakes - fancy biscuits - ice creams and water ices - jellies - pies, puddings and custards - joints, meat pies and dishes - poultry and game - ornamental sugar-work and butter-work etc., etc. with useful hints and instructions",
+      "creator": [
+        "Wells, Robert",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Pastry",
+        "Confectionery",
+        "Desserts"
+      ],
+      "date": "1889-01-01T00:00:00Z",
+      "description": [
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library",
+        "The University of Leeds Library"
+      ],
+      "downloads": 1630,
+      "file": "books/b21538785.pdf",
+      "source_pdf": "b21538785.pdf"
+    },
+    {
+      "identifier": "b29328949_0001",
+      "title": "Le pâtissier royal parisien, ou traité élémentaire et pratique de la pâtisserie ... ancienne et moderne, de l'entremets de sucre, des entrées froides et des socles; suivi d'observations utiles aux progrès de cet art, d'une série de plus de soixante menus, et d'une revue critique des grands bals de 1810 et 1811",
+      "creator": "Carême, M. A. (Marie Antonin), 1784-1833. n 80003970",
+      "subjects": [
+        "Pastry",
+        "Cake",
+        "Candy",
+        "Confectionery"
+      ],
+      "date": "1815-01-01T00:00:00Z",
+      "description": "2 volumes, folded plates : (8vo)",
+      "downloads": 985,
+      "file": "books/b29328949_0001.pdf",
+      "source_pdf": "b29328949_0001.pdf"
+    },
+    {
+      "identifier": "b21526035_0002",
+      "title": "Le pâtissier royal parisien, ou traité élémentaire et pratique de la pâtisserie ancienne et moderne; suivi d'observations utiles aux progrès de cet art, et d'une revue critique des grands bals de 1810 et 1811",
+      "creator": [
+        "Carême, M. A. (Marie Antonin), 1784-1833",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Confectionery",
+        "Pastry",
+        "Cake"
+      ],
+      "date": "1828-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes indexes",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 568,
+      "file": "books/b21526035_0002.pdf",
+      "source_pdf": "b21526035_0002.pdf"
+    },
+    {
+      "identifier": "b21504672_0002",
+      "title": "Le pâtissier royal parisien, ou traité élémentaire et pratique de la pâtisserie ancienne et moderne; suivi d'observations utiles aux progrès de cet art, et d'une revue critique des grands bals de 1810 et 1811",
+      "creator": [
+        "Carême, M. A. (Marie Antonin), 1784-1833",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Confectionery",
+        "Pastry",
+        "Cake"
+      ],
+      "date": "1828-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes indexes",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 1375,
+      "file": "books/b21504672_0002.pdf",
+      "source_pdf": "b21504672_0002.pdf"
+    },
+    {
+      "identifier": "cu31924052813676",
+      "title": "Cakes for bakers",
+      "creator": "Richards, Paul",
+      "subjects": [
+        "Cake",
+        "Pastry",
+        "cbk"
+      ],
+      "date": "1921-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Includes index",
+        "At head of title: Bake shop library",
+        "280 p., [1] leaf of plates : 24 cm"
+      ],
+      "downloads": 2027,
+      "file": "books/cu31924052813676.pdf",
+      "source_pdf": "cu31924052813676.pdf"
+    },
+    {
+      "identifier": "twohundredrecipe00huls",
+      "title": "Two hundred recipes for making desserts, including French pastries",
+      "creator": [
+        "Hulse, Olive M",
+        "Katherine Golden Bitting Collection on Gastronomy (Library of Congress) DLC"
+      ],
+      "subjects": [
+        "Desserts",
+        "Pastry",
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1912-01-01T00:00:00Z",
+      "description": [
+        "Cover title: Desserts",
+        "Companion vol. to the author's Salads",
+        "Bitting, K.G. Gastronomic bib."
+      ],
+      "downloads": 5669,
+      "file": "books/twohundredrecipe00huls.pdf",
+      "source_pdf": "twohundredrecipe00huls.pdf"
+    },
+    {
+      "identifier": "b29328743_0002",
+      "title": "Le patissier royal parisien, ou traité ... de la patisserie ... ancienne et moderne",
+      "creator": "Carême, M. A. (Marie Antonin), 1784-1833. n 80003970",
+      "subjects": [
+        "Cake",
+        "Confectionery",
+        "Pastry"
+      ],
+      "date": "1841-01-01T00:00:00Z",
+      "description": "2 volumes, folded plates ; (8vo)",
+      "downloads": 1252,
+      "file": "books/b29328743_0002.pdf",
+      "source_pdf": "b29328743_0002.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_1001-recettes_tx767f5c81915rbdcook-16128",
+      "title": "La cuisiniere Five Roses : comprenant 1001 recettes eprouvées et autorisées par l'emploi qu'en ont fait au delà de 2,000 ménagères canadiennes : set ouvrage content en plus un très grand nombre d'observations utiles destinées à l'emploi de farine Five Roses dans les différents genres de mets, le tout vérifié et approuvé",
+      "creator": "Lake of the Woods Milling Company",
+      "subjects": [
+        "Cooking.",
+        "Cooking, Canadian.",
+        "Baking.",
+        "Bread.",
+        "Pastry.",
+        "Flour.",
+        "Five Roses Flour.",
+        "McGill University Library Digitized Title",
+        "Cookbook Collection",
+        "Cooking",
+        "Cooking, Canadian",
+        "Baking",
+        "Bread",
+        "Pastry",
+        "Flour",
+        "Five Roses Flour"
+      ],
+      "date": "1915-01-01T00:00:00Z",
+      "description": [
+        "151 pages : color illustrations ; 25 cm",
+        "Promotes the use of Five Roses flour produced by Lake of the Woods Milling Company",
+        "Includes index",
+        "One copy in Rare Books and Special Collections provenance: Vanna Garnier",
+        "Copy in Rare Books and Special Collections is a gift of Joseph N. Nathanson"
+      ],
+      "downloads": 9270,
+      "file": "books/McGillLibrary-rbsc_1001-recettes_tx767f5c81915rbdcook-16128.pdf",
+      "source_pdf": "rbsc_1001-recettes_tx767f5c81915rbdcook.pdf"
+    },
+    {
+      "identifier": "apprenticesguide00moff",
+      "title": "The apprentices' guide, or, Every lady her own pastry cook and confectioner",
+      "creator": "Moffatt, Robert W",
+      "subjects": [
+        "Pastry",
+        "Cake"
+      ],
+      "date": "1869-01-01T00:00:00Z",
+      "description": [
+        "Cover title: Every lady her own pastry cook",
+        "Includes index"
+      ],
+      "downloads": 873,
+      "file": "books/apprenticesguide00moff.pdf",
+      "source_pdf": "apprenticesguide00moff.pdf"
+    },
+    {
+      "identifier": "onehundredtwenty00immi",
+      "title": "One hundred & twenty-five recipes; bread, cakes & pies",
+      "creator": "Immig, Nellie, Mrs. [from old catalog]",
+      "subjects": [
+        "Bread. [from old catalog]",
+        "Cake",
+        "Pastry",
+        "cbk"
+      ],
+      "date": "1915-01-01T00:00:00Z",
+      "description": "124 p. 13 cm",
+      "downloads": 3129,
+      "file": "books/onehundredtwenty00immi.pdf",
+      "source_pdf": "onehundredtwenty00immi.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-9781926671819-19365",
+      "title": "Desserts",
+      "creator": "Bradley, Alice, 1875-1946",
+      "subjects": [
+        "Desserts.",
+        "Pastry.",
+        "Cake.",
+        "McGill University Library Digitized Title",
+        "Rare Books/Special Collections - Cookbook Collection",
+        "Desserts",
+        "Pastry",
+        "Cake"
+      ],
+      "date": "1930-01-01T00:00:00Z",
+      "description": "vii, 270 pages",
+      "downloads": 462,
+      "file": "books/McGillLibrary-9781926671819-19365.pdf",
+      "source_pdf": "9781926671819.pdf"
+    },
+    {
+      "identifier": "b21527684",
+      "title": "The royal Parisian pastrycook and confectioner: from the original of M.A. Carême",
+      "creator": [
+        "Carême, M. A. (Marie Antonin), 1784-1833",
+        "Porter, John, fl.1834",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Confectionery",
+        "Pastry",
+        "Cake"
+      ],
+      "date": "1834-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 3858,
+      "file": "books/b21527684.pdf",
+      "source_pdf": "b21527684.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-978-1-926671-78-9-19364",
+      "title": "Cakes, pastry and dessert dishes",
+      "creator": "Hill, Janet McKenzie, 1852-1933",
+      "subjects": [
+        "Cake.",
+        "Pastry.",
+        "Desserts.",
+        "McGill University Library Digitized Title",
+        "Rare Books/Special Collections - Cookbook Collection",
+        "Cake",
+        "Pastry",
+        "Desserts"
+      ],
+      "date": "1927-01-01T00:00:00Z",
+      "description": [
+        "ix, 276 pages frontispiece plates 19 cm",
+        "ix, 276 pages 19 cm"
+      ],
+      "downloads": 646,
+      "file": "books/McGillLibrary-978-1-926671-78-9-19364.pdf",
+      "source_pdf": "978-1-926671-78-9.pdf"
+    },
+    {
+      "identifier": "royalbakerpastry00roya_1",
+      "title": "Royal baker and pastry cook",
+      "creator": [
+        "Royal Baking Powder Company",
+        "Rudmani, Giuseppi"
+      ],
+      "subjects": [
+        "Baking",
+        "Pastry",
+        "Cookery"
+      ],
+      "date": "1913-01-01T00:00:00Z",
+      "description": [
+        "Cover title",
+        "Earlier edition by Guiseppi Rudmani",
+        "Publisher's ads [2] p. at end",
+        "Cf. Brown, E. & B. Culinary Americana",
+        "Includes index"
+      ],
+      "downloads": 918,
+      "file": "books/royalbakerpastry00roya_1.pdf",
+      "source_pdf": "royalbakerpastry00roya_1.pdf"
+    },
+    {
+      "identifier": "bub_gb_udlXWMQl8F0C",
+      "title": "Le patissier royal parisien, : ou traité élémentaire et pratique de la patisserie ancienne et moderne; suivi d'observations utiles aux progrès de cet art, et d'une revue critique des grands bals de 1810 et 1811;",
+      "creator": "Carême, M. A. (Marie Antonin), 1784-1833",
+      "subjects": [
+        "bub_upload",
+        "Pastry",
+        "Cake",
+        "Confectionery"
+      ],
+      "date": "1815-01-01T00:00:00Z",
+      "description": [
+        "2 v. (plates) : 21 cm",
+        "Donated to MIA by Her Excellency Sheikha Al Mayassa who purchased the collection from The Bibliotheque International de Gastronomie founded by Orazio Bagnasco"
+      ],
+      "downloads": 526,
+      "file": "books/bub_gb_udlXWMQl8F0C.pdf",
+      "source_pdf": "bub_gb_udlXWMQl8F0C.pdf"
+    },
+    {
+      "identifier": "wrc.cookbook.1912",
+      "title": "The W.R.C. Cook Book",
+      "creator": "Cushing Relief Corps No. 3",
+      "subjects": [
+        "Astoria, Oregon",
+        "Cushing Relief Corps No. 3",
+        "Auxiliary to the Grand Army of the Republic",
+        "National Women's Relief Corps",
+        "Helen N. Packard",
+        "Mrs. Ella A. Hamlin",
+        "recipes",
+        "cook book",
+        "cookbook",
+        "household hints",
+        "soup",
+        "chowder",
+        "vegetables",
+        "pie",
+        "meat",
+        "fish",
+        "casserole",
+        "dessert",
+        "bread",
+        "biscuit",
+        "pudding",
+        "pastry",
+        "muffin",
+        "cake",
+        "cookie",
+        "icing",
+        "filling",
+        "salad",
+        "dressing",
+        "lunch",
+        "supper",
+        "dinner",
+        "breakfast",
+        "sandwich",
+        "preserves",
+        "relishes",
+        "pickles",
+        "jellies",
+        "candy",
+        "food",
+        "meal",
+        "meals",
+        "meal preparation",
+        "advertisements",
+        "kitchen",
+        "cooking",
+        "baking"
+      ],
+      "date": "1912-03-01T00:00:00Z",
+      "description": "Paperback cookbook with brown, stained covers, held together with three staples on the left side. There are three drops of batter stuck on the bottom of the front cover. Many of the interior pages also show \"cooking stains.\" There are numerous advertisements in between the recipes. Size: 6\" x 9\"",
+      "downloads": 901,
+      "file": "books/wrc.cookbook.1912.pdf",
+      "source_pdf": "wrc.cookbook.1912.pdf"
+    },
+    {
+      "identifier": "royalbakerpastry00newy",
+      "title": "Royal baker and pastry cook : a manual of practical receipts for home baking and cooking",
+      "creator": null,
+      "subjects": [
+        "Baking",
+        "Pastry",
+        "Cooking"
+      ],
+      "date": "1911-01-01T00:00:00Z",
+      "description": [
+        "43 p. ; 21 cm",
+        "Cover title",
+        "Includes index"
+      ],
+      "downloads": 1723,
+      "file": "books/royalbakerpastry00newy.pdf",
+      "source_pdf": "royalbakerpastry00newy.pdf"
+    },
+    {
+      "identifier": "deutschamerikani00brau",
+      "title": "Deutsch-amerikanische feinbäckerei und conditorei",
+      "creator": "Braun, Emil. [from old catalog]",
+      "subjects": [
+        "Pastry",
+        "Cake",
+        "Confectionery"
+      ],
+      "date": "1898-01-01T00:00:00Z",
+      "description": "119 p. 24 cm",
+      "downloads": 1111,
+      "file": "books/deutschamerikani00brau.pdf",
+      "source_pdf": "deutschamerikani00brau.pdf"
+    },
+    {
+      "identifier": "cu31924000657522",
+      "title": "Paul Richard's pastry book",
+      "creator": "Richards, Paul",
+      "subjects": [
+        "Pastry",
+        "Baking",
+        "cbk"
+      ],
+      "date": "1907-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "172 p. 24 cm"
+      ],
+      "downloads": 3077,
+      "file": "books/cu31924000657522.pdf",
+      "source_pdf": "cu31924000657522.pdf"
+    },
+    {
+      "identifier": "b2152886x",
+      "title": "The art of pastry making, according to the French and English methods, including cakes, sweetmeats and fancy biscuit baking, and all kinds of confectionery, plain and ornamantal. A concise practical guide prepared for the use of confectioners, pastrycooks, and private families",
+      "creator": [
+        "Hérisse, Emile",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cookies",
+        "Pastry",
+        "Baked products",
+        "Confectionery"
+      ],
+      "date": "1893-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 1275,
+      "file": "books/b2152886x.pdf",
+      "source_pdf": "b2152886x.pdf"
+    },
+    {
+      "identifier": "b21525432",
+      "title": "Le pâtissier national et universel : ouvrage rédigé sur un plan entièrement neuf, d'après les inventions et découvertes modernes en substances, ustensiles, etc.; contenant les procédés employés par les plus célèbres pâtissiers français et étrangers, pour la pâtisserie de boutique, pâtisserie des grandes maisons, pâtisserie pittoresque, pâtisserie du petit four, etc.",
+      "creator": [
+        "Belon",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Confectionery",
+        "Pastry",
+        "Cake"
+      ],
+      "date": "1836-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Title leaf appears to be a cancel. Another (earlier?) issue was published by the same publisher with t.p. reading: Le pâtissier universel et national. Paris, 1836. Maggs Bros. 1937 catalog, Food and drink through the ages (Catalogue 645), calls that issue \"first edition.\"",
+        "Page 102 is wrongly numbered 202",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 744,
+      "file": "books/b21525432.pdf",
+      "source_pdf": "b21525432.pdf"
+    },
+    {
+      "identifier": "cu31924089588291",
+      "title": "One hundred & one layer cakes",
+      "creator": "Southworth, May E. (May Elizabeth)",
+      "subjects": [
+        "Cake",
+        "Pastry",
+        "Baked products",
+        "cbk"
+      ],
+      "date": "1907-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Cover title: 101 layer cakes",
+        "Includes index",
+        "103 p. ; 22 cm"
+      ],
+      "downloads": 1648,
+      "file": "books/cu31924089588291.pdf",
+      "source_pdf": "cu31924089588291.pdf"
+    },
+    {
+      "identifier": "b2153942x",
+      "title": "The confectioner's and pastry-cook's guide, or, Confectionery made easy ...",
+      "creator": [
+        "Read, George",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Confectionery",
+        "Cooking",
+        "Bread",
+        "Pastry"
+      ],
+      "date": "1800-01-01T00:00:00Z",
+      "description": [
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library",
+        "The University of Leeds Library"
+      ],
+      "downloads": 986,
+      "file": "books/b2153942x.pdf",
+      "source_pdf": "b2153942x.pdf"
+    },
+    {
+      "identifier": "sweetsforchildre1931unit",
+      "title": "Sweets for children",
+      "creator": [
+        "United States. Department of Agriculture. Radio Service",
+        "United States. Bureau of Home Economics"
+      ],
+      "subjects": [
+        "Menus Planning",
+        "Confectionery",
+        "Formulas, recipes, etc"
+      ],
+      "date": "1931-01-01T00:00:00Z",
+      "description": "\"November 4, 1931.\"",
+      "downloads": 194,
+      "file": "books/sweetsforchildre1931unit.pdf",
+      "source_pdf": "sweetsforchildre1931unit.pdf"
+    },
+    {
+      "identifier": "b21526291",
+      "title": "The complete confectioner : or, The whole art of confectionary made easy. Also receipts for home-made wines, cordials, French and Italian liqueurs, &c",
+      "creator": [
+        "Nutt, Frederick",
+        "Machet, J. J",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Confectionery",
+      "date": "1819-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 767,
+      "file": "books/b21526291.pdf",
+      "source_pdf": "b21526291.pdf"
+    },
+    {
+      "identifier": "b21532023",
+      "title": "The modern confectioner : a practical guide to the latest and most improved methods for making the various kinds of confectionery; with the manner of preparing and laying out desserts; adapted for private families or large establishments",
+      "creator": [
+        "Jeanes, William",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Desserts",
+        "Confectionery"
+      ],
+      "date": "1864-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 447,
+      "file": "books/b21532023.pdf",
+      "source_pdf": "b21532023.pdf"
+    },
+    {
+      "identifier": "bub_gb_NAAZAAAAYAAJ",
+      "title": "Sweet dishes: a little treaties on confectionery and entremets sucrés",
+      "creator": "Wyvern, 1840-1916",
+      "subjects": [
+        "bub_upload",
+        "Confectionery"
+      ],
+      "date": "1884-01-01T00:00:00Z",
+      "description": [
+        "Includes index",
+        "Mode of access: Internet"
+      ],
+      "downloads": 430,
+      "file": "books/bub_gb_NAAZAAAAYAAJ.pdf",
+      "source_pdf": "bub_gb_NAAZAAAAYAAJ.pdf"
+    },
+    {
+      "identifier": "fryespracticalca00frye",
+      "title": "Frye's practical candy maker",
+      "creator": "Frye, George V. [from old catalog]",
+      "subjects": "Confectionery",
+      "date": "1885-01-01T00:00:00Z",
+      "description": "viii, [9]-96 p. 20 cm",
+      "downloads": 1237,
+      "file": "books/fryespracticalca00frye.pdf",
+      "source_pdf": "fryespracticalca00frye.pdf"
+    },
+    {
+      "identifier": "candiesbonbonsho00neil_0",
+      "title": "Candies and bonbons and how to make them",
+      "creator": "Neil, Marion Harris",
+      "subjects": "Confectionery",
+      "date": "1913-01-01T00:00:00Z",
+      "description": [
+        "287 pages : 20 cm",
+        "Includes index",
+        "Gift; Mary Williamson; RB339188"
+      ],
+      "downloads": 505,
+      "file": "books/candiesbonbonsho00neil_0.pdf",
+      "source_pdf": "candiesbonbonsho00neil_0.pdf"
+    },
+    {
+      "identifier": "italianconfectio00jarr",
+      "title": "The Italian confectioner, or, Complete economy of desserts : containing the elements of the art according to the most modern and approved practice, full and explicit directions respecting distillation, decoration, and modelling in all their branches, including figures, fruits, flowers, and animals in gum paste, and the art of moulding, casting, and gilding composition pastes of new and superior quality : the whole comprising every information requisite to form the complete confectioner, and to enable him to arrange the embellishments of the table with taste and elegance",
+      "creator": "Jarrin, W. A. (William Alexis), active 1820-1843 author",
+      "subjects": [
+        "Confectionery",
+        "Desserts",
+        "Candy"
+      ],
+      "date": "1820-01-01T00:00:00Z",
+      "description": [
+        "xxiv, 280 pages, 2 leaves of plates : 23 cm (8vo)",
+        "Signatures: [a]⁴ b⁸ B-S² T⁴",
+        "Later editions published under name: W.A. Jarrin",
+        "Frontispiece portrait of the author included in pagination",
+        "Includes index"
+      ],
+      "downloads": 266,
+      "file": "books/italianconfectio00jarr.pdf",
+      "source_pdf": "italianconfectio00jarr.pdf"
+    },
+    {
+      "identifier": "whitestokesbooko00whit",
+      "title": "White Stokes book of formulas; a valuable and complete collection of original tests and successful candy formulas for all varieties of tested nougats, caramels, cream centers, fudges, creams, bon bons, kisses and other attractive pieces",
+      "creator": "White Stokes company, inc. [from old catalog]",
+      "subjects": "Confectionery",
+      "date": "1916-01-01T00:00:00Z",
+      "description": "47, [2] p. 16 cm",
+      "downloads": 16061,
+      "file": "books/whitestokesbooko00whit.pdf",
+      "source_pdf": "whitestokesbooko00whit.pdf"
+    },
+    {
+      "identifier": "royalenglishand01frangoog",
+      "title": "The royal English and foreign confectioner : a practical treatise on the art of confectionary in all its branches, comprising ornamental confectionary artistically developed : different methods of preserving fruits, fruit pulps, and juices in bottles, the preparation of jams and jellies, fruit, and other syrups, summer beverages, and a great variety of national drinks, with directions for making dessert cakes, plain and fancy bread, candies, bonbons, comfits, spirituous essences, and cordials : also, the art of ice-making, and the arrangement and general economy of fashionable desserts",
+      "creator": "Francatelli, Charles Elmé, 1805-1876, author",
+      "subjects": [
+        "Confectionery",
+        "Desserts",
+        "Ice cream, ices, etc"
+      ],
+      "date": "1862-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "xxvii, 422, 18 pages, 10 unnumbered leaves of plates : 21 cm",
+        "Includes index",
+        "\"Francatelli's royal confectionery advertiser.\"--18 pages at end"
+      ],
+      "downloads": 864,
+      "file": "books/royalenglishand01frangoog.pdf",
+      "source_pdf": "royalenglishand01frangoog.pdf"
+    },
+    {
+      "identifier": "mrsshawsreceipt00shawgoog",
+      "title": "Mrs. Shaw's receipt book and housekeeper's assistant",
+      "creator": "Shaw, O. M., Mrs",
+      "subjects": [
+        "Cookery",
+        "Baking",
+        "Confectionery",
+        "Wine and wine making",
+        "Canning and preserving",
+        "Cookery for the sick",
+        "Medicine, Popular",
+        "Home economics",
+        "Recipes",
+        "Janice Bluestein Longone Culinary Archive",
+        "cbk"
+      ],
+      "date": "1878-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "Includes index",
+        "ACQ: 35669; Janice B. Longone; Gift; 6/21/2001",
+        "Quarter bound faded black cloth; brown printed paper boards"
+      ],
+      "downloads": 1391,
+      "file": "books/mrsshawsreceipt00shawgoog.pdf",
+      "source_pdf": "mrsshawsreceipt00shawgoog.pdf"
+    },
+    {
+      "identifier": "candymakingathom01wrig",
+      "title": "Candy-making at home",
+      "creator": "Wright, Mary M. (Mary Mason), b. 1870",
+      "subjects": "Confectionery",
+      "date": "1915-01-01T00:00:00Z",
+      "description": "188 p. 15 cm",
+      "downloads": 1446,
+      "file": "books/candymakingathom01wrig.pdf",
+      "source_pdf": "candymakingathom01wrig.pdf"
+    },
+    {
+      "identifier": "cu31924003595802",
+      "title": "The technology of bread-making",
+      "creator": "Jago, William, 1854-1938",
+      "subjects": [
+        "Bread",
+        "Confectionery",
+        "Flour",
+        "Wheat"
+      ],
+      "date": "1921-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "\"A development of the writer's former works on the same subject, which appeared in 1886 and 1895.\"--Pref",
+        "viii, 630 p. 24 cm"
+      ],
+      "downloads": 2203,
+      "file": "books/cu31924003595802.pdf",
+      "source_pdf": "cu31924003595802.pdf"
+    },
+    {
+      "identifier": "leconfiseurroyal00frie",
+      "title": "Le confiseur royal, ou, L'art du confiseur, dévoilé aux gourmands : contenant la manière de faire les confitures, marmelades, compotes, dragées, pastilles, etc. : des instructions sur la distillation ... divers articles concernant l'office et la patisserie ... enfin des recettes d'économie domestique ...",
+      "creator": "Friedel, Louise-Béate-Augustine, -1818 author",
+      "subjects": [
+        "Confectionery -- France",
+        "Cooking, French",
+        "Distillation",
+        "Pastry -- France",
+        "Confectionery",
+        "Pastry",
+        "France"
+      ],
+      "date": "1818-01-01T00:00:00Z",
+      "description": [
+        "x, 376 pages, 3 leaves of plates : 15 cm (12mo)",
+        "First edition published 1801 under title: L'art du confiseur; 2nd and 3rd eds. (1809-1811) published under title Le confiseur impériale. Cf. Cagle, W.R. A matter of taste, 195 (4th ed., 1816)"
+      ],
+      "downloads": 354,
+      "file": "books/leconfiseurroyal00frie.pdf",
+      "source_pdf": "leconfiseurroyal00frie.pdf"
+    },
+    {
+      "identifier": "cu31924087274670",
+      "title": "Ornamental confectionery and practical assistant to the art of baking : in all its branches, with numerous illustrations",
+      "creator": "Hueg, Herman",
+      "subjects": [
+        "Baking",
+        "Baked products",
+        "Confectionery",
+        "Cake decorating",
+        "cbk"
+      ],
+      "date": "1893-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Text in English and German",
+        "German text in 2nd sequence of pages with title: Illustrirtes Cake- & Conditor-Buch",
+        "Confectionery designs ([44] p.) follow text",
+        "Advertising matter at end",
+        "Errata slip pasted on front free endpaper",
+        "85, 54 p., [49] leaves of plates : 20 cm"
+      ],
+      "downloads": 2349,
+      "file": "books/cu31924087274670.pdf",
+      "source_pdf": "cu31924087274670.pdf"
+    },
+    {
+      "identifier": "practicalpanmans00gril",
+      "title": "Practical pan man's guide; containing the best recipes for the manufacture of dragee and useful advices in general pan work",
+      "creator": "Grillon, Octave, 1865- [from old catalog]",
+      "subjects": "Confectionery",
+      "date": "1911-01-01T00:00:00Z",
+      "description": "191 p. 16 cm",
+      "downloads": 2235,
+      "file": "books/practicalpanmans00gril.pdf",
+      "source_pdf": "practicalpanmans00gril.pdf"
+    },
+    {
+      "identifier": "americanpastryc00conggoog",
+      "title": "The American pastry cook : a book of perfected receipts for making all sorts of articles required of the hotel pastry cook, baker, and confectioner, especially adapted for hotel and steamboat use, and for cafés and fine bakeries",
+      "creator": [
+        "Whitehead, Jessup",
+        "Katherine Golden Bitting Collection on Gastronomy (Library of Congress) DLC"
+      ],
+      "subjects": [
+        "Cake",
+        "Confectionery",
+        "Quantity cookery",
+        "cbk"
+      ],
+      "date": "1894-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "Spine title: Hotel pastry cook",
+        "Three of the parts have separate title pages",
+        "Bitting, K.G. Gastronomic bib.",
+        "Includes index",
+        "The hotel book of fine pastries -- The hotel book of puddings -- The hotel book of breads and cakes -- The hotel book of salads and cold dishes",
+        "Source: Gift of A.W. Bitting, presented in memory of Katherine Golden Bitting, Oct. 6, 1939"
+      ],
+      "downloads": 3786,
+      "file": "books/americanpastryc00conggoog.pdf",
+      "source_pdf": "americanpastryc00conggoog.pdf"
+    },
+    {
+      "identifier": "bub_gb_hd4qAAAAYAAJ",
+      "title": "Joh. Christ. Eupel's illustrirter Konditor ... : nach dem neuen Mass und Gewicht",
+      "creator": [
+        "Eupel, Joh. Christ. (Johann Christian)",
+        "Cnyrim, A"
+      ],
+      "subjects": [
+        "bub_upload",
+        "Confectionery",
+        "Cake decorating",
+        "Beverages"
+      ],
+      "date": "1879-01-01T00:00:00Z",
+      "description": "Mode of access: Internet",
+      "downloads": 394,
+      "file": "books/bub_gb_hd4qAAAAYAAJ.pdf",
+      "source_pdf": "bub_gb_hd4qAAAAYAAJ.pdf"
+    },
+    {
+      "identifier": "royalenglishand00frangoog",
+      "title": "The royal English and foreign confectioner : a practical treatise on the art of confectionary in all its branches, comprising ornamental confectionary artistically developed : different methods of preserving fruits, fruit pulps, and juices in bottles, the preparation of jams and jellies, fruit, and other syrups, summer beverages, and a great variety of national drinks, with directions for making dessert cakes, plain and fancy bread, candies, bonbons, comfits, spirituous essences, and cordials : also, the art of ice-making, and the arrangement and general economy of fashionable desserts",
+      "creator": "Francatelli, Charles Elmé, 1805-1876, author",
+      "subjects": [
+        "Confectionery",
+        "Desserts",
+        "Ice cream, ices, etc"
+      ],
+      "date": "1862-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
+        "xxvii, 422, 18 pages, 10 unnumbered leaves of plates : 21 cm",
+        "Includes index",
+        "\"Francatelli's royal confectionery advertiser.\"--18 pages at end"
+      ],
+      "downloads": 846,
+      "file": "books/royalenglishand00frangoog.pdf",
+      "source_pdf": "royalenglishand00frangoog.pdf"
+    },
+    {
+      "identifier": "b21530294_003",
+      "title": "The modern baker, confectioner and caterer : a practical and scientific work for the baking and allied trades",
+      "creator": [
+        "Kirkland, John",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Caterers and catering",
+        "Bakers and bakeries",
+        "Baking",
+        "Bread",
+        "Confectionery"
+      ],
+      "date": "1911-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 860,
+      "file": "books/b21530294_003.pdf",
+      "source_pdf": "b21530294_003.pdf"
+    },
+    {
+      "identifier": "b33464261",
+      "title": "Hood's book of home-made candies, no. 2",
+      "creator": "C.I. Hood & Co. (Lowell, Mass.)",
+      "subjects": [
+        "Confectionery",
+        "Sarsaparilla"
+      ],
+      "date": "1905-01-01T00:00:00Z",
+      "description": [
+        "17 pages : 18 cm",
+        "Booklet of recipes for making sweets including advertisements and testimonials (with portraits) for Hood's Sarsaparilla. Other family medicines manufactured by them are listed on the back cover",
+        "Cover title"
+      ],
+      "downloads": 14,
+      "file": "books/b33464261.pdf",
+      "source_pdf": "b33464261.pdf"
+    },
+    {
+      "identifier": "fryespracticalca00frye_0",
+      "title": "Frye's practical candy maker : comprising practical receipts for the manufacture of fine \"hand-made\" candies, especially adapted for fine retail trade",
+      "creator": "Frye, George V",
+      "subjects": "Confectionery",
+      "date": "1884-01-01T00:00:00Z",
+      "description": "viii, [9]-96 p. ; 20 cm",
+      "downloads": 7325,
+      "file": "books/fryespracticalca00frye_0.pdf",
+      "source_pdf": "fryespracticalca00frye_0.pdf"
+    },
+    {
+      "identifier": "mycandysecretsbo00evanrich",
+      "title": "My candy secrets: a book of simple and accurate information which, if faithfully followed, will enable the novice to make candies that need not fear comparison with the professional product",
+      "creator": "Evans, Mary Elisabeth",
+      "subjects": "Confectionery",
+      "date": "1919-01-01T00:00:00Z",
+      "description": "146 p. 26 cm",
+      "downloads": 2624,
+      "file": "books/mycandysecretsbo00evanrich.pdf",
+      "source_pdf": "mycandysecretsbo00evanrich.pdf"
+    },
+    {
+      "identifier": "CAT31307814",
+      "title": "Double boiler frosting",
+      "creator": "United States. Department of Agriculture. Press Service, issuing body",
+      "subjects": [
+        "Icings (Confectionery) Cake decorating",
+        "Home economics Miscellanea"
+      ],
+      "date": "1933-01-01T00:00:00Z",
+      "description": "Caption title",
+      "downloads": 225,
+      "file": "books/CAT31307814.pdf",
+      "source_pdf": "CAT31307814.pdf"
+    },
+    {
+      "identifier": "karg-2",
+      "title": "Großes Back- und Süßspeisen-Buch",
+      "creator": "Rudolf Karg",
+      "subjects": [
+        "Cookbook",
+        "Baking book",
+        "Patisserie",
+        "Desserts",
+        "Royal Baking",
+        "Confectionary",
+        "Kochbuch",
+        "Backbuch",
+        "Königliches Backen",
+        "Kaiserliches Backen",
+        "Konfekt",
+        "Konditorei",
+        "Konditor",
+        "кулинарная книга",
+        "книга по выпечке",
+        "кондитерские изделия",
+        "десерты",
+        "королевская выпечка",
+        "императорская выпечка",
+        "кондитер"
+      ],
+      "date": "1910-01-01T00:00:00Z",
+      "description": "Baking and dessert book by Rudolf Karg, the royal chef and master baker in the kitchens of His Majesty the German Emperor Wilhelm II. Back- und Süßspeisenbuch von Rudolf Karg, dem Königlichen Mundkoch und Backmeister in den Küchen Seiner Majestät des Kaisers, Wilhelm II. Книга по выпечке и десертам Рудольфа Карга, королевского шеф-повара и мастера-пекаря на кухне Его Величества Императора Вильгельма II.",
+      "downloads": 212,
+      "file": "books/karg-2.pdf",
+      "source_pdf": "Karg2.pdf"
+    },
+    {
+      "identifier": "GoufPa",
+      "title": "Le Livre De Patisserie Jules Gouffe",
+      "creator": "Jules Gouffe",
+      "subjects": "recettes de patisserie tartes gateaux desserts cake recipe in french french cookbook for cakes",
+      "date": "1873-01-01T00:00:00Z",
+      "description": "Le Livre De Patisserie",
+      "downloads": 967,
+      "file": "books/GoufPa.pdf",
+      "source_pdf": "Gouf_pa.pdf"
+    },
+    {
+      "identifier": "BSG_8VSUP2127",
+      "title": "Le mémorial historique et géographique de la pâtisserie : contenant 2200 recettes de pâtisseries, glaces et liqueurs : orné de gravures dans le texte : avec anecdotes et biographies des grands auteurs de la gastronomie",
+      "creator": "Lacam, Pierre (1836-1902)",
+      "subjects": [
+        "Pâtisserie -- Histoire",
+        "Corpus Cuisine"
+      ],
+      "date": "1895-01-01T00:00:00Z",
+      "description": "1 vol. (XXXII-605 p.-2 depl.) : ill. ; 23 cm Notice Sudoc Cote du document : 8 V SUP 2127",
+      "downloads": 1780,
+      "file": "books/BSG_8VSUP2127.pdf",
+      "source_pdf": "BSG_8VSUP2127.pdf"
+    },
+    {
+      "identifier": "BSG_4VSUP2814",
+      "title": "Les desserts : recueil de pâtisserie et entremets simples",
+      "creator": "Pellaprat, Henri-Paul",
+      "subjects": [
+        "Corpus Cuisine",
+        "Dessert",
+        "Pâtisserie",
+        "Entremets sucrés"
+      ],
+      "date": "1937-01-01T00:00:00Z",
+      "description": "1 vol. (194 p.) : ill. ; 28 cm Index Notice Sudoc Cote du document : 4 V SUP 2814",
+      "downloads": 809,
+      "file": "books/BSG_4VSUP2814.pdf",
+      "source_pdf": "BSG_4VSUP2814.pdf"
+    },
+    {
+      "identifier": "BSG_8VSUP8660",
+      "title": "Le mémorial des glaces : boissons, entremets et petits-fours : contenant 3000 recettes nouvelles",
+      "creator": "Lacam, Pierre (1836-1902)",
+      "subjects": [
+        "Corpus Cuisine",
+        "Glaces (pâtisserie)",
+        "Pâtisserie -- Histoire",
+        "Pâtisserie"
+      ],
+      "date": "1925-01-01T00:00:00Z",
+      "description": "1 vol. (XXXII-864 p.) : ill. ; 22 cm Notice Sudoc Cote du document : 8 V SUP 8660 Mémorial de la pâtisserie; tome 2",
+      "downloads": 2273,
+      "file": "books/BSG_8VSUP8660.pdf",
+      "source_pdf": "BSG_8VSUP8660.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_magiques-recettes_tx765r431943rbdcook-16222",
+      "title": "[Magiques recettes : rapides, faciles, garanties]",
+      "creator": "Borden Company",
+      "subjects": [
+        "Desserts.",
+        "Cooking (Milk)",
+        "Condensed milk.",
+        "McGill University Library Digitized Title",
+        "Cookbook Collection",
+        "Desserts",
+        "Condensed milk"
+      ],
+      "date": "1934-01-01T00:00:00Z",
+      "description": [
+        "34 pages : illustrations ; 26 cm",
+        "Title supplied by cataloger"
+      ],
+      "downloads": 561,
+      "file": "books/McGillLibrary-rbsc_magiques-recettes_tx765r431943rbdcook-16222.pdf",
+      "source_pdf": "rbsc_magiques-recettes_tx765r431943rbdcook.pdf"
+    },
+    {
+      "identifier": "dessertbookcompl00bost",
+      "title": "The dessert book: a complete manual from the best American and foreign authorities. With original economical recipes",
+      "creator": null,
+      "subjects": "Desserts",
+      "date": "1872-01-01T00:00:00Z",
+      "description": "202 p. 20 cm",
+      "downloads": 623,
+      "file": "books/dessertbookcompl00bost.pdf",
+      "source_pdf": "dessertbookcompl00bost.pdf"
+    },
+    {
+      "identifier": "daintyartisticde00jose",
+      "title": "Dainty and artistic desserts;",
+      "creator": [
+        "Joseph Burnett & Co. (Boston, Mass.)",
+        "Hill, Janet McKenzie, 1852-1933"
+      ],
+      "subjects": "Desserts",
+      "date": "1915-01-01T00:00:00Z",
+      "description": "40 p. 20 cm",
+      "downloads": 1060,
+      "file": "books/daintyartisticde00jose.pdf",
+      "source_pdf": "daintyartisticde00jose.pdf"
+    },
+    {
+      "identifier": "fruitstheircooke00nels",
+      "title": "Fruits and their cookery",
+      "creator": "Nelson, Harriet Schuyler",
+      "subjects": [
+        "Cookery (Fruit)",
+        "Desserts",
+        "cbk"
+      ],
+      "date": "1921-01-01T00:00:00Z",
+      "description": "xii p., 1 l., 209 p. 19 cm",
+      "downloads": 1614,
+      "file": "books/fruitstheircooke00nels.pdf",
+      "source_pdf": "fruitstheircooke00nels.pdf"
+    },
+    {
+      "identifier": "everydaydessert00greegoog",
+      "title": "Everyday desserts",
+      "creator": "Green, Olive, 1874-1911, author",
+      "subjects": "Desserts",
+      "date": "1911-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "iv, 525 pages ; 17 cm",
+        "Pages 497-508 blank for \"Additional recipes.\"",
+        "Includes index",
+        "Simple desserts--and others -- Twenty-eight blanc manges -- Two hundred and thirteen cakes -- Thirty-two cake fillings and frostings -- Twenty-six charlottes -- Twelve cobblers -- Forty-eight cookies -- Twenty-six compotes -- Seventy creams -- Sixty-six custards -- Thirteen doughnuts -- Twenty-two dumplings -- Forty-four fritters -- One hundred and sixty frozen desserts -- Seventy-five simple fruit desserts -- Twenty-three gingerbreads -- Thirty-six jellies -- Twelve sweet omelets -- Ninety-eight pies -- Three hundred and eighty-five puddings -- One hundred and two pudding sauces -- Twenty-two short-cakes -- Thirty-eight souffles -- Fifty tarts -- Forty miscellaneous desserts"
+      ],
+      "downloads": 966,
+      "file": "books/everydaydessert00greegoog.pdf",
+      "source_pdf": "everydaydessert00greegoog.pdf"
+    },
+    {
+      "identifier": "puddingsdaintyde00murr_0",
+      "title": "Puddings and dainty desserts",
+      "creator": "Murrey, Thomas J. (Thomas Jefferson)",
+      "subjects": [
+        "Puddings",
+        "Desserts"
+      ],
+      "date": "1886-01-01T00:00:00Z",
+      "description": "53 p. ; 16 cm",
+      "downloads": 2057,
+      "file": "books/puddingsdaintyde00murr_0.pdf",
+      "source_pdf": "puddingsdaintyde00murr_0.pdf"
+    },
+    {
+      "identifier": "onehundredcoldde00larn",
+      "title": "One hundred cold desserts",
+      "creator": "Larned, Linda Hull, 1853-1939",
+      "subjects": "Desserts",
+      "date": "1914-01-01T00:00:00Z",
+      "description": "3 p. ., 3-109 p. 14 cm",
+      "downloads": 1279,
+      "file": "books/onehundredcoldde00larn.pdf",
+      "source_pdf": "onehundredcoldde00larn.pdf"
+    },
+    {
+      "identifier": "winterdesserts1933unit",
+      "title": "Winter desserts",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": [
+        "Desserts",
+        "Winter",
+        "Cooking",
+        "Home economics"
+      ],
+      "date": "1933-01-01T00:00:00Z",
+      "description": "\"Wednesday, January 11, 1933.\"",
+      "downloads": 245,
+      "file": "books/winterdesserts1933unit.pdf",
+      "source_pdf": "winterdesserts1933unit.pdf"
+    },
+    {
+      "identifier": "frozenfruitjuice1934unit",
+      "title": "Frozen fruit-juice desserts",
+      "creator": "United States. Department of Agriculture. Radio Service",
+      "subjects": [
+        "Fruit juices",
+        "Ice cream, ices, etc",
+        "Desserts",
+        "Home economics"
+      ],
+      "date": "1934-01-01T00:00:00Z",
+      "description": "\"Monday, June 4, 1934.\"",
+      "downloads": 242,
+      "file": "books/frozenfruitjuice1934unit.pdf",
+      "source_pdf": "frozenfruitjuice1934unit.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc-cookbook-coll-TX763P371947-18657",
+      "title": "Pâtisseries délicieuses à réussir avec la farine à pâtisserie Monarch",
+      "creator": "Scott, Anna Lee, author",
+      "subjects": [
+        "Desserts.",
+        "Pastry.",
+        "Cooking, Canadian.",
+        "McGill University Library Digitized Title",
+        "Desserts",
+        "Pastry",
+        "Cooking, Canadian"
+      ],
+      "date": "1947-01-01T00:00:00Z",
+      "description": [
+        "12 pages ; 23 cm",
+        "Cover title"
+      ],
+      "downloads": 311,
+      "file": "books/McGillLibrary-rbsc-cookbook-coll-TX763P371947-18657.pdf",
+      "source_pdf": "rbsc-cookbook-coll-TX763P371947.pdf"
+    },
+    {
+      "identifier": "b21532394",
+      "title": "The Italian confectioner; or complete economy of desserts, according to the most modern and approved practice",
+      "creator": [
+        "Jarrin, W. A. (William Alexis), 1784-1848",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Desserts",
+        "Confectionery"
+      ],
+      "date": "1844-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Earlier editions published under name: G.A. Jarrin",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 300,
+      "file": "books/b21532394.pdf",
+      "source_pdf": "b21532394.pdf"
+    },
+    {
+      "identifier": "royalconfectione00fran",
+      "title": "The royal confectioner, English and foreign : a practical treatise on the art of confectionary in all its branches, comprising ornamental confectionary artistically developed, different methods of preserving fruits, fruit pulps and juices in bottles, the preparation of jams and jellies, fruit, and other syrups, summer beverages, and a great variety of national drinks, with directions for making dessert cakes, plain and fancy bread, candies, bonbons, comfits, spirituous essences, and cordials : also, the art of ice-making, and the arrangement and general economy of fashionable desserts",
+      "creator": "Francatelli, Charles Elmé, 1805-1876 author",
+      "subjects": [
+        "Confectionery",
+        "Desserts"
+      ],
+      "date": "1866-01-01T00:00:00Z",
+      "description": [
+        "xxvii, 422 pages, 6 unnumbered pages, 14 unnumbered leaves of plates : 21 cm",
+        "Title printed in red and black",
+        "First edition published 1862 under title: The royal English and foreign confectioner",
+        "\"Francatelli's royal confectioner advertiser\"--Advertisements, 6 unnumbered pages at end"
+      ],
+      "downloads": 453,
+      "file": "books/royalconfectione00fran.pdf",
+      "source_pdf": "royalconfectione00fran.pdf"
+    },
+    {
+      "identifier": "onehundredonedes00sout",
+      "title": "One hundred & one desserts",
+      "creator": "Southworth, May E., [from old catalog] comp",
+      "subjects": "Desserts",
+      "date": "1907-01-01T00:00:00Z",
+      "description": "3 p.l., 3-73, [14] p. 22 x 11 cm",
+      "downloads": 638,
+      "file": "books/onehundredonedes00sout.pdf",
+      "source_pdf": "onehundredonedes00sout.pdf"
+    },
+    {
+      "identifier": "dessertforeveryd00muzz",
+      "title": "A dessert for every day in the year. Together with pudding sauces, recipes for invalids, a few miscellaneous recipes, and numerous facts worth remembering",
+      "creator": "Muzzy, Florence Emlyn Downs, 1851-1939",
+      "subjects": "Desserts",
+      "date": "1883-01-01T00:00:00Z",
+      "description": [
+        "Advertising matter interspersed",
+        "109 p. 21 cm"
+      ],
+      "downloads": 960,
+      "file": "books/dessertforeveryd00muzz.pdf",
+      "source_pdf": "dessertforeveryd00muzz.pdf"
+    },
+    {
+      "identifier": "b21529486",
+      "title": "The Italian confectioner, or complete economy of desserts, containing the elements of the art according to the most modern and approved practice, full and explicit directions respecting distillation, decoration, and modelling, in all their branched ... The whole comprising every information requisite to form the complete confectioner, and to enable him to arrange the embellishments of the table with taste and elegance",
+      "creator": [
+        "Jarrin, W. A. (William Alexis), 1784-1848",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Desserts",
+        "Confectionery"
+      ],
+      "date": "1820-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Later editions published under name: W. A. Jarrin",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 373,
+      "file": "books/b21529486.pdf",
+      "source_pdf": "b21529486.pdf"
+    },
+    {
+      "identifier": "b21531225",
+      "title": "The modern confectioner : a practical guide to the latest and most improved methods for making the various kinds of confectionery; with the manner of preparing and laying out desserts; adapted for private families or large establishments",
+      "creator": [
+        "Jeanes, William",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Desserts",
+        "Confectionery"
+      ],
+      "date": "1861-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 388,
+      "file": "books/b21531225.pdf",
+      "source_pdf": "b21531225.pdf"
+    }
+  ]
+}

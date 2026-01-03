@@ -1,0 +1,88 @@
+victorian_british:
+  description: |
+    Victorian and Edwardian British cookbooks 1837-1914 featuring traditional
+    British recipes, household management, and period cooking techniques.
+
+  source: archive
+
+  search_strategy:
+    subjects:
+      - "Cookery, English"
+      - "Cookery, British"
+      - "Cookery -- Great Britain"
+      - "Cookery -- England"
+      - "English cooking"
+      - "British cooking"
+      - "Cooking, English"
+      - "Mrs. Beeton"
+      - "Cookery book"
+      - "Cook book"
+      - "Recipe book"
+      - "Cookery, Scottish"
+      - "Cookery, Irish"
+      - "Cookery, Welsh"
+      - "British recipes"
+      - "English recipes"
+      - "Puddings"
+      - "Pastry"
+      - "Confectionery"
+      - "English receipts"
+      - "British cookery"
+      - "London cookery"
+      - "Household cookery"
+      - "Plain cookery"
+      - "Economic cookery"
+    collections:
+      - "food_and_cooking"
+      - "blc"
+      - "europeanlibraries"
+      - "gutenberg"
+      - "toronto"
+      - "americana"
+      - "universallibrary"
+    collection_subject_filter:
+      - "cookery"
+      - "cooking"
+      - "cookbook"
+      - "recipes"
+      - "receipts"
+    date_range: [1837, 1914]
+    mediatype: texts
+
+  target_count: 150
+
+  evaluator_model: gpt-5-mini
+  confidence_threshold: 0.7
+
+  validation_prompt: |
+    You are evaluating whether a document belongs in a corpus of
+    VICTORIAN AND EDWARDIAN BRITISH COOKBOOKS (1837-1914).
+
+    TEMPORAL REQUIREMENT (CRITICAL):
+    The work must have been PUBLISHED between 1837 and 1914 (Victorian/Edwardian era).
+    Modern reprints or facsimiles do NOT belong.
+
+    CONTENT REQUIREMENTS:
+    The work must contain ACTUAL RECIPES with:
+    - Ingredient lists (even if embedded in prose)
+    - Cooking instructions/procedures
+    - Measurements and techniques
+
+    INCLUDE:
+    - British recipe collections and cookbooks
+    - Household management books with recipe sections
+    - Domestic economy guides with recipes
+    - Scottish, Welsh, Irish cookbooks from this period
+    - Books on British pastry, puddings, and traditional dishes
+    - Servants' guides with cooking instructions
+
+    EXCLUDE:
+    - Novels or memoirs that merely mention food
+    - Restaurant guides without recipes
+    - Food history without recipes
+    - Nutrition/diet books without actual recipes
+    - Single-page menus or ephemera
+    - American or other non-British cookbooks
+
+    Look for page layouts with recipe formatting: titles, ingredient lists,
+    numbered steps, cooking times, serving suggestions.

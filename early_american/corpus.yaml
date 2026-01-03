@@ -1,0 +1,34 @@
+name: "Early American Cookbooks"
+
+corpus_context: >
+  100 public domain cookbooks from early American colonial and frontier
+  cooking, 1800-1929. Sourced from Internet Archive, these are scanned PDFs
+  with OCR text extraction. Documents include community recipe collections,
+  household management guides, and regional cooking traditions. Content
+  features period typography, historical measurements, and ingredient
+  terminology that differs from modern usage.
+
+scenarios:
+  culinary_history:
+    name: "Culinary History Exam"
+    description: >
+      You are creating questions for a food history course. Students need
+      to understand how cooking practices, ingredients, and household
+      management evolved in early America. They should be able to interpret
+      historical recipes in their cultural context and recognize how
+      techniques and ingredients differed from modern practice.
+
+  recipe_retrieval:
+    name: "Recipe Retrieval Evaluation"
+    description: >
+      You are testing whether a retrieval system can find specific recipes
+      and their details. Questions should require locating particular
+      recipes, identifying specific ingredients or measurements, or finding
+      techniques described in the text.
+
+  rag_eval:
+    name: "RAG System Evaluation"
+    description: >
+      You are testing whether a retrieval system actually read this cookbook.
+      Questions need specific, verifiable answers - exact ingredient amounts,
+      particular cooking times, specific recipe names that require the document.

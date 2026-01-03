@@ -1,0 +1,118 @@
+italian_traditional:
+  description: |
+    Traditional Italian cookbooks 1800-1950 featuring regional Italian recipes,
+    pasta, and Mediterranean cooking techniques.
+
+  source: archive
+
+  search_strategy:
+    subjects:
+      # Canonical LC subject heading
+      - "Cooking, Italian"
+      # Regional variants
+      - "Cooking, Italian -- Tuscan style"
+      - "Cooking, Italian -- Sicilian style"
+      - "Cooking, Italian -- Northern style"
+      - "Cooking, Italian -- Southern style"
+      # Related headings
+      - "Italian cuisine"
+      - "Cuisine italienne"
+      # Older/variant forms
+      - "Cookery, Italian"
+    collections:
+      - "food_and_cooking"
+      - "europeanlibraries"
+    collection_subject_filter:
+      - "cooking"
+      - "cookery"
+      - "cuisine"
+      - "recipes"
+      - "gastronomy"
+    date_range: [1800, 1950]
+    mediatype: texts
+    # Direct identifiers discovered through manual research
+    # These are freely downloadable Italian cookbooks 1800-1950
+    identifiers:
+      # Pellegrino Artusi - La scienza in cucina (1891, most famous Italian cookbook)
+      - artusi-1891
+      - artusi_la_scienza_in_cucina_etc
+      - pellegrino-artusi-la-scienza-in-cucina-e-larte-di-mangiar-bene
+      # Giovanni Vialardi (1854)
+      - Trattato_di_cucina_1854_EVII1024
+      # Ippolito Cavalcanti - Neapolitan cuisine
+      - IppolitoCavalcanti-CucinaTeorica-pratica
+      # Maria Gentile - Italian Cook Book (1919)
+      - italiancookbooka00gentiala
+      # Regional cookbooks
+      - 100-ricette-di-cucina-veneziana-1908
+      - laveracucinierag51857gut
+      - cucina_toscana_202210
+      # Medieval/Renaissance cookbook editions
+      - librodicucinade00fratgoog
+      # Google Books Italian cookbooks
+      - bub_gb_x0-p7JFBRUoC
+      - bub_gb_K3PUf2TsmLcC
+      # Wellcome Library items
+      - b29321451
+      # European Libraries collection cookbooks
+      - sorbiatti-la-gastronomia-moderna
+      - palma-principe-dei-cuochi
+      - anna-maria-pasticciere-universale
+      - bassi-la-cuciniera-maestra
+      - belloni-vero-re-dei-cucinieri
+      - bossi-salvi-imperatore-dei-cuochi
+      - piccolo-vialardi-cucina-semplice
+      - prato-manuale-di-cucina
+      - cuciniere-universale
+      - borgarello-gastronomo-moderno
+      - luisa-cento-modi-diversi
+      - grifoni-trattato-di-gelateria
+      - romagnoli-antologia-della-cucina
+      - ferraris-tamburini-come-posso-mangiar-bene
+      - guerrini-arte-di-utilizzare-gli-avanzi-della-mensa
+      - salani-la-cucina-di-famiglia
+      - cento-specialita-di-cucina
+      - nelli-re-dei-cuochi-1932
+      # Additional titles found in research
+      - ilpasticciereec00ciocgoog
+      - lareginadellecu00leyrgoog
+      - b21538372
+      - ortoincucina00dottorantonio
+
+  target_count: 100
+
+  evaluator_model: gpt-5-mini
+  confidence_threshold: 0.7
+
+  validation_prompt: |
+    You are evaluating whether a document belongs in a corpus of
+    HISTORICAL ITALIAN COOKBOOKS (1800-1950).
+
+    TEMPORAL REQUIREMENT (CRITICAL):
+    The work must have been PUBLISHED between 1800 and 1950.
+    Modern reprints or facsimiles do NOT belong.
+
+    CONTENT REQUIREMENTS:
+    The work must contain ACTUAL RECIPES with:
+    - Ingredient lists (even if embedded in prose)
+    - Cooking instructions/procedures
+    - Measurements and techniques
+
+    INCLUDE:
+    - Italian recipe collections and cookbooks
+    - Regional Italian cookbooks (Tuscan, Sicilian, Neapolitan, etc.)
+    - Italian-American immigrant cookbooks
+    - Books on pasta, risotto, and Italian techniques
+    - Translations of Italian cookbooks into English
+    - Mediterranean cookbooks with Italian focus
+
+    EXCLUDE:
+    - Novels or memoirs that merely mention food
+    - Restaurant guides without recipes
+    - Food history without recipes
+    - Travel books about Italy without recipes
+    - Single-page menus or ephemera
+    - Non-Italian cookbooks
+
+    Look for page layouts with recipe formatting: titles, ingredient lists,
+    numbered steps, cooking times, serving suggestions.

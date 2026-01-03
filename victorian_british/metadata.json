@@ -1,0 +1,2717 @@
+{
+  "corpus": "victorian_british",
+  "source": "internet_archive",
+  "search_strategy": {
+    "subjects": [
+      "Cookery, English",
+      "Cookery, British",
+      "Cookery -- Great Britain",
+      "Cookery -- England",
+      "English cooking",
+      "British cooking",
+      "Cooking, English",
+      "Mrs. Beeton",
+      "Cookery book",
+      "Cook book",
+      "Recipe book",
+      "Cookery, Scottish",
+      "Cookery, Irish",
+      "Cookery, Welsh",
+      "British recipes",
+      "English recipes",
+      "Puddings",
+      "Pastry",
+      "Confectionery",
+      "English receipts",
+      "British cookery",
+      "London cookery",
+      "Household cookery",
+      "Plain cookery",
+      "Economic cookery"
+    ],
+    "collections": [
+      "food_and_cooking",
+      "blc",
+      "europeanlibraries",
+      "gutenberg",
+      "toronto",
+      "americana",
+      "universallibrary"
+    ],
+    "collection_subject_filter": [
+      "cookery",
+      "cooking",
+      "cookbook",
+      "recipes",
+      "receipts"
+    ],
+    "date_range": [
+      1837,
+      1914
+    ],
+    "mediatype": "texts"
+  },
+  "curated_at": "2025-12-29T14:34:51.370727+00:00",
+  "total_books": 150,
+  "books_evaluated": 246,
+  "acceptance_rate": 0.6097560975609756,
+  "books": [
+    {
+      "identifier": "cu31924000449367",
+      "title": "Practical household cookery. Containing 1000 original and other recipes",
+      "creator": [
+        "Duret, E",
+        "Herndon, James B., Jr. fmo",
+        "Herndon/Vehling Collection. fmo"
+      ],
+      "subjects": [
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1891-01-01T00:00:00Z",
+      "description": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+      "downloads": 999,
+      "file": "books/cu31924000449367.pdf",
+      "source_pdf": "cu31924000449367.pdf"
+    },
+    {
+      "identifier": "cu31924000651152",
+      "title": "King Edward's cookery book",
+      "creator": "George, Florence A",
+      "subjects": [
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1900-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Includes index",
+        "xxiii, 323 p. : 19 cm"
+      ],
+      "downloads": 2249,
+      "file": "books/cu31924000651152.pdf",
+      "source_pdf": "cu31924000651152.pdf"
+    },
+    {
+      "identifier": "cu31924001387111",
+      "title": "The illustrated London cookery book, containing upwards of fifteen hundred first-rate receipts selected with great care, and a proper attention to economy; and embodying all the latest improvements in the culinary art; accompanied by important remarks and counsel on the arrangement and well-ordering of the kitchen, combined with useful hints on domestic economy. The whole based on many years' constant practice and experience; and addressed to private families as well as the highest circles",
+      "creator": [
+        "Bishop, Frederick",
+        "Stacks, Mrs. ins",
+        "Bowker, Mrs. ins",
+        "Herndon/Vehling Collection. fmo"
+      ],
+      "subjects": [
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1852-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Added t.-p., engr",
+        "Rare copy 1: Herndon/Vehling Collection, School of Hotel Administration. Provenance: Mrs. Stacks; Mrs. Bowker (inscription)"
+      ],
+      "downloads": 2882,
+      "file": "books/cu31924001387111.pdf",
+      "source_pdf": "cu31924001387111.pdf"
+    },
+    {
+      "identifier": "thoroughgoodcoo00salagoog",
+      "title": "The thorough good cook; a series of chats on the culinary art, and nine hundred recipes",
+      "creator": [
+        "Sala, George Augustus, 1828-1895",
+        "Elizabeth Robins Pennell Collection (Library of Congress) DLC"
+      ],
+      "subjects": [
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1895-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "Includes index"
+      ],
+      "downloads": 1635,
+      "file": "books/thoroughgoodcoo00salagoog.pdf",
+      "source_pdf": "thoroughgoodcoo00salagoog.pdf"
+    },
+    {
+      "identifier": "artisticsavourie00sherrich",
+      "title": "Artistic savouries",
+      "creator": "Sheridan, E",
+      "subjects": "Cookery, English",
+      "date": "1900-01-01T00:00:00Z",
+      "description": "80 p",
+      "downloads": 1430,
+      "file": "books/artisticsavourie00sherrich.pdf",
+      "source_pdf": "artisticsavourie00sherrich.pdf"
+    },
+    {
+      "identifier": "cu31924000700868",
+      "title": "The memorandum cookery book",
+      "creator": "Morphy, Marcelle, Countess",
+      "subjects": [
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1900-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "197 p. ; 23 cm"
+      ],
+      "downloads": 1126,
+      "file": "books/cu31924000700868.pdf",
+      "source_pdf": "cu31924000700868.pdf"
+    },
+    {
+      "identifier": "cookeryforlancas00engl",
+      "title": "Cookery for the lancashire operatives",
+      "creator": "Englishman",
+      "subjects": [
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1863-01-01T00:00:00Z",
+      "description": [
+        "Imprint from colophon",
+        "Caption title",
+        "Talbot collection of British pamphlets"
+      ],
+      "downloads": 1119,
+      "file": "books/cookeryforlancas00engl.pdf",
+      "source_pdf": "cookeryforlancas00engl.pdf"
+    },
+    {
+      "identifier": "householdcookery00roth",
+      "title": "Household cookery recipes",
+      "creator": "Rotheram, Mabel A",
+      "subjects": [
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1901-01-01T00:00:00Z",
+      "description": "Includes index",
+      "downloads": 1161,
+      "file": "books/householdcookery00roth.pdf",
+      "source_pdf": "householdcookery00roth.pdf"
+    },
+    {
+      "identifier": "twofifteenthcent00aust",
+      "title": "Two fifteenth-century cookery-books. Harleian ms. 279 (ab. 1430), & Harl. ms. 4016 (ab. 1450), with extracts from Ashmole ms. 1429, Laud ms. 553, & Douce ms. 55",
+      "creator": [
+        "Austin, Thomas, ed",
+        "British Library. Manuscript. Harley 279"
+      ],
+      "subjects": [
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1888-01-01T00:00:00Z",
+      "description": "xix, 151 p. 23 cm",
+      "downloads": 10896,
+      "file": "books/twofifteenthcent00aust.pdf",
+      "source_pdf": "twofifteenthcent00aust.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-95793-64",
+      "title": "Modern cookery for private families",
+      "creator": "Acton, Eliza, 1799-1859",
+      "subjects": [
+        "Cooking, English.",
+        "Cookery (English)",
+        "McGill University Library Digitized Title",
+        "Cooking, English",
+        "Cookbook collection"
+      ],
+      "date": "1887-01-01T00:00:00Z",
+      "description": "xliii, 643 p., 8 pl. 12mo.",
+      "downloads": 2010,
+      "file": "books/McGillLibrary-95793-64.pdf",
+      "source_pdf": "95793.pdf"
+    },
+    {
+      "identifier": "dinnerquestionor00selb",
+      "title": "The dinner question, or, How to dine well and economically : combining the rudiments of cookery with useful hints on dinner giving and serving, and other household words of advice, garnished with anecdotes of eminent cooks and epicures, as well as wise saws in gastronomy from the great masters",
+      "creator": "Selby, Charles, 1802?-1863",
+      "subjects": [
+        "Dinners and dining",
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1860-01-01T00:00:00Z",
+      "description": "Includes index",
+      "downloads": 2138,
+      "file": "books/dinnerquestionor00selb.pdf",
+      "source_pdf": "dinnerquestionor00selb.pdf"
+    },
+    {
+      "identifier": "onemaidcookerybo00cong",
+      "title": "The one maid cookery book",
+      "creator": "Congreve, A. E. [from old catalog]",
+      "subjects": [
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1913-01-01T00:00:00Z",
+      "description": "217 p. 18 cm",
+      "downloads": 1355,
+      "file": "books/onemaidcookerybo00cong.pdf",
+      "source_pdf": "onemaidcookerybo00cong.pdf"
+    },
+    {
+      "identifier": "roundtablenoteso00chev",
+      "title": "Round the table : notes on cookery and plain recipes, with a selection of bills of fare for every month",
+      "creator": "Chevalley de Rivaz, Victor",
+      "subjects": [
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1876-01-01T00:00:00Z",
+      "description": "Includes index",
+      "downloads": 1374,
+      "file": "books/roundtablenoteso00chev.pdf",
+      "source_pdf": "roundtablenoteso00chev.pdf"
+    },
+    {
+      "identifier": "cu31924000677249",
+      "title": "The kitchen garden and the cook : an alphabetical guide to the cultivation of vegetables, with recipes for cooking them",
+      "creator": "Pearse, Cecilia Maria de Candia",
+      "subjects": [
+        "Vegetable gardening",
+        "Cookery (Vegetables)",
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1914-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "283 p. : 21 cm"
+      ],
+      "downloads": 1413,
+      "file": "books/cu31924000677249.pdf",
+      "source_pdf": "cu31924000677249.pdf"
+    },
+    {
+      "identifier": "cassellsdictiona00cass",
+      "title": "Cassell's dictionary of cookery : containing about nine thousand recipes",
+      "creator": "Cassell & Company",
+      "subjects": [
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1892-01-01T00:00:00Z",
+      "description": "\"One hundred and fifteenth thousand.\"",
+      "downloads": 5963,
+      "file": "books/cassellsdictiona00cass.pdf",
+      "source_pdf": "cassellsdictiona00cass.pdf"
+    },
+    {
+      "identifier": "cu31924000700736",
+      "title": "Cookery up-to-date : a practical handbook of what to eat, and how to cook it",
+      "creator": "Little, May",
+      "subjects": [
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1900-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Includes index",
+        "247 p. ; 19 cm"
+      ],
+      "downloads": 1152,
+      "file": "books/cu31924000700736.pdf",
+      "source_pdf": "cu31924000700736.pdf"
+    },
+    {
+      "identifier": "entreslamode00desa",
+      "title": "Entrées à la mode",
+      "creator": "De Salis, Mrs. (Harriet Anne)",
+      "subjects": [
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1887-01-01T00:00:00Z",
+      "description": "Includes index",
+      "downloads": 1089,
+      "file": "books/entreslamode00desa.pdf",
+      "source_pdf": "entreslamode00desa.pdf"
+    },
+    {
+      "identifier": "mrsbeetonshouse00beetuoft",
+      "title": "Mrs. Beeton's household management : a guide to cookery in all branches : daily duties, menu making, mistress & servant, home doctor, hostess & guest, sick nursing, marketing, the nursery, trussing & carving, home lawyer",
+      "creator": "Beeton, Mrs. (Isabella Mary), 1836-1865",
+      "subjects": [
+        "Cookery, English",
+        "Home economics",
+        "cbk"
+      ],
+      "date": "1907-01-01T00:00:00Z",
+      "description": "31",
+      "downloads": 47991,
+      "file": "books/mrsbeetonshouse00beetuoft.pdf",
+      "source_pdf": "mrsbeetonshouse00beetuoft.pdf"
+    },
+    {
+      "identifier": "libercurecocorum00morr",
+      "title": "Liber cure cocorum",
+      "creator": [
+        "Morris, Richard, ed., 1833-1894",
+        "Philological Society (Great Britain)"
+      ],
+      "subjects": [
+        "Cookery, English",
+        "Cookery",
+        "English language"
+      ],
+      "date": "1862-01-01T00:00:00Z",
+      "description": [
+        "[Hazlitt tracts, v. 4, no. 5]",
+        "A curious poem on cookery \"now first printed from a transcript of the Sloane ms. 1986, where it occurs as an appendix to the 'Boke of curtasye'. It is written in a northern dialect of the xvth century.\"--Pref",
+        "\"Supplement to the Transactions of the London philological society for 1862.\"--Brit. mus. catalogue"
+      ],
+      "downloads": 2871,
+      "file": "books/libercurecocorum00morr.pdf",
+      "source_pdf": "libercurecocorum00morr.pdf"
+    },
+    {
+      "identifier": "cu31924001704307",
+      "title": "The Ocklye cookery book; a book of recipes",
+      "creator": "Jenkinson, Eleanor L",
+      "subjects": [
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1909-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Preface signed: Eleanor L. Jenkinson",
+        "160 p. 19 cm"
+      ],
+      "downloads": 1375,
+      "file": "books/cu31924001704307.pdf",
+      "source_pdf": "cu31924001704307.pdf"
+    },
+    {
+      "identifier": "cu31924003567728",
+      "title": "Cassell's new dictionary of cookery : containing about ten thousand recipes, with coloured plates and numerous illustrations in black and white",
+      "creator": null,
+      "subjects": [
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1900-01-01T00:00:00Z",
+      "description": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+      "downloads": 2100,
+      "file": "books/cu31924003567728.pdf",
+      "source_pdf": "cu31924003567728.pdf"
+    },
+    {
+      "identifier": "cu31924003573015",
+      "title": "Fare and physic of a past century",
+      "creator": "Stewart, Alice M",
+      "subjects": [
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1900-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "viii, 95 p. 19 cm"
+      ],
+      "downloads": 592,
+      "file": "books/cu31924003573015.pdf",
+      "source_pdf": "cu31924003573015.pdf"
+    },
+    {
+      "identifier": "twofifteenthcen00librgoog",
+      "title": "Two fifteenth-century cookery-books. Harleian ms. 279 (ab. 1430), & Harl. ms. 4016 (ab. 1450), with extracts from Ashmole ms. 1429, Laud ms. 553, & Douce ms. 55",
+      "creator": [
+        "Austin, Thomas, ed",
+        "British Library. Manuscript. Harley 279"
+      ],
+      "subjects": [
+        "Cookery, English",
+        "Cookery, Medieval",
+        "cbk"
+      ],
+      "date": "1888-01-01T00:00:00Z",
+      "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+      "downloads": 3074,
+      "file": "books/twofifteenthcen00librgoog.pdf",
+      "source_pdf": "twofifteenthcen00librgoog.pdf"
+    },
+    {
+      "identifier": "officialhandbook00nati",
+      "title": "The official handbook for the National training school for cookery; containing the lessons on cookery which constitute the course of instruction in the school..",
+      "creator": [
+        "National Training College of Domestic Subjects",
+        "R. O. C. (Rose Owen Cole)"
+      ],
+      "subjects": [
+        "Cookery, English",
+        "cbk"
+      ],
+      "date": "1877-01-01T00:00:00Z",
+      "description": "iv, 8-416 p. 20 cm",
+      "downloads": 1417,
+      "file": "books/officialhandbook00nati.pdf",
+      "source_pdf": "officialhandbook00nati.pdf"
+    },
+    {
+      "identifier": "warneseverydayco00jewruoft",
+      "title": "Warnes every-day cookery : containing one thousand eight hundred and fifty-eight distinct receipts",
+      "creator": [
+        "Jewry, Mary",
+        "Katherine Golden Bitting Collection on Gastronomy (Library of Congress) DLC"
+      ],
+      "subjects": [
+        "Cookery, British",
+        "cbk"
+      ],
+      "date": "1872-01-01T00:00:00Z",
+      "description": [
+        "Cover title: Nineteen hundred practical receipts",
+        "Includes index",
+        "Source: Gift of A.W. Bitting, presented in memory of Katherine Golden Bitting, Oct. 6, 1939",
+        "Bitting, K.G. Gastronomic bib.",
+        "GERSTEIN copy lacks title-page",
+        "14"
+      ],
+      "downloads": 2361,
+      "file": "books/warneseverydayco00jewruoft.pdf",
+      "source_pdf": "warneseverydayco00jewruoft.pdf"
+    },
+    {
+      "identifier": "b21527957",
+      "title": "The cook and housewife's manual : a practical system of modern domestic cookery and family management; containing a compendium of French cookery, and of fashionable confectionary, preparations for invalids, a selection of cheap dishes, and numerous useful miscellaneous receipts in various branches of domestic economy",
+      "creator": [
+        "Johnstone, C. I. (Christian Isobel), 1781-1857",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Home economics",
+        "Cooking, English"
+      ],
+      "date": "1837-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "\"Margaret Dods\" is a pseudonym for C.I. Johnstone; the author's name is sometimes given as Christian Jane Johnstone",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 403,
+      "file": "books/b21527957.pdf",
+      "source_pdf": "b21527957.pdf"
+    },
+    {
+      "identifier": "b21528093",
+      "title": "Superior cookery",
+      "creator": [
+        "Black, Margaret",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1890-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 503,
+      "file": "books/b21528093.pdf",
+      "source_pdf": "b21528093.pdf"
+    },
+    {
+      "identifier": "b21504787",
+      "title": "Cooking by gas : a guide to the correct and economical use of the gas cooking stove",
+      "creator": [
+        "De Lissa, N. R. (Nellie R.)",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking, English",
+        "Stoves, Gas"
+      ],
+      "date": "1913-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 404,
+      "file": "books/b21504787.pdf",
+      "source_pdf": "b21504787.pdf"
+    },
+    {
+      "identifier": "b21527805",
+      "title": "The book of household management : comprising information for the mistress ... also, sanitary, medical, & legal memoranda; with a history of the origin, properties, and uses of all things connected with home life and comfort",
+      "creator": [
+        "Beeton, Mrs. (Isabella Mary), 1836-1865",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Home economics",
+        "Cooking, English"
+      ],
+      "date": "1869-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 1096,
+      "file": "books/b21527805.pdf",
+      "source_pdf": "b21527805.pdf"
+    },
+    {
+      "identifier": "b21529553",
+      "title": "Cassell's dictionary of cookery. With numerous illustrations. Containing about nine thousand recipes",
+      "creator": [
+        "Cassell & Company",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1881-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 699,
+      "file": "books/b21529553.pdf",
+      "source_pdf": "b21529553.pdf"
+    },
+    {
+      "identifier": "b21530361",
+      "title": "The ideal cookery book",
+      "creator": [
+        "Fairclough, M. A. (Margaret Alice)",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking, English",
+        "Cooking, French"
+      ],
+      "date": "1910-01-01T00:00:00Z",
+      "description": [
+        "This edition not in Driver",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library",
+        "The University of Leeds Library"
+      ],
+      "downloads": 666,
+      "file": "books/b21530361.pdf",
+      "source_pdf": "b21530361.pdf"
+    },
+    {
+      "identifier": "bub_gb_kXsCAAAAYAAJ",
+      "title": "Modern cookery, for private families, reduced to a system of easy practice, in a series of carefully tested receipts, in which the principles of Baron Liebig and other eminent writers have been as much as possible applied and explained",
+      "creator": "Acton, Eliza, 1799-1859",
+      "subjects": [
+        "bub_upload",
+        "Cooking, English"
+      ],
+      "date": "1859-01-01T00:00:00Z",
+      "description": null,
+      "downloads": 726,
+      "file": "books/bub_gb_kXsCAAAAYAAJ.pdf",
+      "source_pdf": "bub_gb_kXsCAAAAYAAJ.pdf"
+    },
+    {
+      "identifier": "b21538256",
+      "title": "Cookery and home comforts",
+      "creator": [
+        "Wigley, S. S., Mrs",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking, English",
+        "Menus"
+      ],
+      "date": "1877-01-01T00:00:00Z",
+      "description": [
+        "At head of title: \"A present to my wife.\"",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library",
+        "The University of Leeds Library"
+      ],
+      "downloads": 380,
+      "file": "books/b21538256.pdf",
+      "source_pdf": "b21538256.pdf"
+    },
+    {
+      "identifier": "b21527507",
+      "title": "The English housekeeper : or, Manual of domestic management: containing advice on the conduct of household affairs and practical instructions ... Together with remarks on the best means of rendering assistance to poor neighbours; hints for laying out small ornamental gardens, and directions for cultivating herbs. The whole being intended for the use of young ladies who undertake the superintendence of their own housekeeping",
+      "creator": [
+        "Cobbett, Anne",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking, English",
+        "Housekeeping"
+      ],
+      "date": "1840-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 524,
+      "file": "books/b21527507.pdf",
+      "source_pdf": "b21527507.pdf"
+    },
+    {
+      "identifier": "b21527180",
+      "title": "Menus for every day of the year : with 828 recipes",
+      "creator": [
+        "Scott, M. Jebb",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Menus",
+        "Cooking, English"
+      ],
+      "date": "1912-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 1591,
+      "file": "books/b21527180.pdf",
+      "source_pdf": "b21527180.pdf"
+    },
+    {
+      "identifier": "b2152726x",
+      "title": "The cook's guide and housekeeper's & butler's assistant : a practical treatise on English and foreign cookery in all its branches, containing plain instructions for pickling and preserving vegetables, fruits, game, &c, the curing of hams and bacon, the art of confectionery and ice-making, and the arrangement of desserts, with valuable directions for the preparation of proper diet for invalids, also for a variety of wine-cups and epicurean salads, American drinks, and summer beverages",
+      "creator": [
+        "Francatelli, Charles Elmé, 1805-1876",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "International cooking",
+        "Cooking, English"
+      ],
+      "date": "1862-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Frontispiece undated",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 489,
+      "file": "books/b2152726x.pdf",
+      "source_pdf": "b2152726x.pdf"
+    },
+    {
+      "identifier": "b21530981",
+      "title": "A shilling cookery for the people : embracing an entirely new system of plain cookery and domestic economy",
+      "creator": [
+        "Soyer, Alexis, 1809-1858",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1858-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "On verso of t.p.: London: Savill and Edwards, printers, Chandos Street, Covent Garden",
+        "\"One hundred and ninety-first thousand\"",
+        "Cover reads \"190th thousand\"",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 708,
+      "file": "books/b21530981.pdf",
+      "source_pdf": "b21530981.pdf"
+    },
+    {
+      "identifier": "moderndomesticco00rund",
+      "title": "Modern domestic cookery : based on the well-known work of Mrs. Rundell, but including all the recent improvements in the culinary art, founded on principles of economy and practical knowledge, and adapted for private families",
+      "creator": "Rundell, Maria Eliza Ketelby, 1745-1828 author",
+      "subjects": [
+        "Cooking, English",
+        "Cooking"
+      ],
+      "date": "1853-01-01T00:00:00Z",
+      "description": [
+        "xxviii, 644, 32 pages, 2 unnumbered leaves of plates : 18 cm",
+        "Includes index"
+      ],
+      "downloads": 187,
+      "file": "books/moderndomesticco00rund.pdf",
+      "source_pdf": "moderndomesticco00rund.pdf"
+    },
+    {
+      "identifier": "practicalcookeng00breg",
+      "title": "The practical cook, English and foreign : containing a great variety of old receipts, improved and re-modelled, and many original receipts in English, French, German, Russian, Spanish, Polish, Dutch, American, Swiss, and Indian cookery : with copious directions for the choice of all provisions, the laying out a table, giving small and large dinners, and the management of a cellar",
+      "creator": "Bregion, Joseph, author",
+      "subjects": [
+        "Cooking, English",
+        "International cooking"
+      ],
+      "date": "1845-01-01T00:00:00Z",
+      "description": [
+        "xxviii, 498 pages, 12 unnumbered leaves of plates : 17 cm",
+        "Includes index"
+      ],
+      "downloads": 380,
+      "file": "books/practicalcookeng00breg.pdf",
+      "source_pdf": "practicalcookeng00breg.pdf"
+    },
+    {
+      "identifier": "modernhousewifeo00soye_0",
+      "title": "The modern housewife, or, Ménagère : comprising nearly one thousand receipts for the economic and judicious preparation of every meal of the day : and those of the nursery and sick room, and minute directions for family management in all its branches",
+      "creator": "Soyer, Alexis, 1809-1858",
+      "subjects": "Cooking, English",
+      "date": "1856-01-01T00:00:00Z",
+      "description": [
+        "[8], xvi, 508, [12] pages, [5] leaves of plates : 20 cm",
+        "\"Thirty second thousand.\"",
+        "Publisher's advertisement: p. [1-12] at end",
+        "Includes index"
+      ],
+      "downloads": 356,
+      "file": "books/modernhousewifeo00soye_0.pdf",
+      "source_pdf": "modernhousewifeo00soye_0.pdf"
+    },
+    {
+      "identifier": "modernhousewifeo00soye_1",
+      "title": "The modern housewife, or, Ménagère : comprising nearly one thousand receipts for the economic and judicious preparation of every meal of the day, with those of the nursery and sick room, and minute directions for family management in all its branches",
+      "creator": "Soyer, Alexis, 1809-1858, author",
+      "subjects": "Cooking, English",
+      "date": "1849-01-01T00:00:00Z",
+      "description": [
+        "xvi, 441, [13] pages, [4] leaves of plates : 19 cm (8vo)",
+        "Frontispiece portrait engraved by H.B. Hall from the original drawing by the late Madame Soyer",
+        "Includes index",
+        "Advertisements: [13] pages at end"
+      ],
+      "downloads": 243,
+      "file": "books/modernhousewifeo00soye_1.pdf",
+      "source_pdf": "modernhousewifeo00soye_1.pdf"
+    },
+    {
+      "identifier": "kitchenoracleofm00hobb",
+      "title": "Kitchen oracle of modern culinary art : containing good dinners and how to dress them for every month in the year, and a large amount of useful information on all matters connected with the kitchen, a large number of dishes of great novelty, and the greatest improvements in culinary art at the present day",
+      "creator": "Hobbs, Samuel author",
+      "subjects": "Cooking, English",
+      "date": "1886-01-01T00:00:00Z",
+      "description": [
+        "541 pages : 22 cm",
+        "Includes index"
+      ],
+      "downloads": 267,
+      "file": "books/kitchenoracleofm00hobb.pdf",
+      "source_pdf": "kitchenoracleofm00hobb.pdf"
+    },
+    {
+      "identifier": "b21530373",
+      "title": "The ideal cookery book",
+      "creator": [
+        "Fairclough, M. A. (Margaret Alice)",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking, English",
+        "Cooking, French"
+      ],
+      "date": "1912-01-01T00:00:00Z",
+      "description": [
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library",
+        "The University of Leeds Library"
+      ],
+      "downloads": 801,
+      "file": "books/b21530373.pdf",
+      "source_pdf": "b21530373.pdf"
+    },
+    {
+      "identifier": "b2153102x",
+      "title": "Modern domestic cookery : based on the well-known work of Mrs. Rundell, but including all the recent improvements in the culinary art, founded on principles of economy and practical knowledge, and adapted for private families",
+      "creator": [
+        "Rundell, Maria Eliza Ketelby, 1745-1828. New system of domestic cookery",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1853-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "At head of title: Murray's modern cookery book",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 559,
+      "file": "books/b2153102x.pdf",
+      "source_pdf": "b2153102x.pdf"
+    },
+    {
+      "identifier": "b21538001",
+      "title": "A practical dictionary of cookery : 1200 tested recipes",
+      "creator": [
+        "Meyer, Ethel S",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1898-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 423,
+      "file": "books/b21538001.pdf",
+      "source_pdf": "b21538001.pdf"
+    },
+    {
+      "identifier": "b21527039",
+      "title": "Good things made, said, & done, for every home & household",
+      "creator": "University of Leeds. Library",
+      "subjects": "Cooking, English",
+      "date": "1893-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 580,
+      "file": "books/b21527039.pdf",
+      "source_pdf": "b21527039.pdf"
+    },
+    {
+      "identifier": "b21527970",
+      "title": "The modern housewife or ménagère : comprising nearly one thousand receipts for the economic and judicious preparation of every meal of the day, with those of the nursery and sick room, and minute directions for family management in all its branches ...",
+      "creator": [
+        "Soyer, Alexis, 1809-1858",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1849-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 326,
+      "file": "books/b21527970.pdf",
+      "source_pdf": "b21527970.pdf"
+    },
+    {
+      "identifier": "b21528184",
+      "title": "Practical dinners : with plain directions for their preparation",
+      "creator": [
+        "Chevalley de Rivaz, Victor",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Menus",
+        "Cooking, English"
+      ],
+      "date": "1887-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "By Victor Chevalley de Rivaz",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 363,
+      "file": "books/b21528184.pdf",
+      "source_pdf": "b21528184.pdf"
+    },
+    {
+      "identifier": "b21528718",
+      "title": "Little dinners : how to serve them with elegance and economy",
+      "creator": [
+        "Hooper, Mary, 1829-1904",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Menus",
+        "Cooking, English"
+      ],
+      "date": "1875-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 511,
+      "file": "books/b21528718.pdf",
+      "source_pdf": "b21528718.pdf"
+    },
+    {
+      "identifier": "b21531948",
+      "title": "The modern housewife or ménagère : comprising nearly one thousand receipts for the economic and judicious preparation of every meal of the day, with those of the nursery and sick room, and minute directions for family management in all its branches ...",
+      "creator": [
+        "Soyer, Alexis, 1809-1858",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1850-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Twelfth thousand",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 282,
+      "file": "books/b21531948.pdf",
+      "source_pdf": "b21531948.pdf"
+    },
+    {
+      "identifier": "b28134461",
+      "title": "100 simple cookery recipes",
+      "creator": "Steinthal, Helena",
+      "subjects": "Cooking, English",
+      "date": "1907-01-01T00:00:00Z",
+      "description": "Includes index",
+      "downloads": 445,
+      "file": "books/b28134461.pdf",
+      "source_pdf": "b28134461.pdf"
+    },
+    {
+      "identifier": "b21527131",
+      "title": "Still room cookery : recipes old and new",
+      "creator": [
+        "Peel, C. S., Mrs",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1905-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 1183,
+      "file": "books/b21527131.pdf",
+      "source_pdf": "b21527131.pdf"
+    },
+    {
+      "identifier": "b21526692",
+      "title": "A few choice recipes",
+      "creator": [
+        "Lindsay, Sarah, Lady",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1883-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 308,
+      "file": "books/b21526692.pdf",
+      "source_pdf": "b21526692.pdf"
+    },
+    {
+      "identifier": "b21526138",
+      "title": "A little book of cookery",
+      "creator": [
+        "Luck, Dora",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1905-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Spine title: Cookery",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 617,
+      "file": "books/b21526138.pdf",
+      "source_pdf": "b21526138.pdf"
+    },
+    {
+      "identifier": "b21526187",
+      "title": "The complete art of cookery : exhibited in a plain and easy manner, with directions for marketing, the seasons for meat, poultry, fish, game, etc",
+      "creator": [
+        "Reynolds, M. A",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1850-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 263,
+      "file": "books/b21526187.pdf",
+      "source_pdf": "b21526187.pdf"
+    },
+    {
+      "identifier": "b21527799",
+      "title": "The book of household management; comprising information for the mistress ... Also, sanitary, medical, & legal memoranda; with a history of the origin, properties, and uses of all things connected with home life and comfort",
+      "creator": [
+        "Beeton, Mrs. (Isabella Mary), 1836-1865",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Home economics",
+        "Cooking, English"
+      ],
+      "date": "1861-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "With additional title-page reading \"Beeton's book of household managementt. Edited by Mrs. Isabella Beeton\"",
+        "Spine title: Beeton's household management",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 4223,
+      "file": "books/b21527799.pdf",
+      "source_pdf": "b21527799.pdf"
+    },
+    {
+      "identifier": "b21531961",
+      "title": "The modern housewife or ménagère : comprising nearly one thousand receipts for the economic and judicious preparation of every meal of the day, with those of the nursery and sick room, and minute directions for family management in all its branches ...",
+      "creator": [
+        "Soyer, Alexis, 1809-1858",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1850-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Fourteenth thousand",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 330,
+      "file": "books/b21531961.pdf",
+      "source_pdf": "b21531961.pdf"
+    },
+    {
+      "identifier": "b21539364",
+      "title": "The book of household management : comprising information for the mistress, housekeeper, cook, kitchen-maid, butler, footman, coachman, valet, parlour-maid, housemaid, lady's maid, general servant, laundry-maid, nurse and nurse-maid, monthly, wet, and sick-nurse, governess : also, sanitary, medical and legal memoranda : with a history of the origin, properties, and uses of all things connected with home life and comfort",
+      "creator": [
+        "Beeton, Mrs (Isabella Mary), 1836-1865",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking, English",
+        "Cooking",
+        "Home economics"
+      ],
+      "date": "1895-01-01T00:00:00Z",
+      "description": [
+        "Includes index",
+        "\"Six hundredth thousand.\"",
+        "Various advertising inserts, and a publisher's catalogue at the end",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library",
+        "The University of Leeds Library"
+      ],
+      "downloads": 2490,
+      "file": "books/b21539364.pdf",
+      "source_pdf": "b21539364.pdf"
+    },
+    {
+      "identifier": "moderncookpracti00fran",
+      "title": "The modern cook : a practical guide to the culinary art in all its branches : comprising, in addition to English cookery, the most approved and recherché systems of French, Italian, and German cookery : adapted as well for the largest establishments as for the use of private families",
+      "creator": "Francatelli, Charles Elmé, 1805-1876",
+      "subjects": [
+        "Cooking, English",
+        "Cooking, European",
+        "Cooking"
+      ],
+      "date": "1886-01-01T00:00:00Z",
+      "description": [
+        "xv, 560 pages, 1 unnumbered leaf of plates : 22 cm",
+        "London edition originally published in 1846 under title: The modern cook. First American edition published the same year under title: French cookery"
+      ],
+      "downloads": 251,
+      "file": "books/moderncookpracti00fran.pdf",
+      "source_pdf": "moderncookpracti00fran.pdf"
+    },
+    {
+      "identifier": "cookeryforeveryh00jack",
+      "title": "Cookery for every household",
+      "creator": "Jack, Florence B",
+      "subjects": "Cooking, English",
+      "date": "1900-01-01T00:00:00Z",
+      "description": [
+        "x, 711 pages : 24 cm",
+        "Includes index",
+        "Gift; Mary Williamson; RB339113"
+      ],
+      "downloads": 399,
+      "file": "books/cookeryforeveryh00jack.pdf",
+      "source_pdf": "cookeryforeveryh00jack.pdf"
+    },
+    {
+      "identifier": "b33098979",
+      "title": "The modern housewife or ménagère. Comprising nearly one thousand receipts. For the economic and judicious preparation of every meal of the day, with those of the nursery and sick room, and minute directions for family management in all its branches",
+      "creator": "Soyer, Alexis, 1809-1858",
+      "subjects": "Cooking, English",
+      "date": "1849-01-01T00:00:00Z",
+      "description": [
+        "xii, 430 pages, 3 unnumbered leaves, 4 unnumbered leaves of plates : (8vo)",
+        "Includes index"
+      ],
+      "downloads": 180,
+      "file": "books/b33098979.pdf",
+      "source_pdf": "b33098979.pdf"
+    },
+    {
+      "identifier": "b21505287",
+      "title": "Household cookery, carving and dinner-table observations : with directions how to give a dinner with economy and taste",
+      "creator": "University of Leeds. Library",
+      "subjects": [
+        "Dinners and dining",
+        "Cooking, English"
+      ],
+      "date": "1855-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Anon",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 502,
+      "file": "books/b21505287.pdf",
+      "source_pdf": "b21505287.pdf"
+    },
+    {
+      "identifier": "b21527064",
+      "title": "Sweets and supper dishes à la mode",
+      "creator": [
+        "De Salis, Mrs (Harriet Anne)",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking, English",
+        "Desserts"
+      ],
+      "date": "1895-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 341,
+      "file": "books/b21527064.pdf",
+      "source_pdf": "b21527064.pdf"
+    },
+    {
+      "identifier": "b21533295",
+      "title": "Modern cookery for private families, reduced to a system of easy practice, in a series of carefully tested receipts, in which the principles of Baron Liebeg and other eminent writers have been as much as possible applied and explained",
+      "creator": [
+        "Acton, Eliza, 1799-1859",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1880-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Publisher's advertisements: 12 pp. at end",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 366,
+      "file": "books/b21533295.pdf",
+      "source_pdf": "b21533295.pdf"
+    },
+    {
+      "identifier": "b21538554",
+      "title": "Savouries à la mode",
+      "creator": [
+        "De Salis, Mrs. (Harriet Anne)",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1886-01-01T00:00:00Z",
+      "description": [
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library",
+        "The University of Leeds Library"
+      ],
+      "downloads": 280,
+      "file": "books/b21538554.pdf",
+      "source_pdf": "b21538554.pdf"
+    },
+    {
+      "identifier": "b21526795",
+      "title": "The cook's guide and housekeeper's & butler's assistant : a practical treatise on English and foreign cookery in all its branches, containing plain instructions for pickling and preserving vegetables, fruits, game, &c, the curing of hams and bacon, the art of confectionery and ice-making, and the arrangement of desserts, with valuable directions for the preparation of proper diet for invalids, also for a variety of wine-cups and epicurean salads, American drinks, and summer beverages",
+      "creator": [
+        "Francatelli, Charles Elmé, 1805-1876",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "International cooking",
+        "Cooking, English"
+      ],
+      "date": "1862-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Frontispiece dated 1861",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 477,
+      "file": "books/b21526795.pdf",
+      "source_pdf": "b21526795.pdf"
+    },
+    {
+      "identifier": "b21527519",
+      "title": "The modern housewife or ménagère : comprising nearly one thousand receipts for the economic and judicious preparation of every meal of the day, with those of the nursery and sick room, and minute directions for family management in all its branches ...",
+      "creator": [
+        "Soyer, Alexis, 1809-1858",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1849-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Tenth thousand",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 337,
+      "file": "books/b21527519.pdf",
+      "source_pdf": "b21527519.pdf"
+    },
+    {
+      "identifier": "b21539650",
+      "title": "A handbook of cookery for school and home",
+      "creator": [
+        "Pearson, Ada T",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1913-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 360,
+      "file": "books/b21539650.pdf",
+      "source_pdf": "b21539650.pdf"
+    },
+    {
+      "identifier": "b21527076",
+      "title": "Fifty dinners",
+      "creator": [
+        "Kenney-Herbert, A. R. (Arthur Robert), 1840-1916",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking, English",
+        "Dinners and dining"
+      ],
+      "date": "1895-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 503,
+      "file": "books/b21527076.pdf",
+      "source_pdf": "b21527076.pdf"
+    },
+    {
+      "identifier": "b21528494",
+      "title": "The housewife's manual of domestic cookery : with special reference to cooking by gas",
+      "creator": [
+        "Young, H. M., Mrs",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Gas cooking",
+        "Cooking, English"
+      ],
+      "date": "1895-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 296,
+      "file": "books/b21528494.pdf",
+      "source_pdf": "b21528494.pdf"
+    },
+    {
+      "identifier": "the-indian-cookery-book-a-practical-handbook-to-the-kitchen-in-india-1880",
+      "title": "The Indian Cookery Book A Practical Handbook To The Kitchen In India 1880",
+      "creator": null,
+      "subjects": "The Indian cookery book a practical handbook to the kitchen in India 1880",
+      "date": "1880-01-01T00:00:00Z",
+      "description": "The Indian cookery book a practical handbook to the kitchen in India 1880 ",
+      "downloads": 382,
+      "file": "books/the-indian-cookery-book-a-practical-handbook-to-the-kitchen-in-india-1880.pdf",
+      "source_pdf": "The Indian cookery book a practical handbook to the kitchen in India 1880.pdf"
+    },
+    {
+      "identifier": "cu31924000657647",
+      "title": "The Glasgow cookery book",
+      "creator": "Glasgow and West of Scotland College of Domestic Science",
+      "subjects": [
+        "Cookery, Scottish",
+        "cbk"
+      ],
+      "date": "1900-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Includes index",
+        "Rare Annex copy 1: Gift of Mr. & Mrs. Carl A. Rietz",
+        "378 p., 4 leaves of plates : 19 cm"
+      ],
+      "downloads": 15594,
+      "file": "books/cu31924000657647.pdf",
+      "source_pdf": "cu31924000657647.pdf"
+    },
+    {
+      "identifier": "leabharccairea00sistuoft",
+      "title": "Leabhar cócaireachta : na rudhartha, modhanna fulachta, curtha le chéile do chailínibh scoile, an obair do'n chéad bhliadhain",
+      "creator": "Sisters of Mercy (Callan, Ireland)",
+      "subjects": [
+        "Cookery, Irish",
+        "cbk"
+      ],
+      "date": "1900-01-01T00:00:00Z",
+      "description": "14",
+      "downloads": 2467,
+      "file": "books/leabharccairea00sistuoft.pdf",
+      "source_pdf": "leabharccairea00sistuoft.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-97868-85",
+      "title": "400 sweet dishes, suitable for confectioners, cooks, &c. : breads, biscuits, cakes, rings, crusts, tarts, puddings, omelets ... jellies, preserves, marmalades, compotes ... and other valuable receipts",
+      "creator": "Ryty Madame",
+      "subjects": [
+        "Desserts.",
+        "Bread.",
+        "Cake.",
+        "Cooking (Eggs)",
+        "Puddings.",
+        "McGill University Library Digitized Title",
+        "Desserts",
+        "Bread",
+        "Cake",
+        "Puddings",
+        "Cookbook Collection"
+      ],
+      "date": "1895-01-01T00:00:00Z",
+      "description": [
+        "224 pages ; 19 cm",
+        "Publication date from British Library catalogue entry",
+        "From the collection of Alexandra Michell"
+      ],
+      "downloads": 1268,
+      "file": "books/McGillLibrary-97868-85.pdf",
+      "source_pdf": "97868.pdf"
+    },
+    {
+      "identifier": "b21538827",
+      "title": "Puddings : proved & approved",
+      "creator": [
+        "Rivers, Mabel I",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Desserts",
+        "Puddings"
+      ],
+      "date": "1909-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 1584,
+      "file": "books/b21538827.pdf",
+      "source_pdf": "b21538827.pdf"
+    },
+    {
+      "identifier": "puddingsdaintyde00murr_0",
+      "title": "Puddings and dainty desserts",
+      "creator": "Murrey, Thomas J. (Thomas Jefferson)",
+      "subjects": [
+        "Puddings",
+        "Desserts"
+      ],
+      "date": "1886-01-01T00:00:00Z",
+      "description": "53 p. ; 16 cm",
+      "downloads": 2057,
+      "file": "books/puddingsdaintyde00murr_0.pdf",
+      "source_pdf": "puddingsdaintyde00murr_0.pdf"
+    },
+    {
+      "identifier": "b21538736",
+      "title": "Pastry-making and confectionery : including the art of icing and piping, also cakes, buns, fancy biscuits, sweetmeats, etc.",
+      "creator": [
+        "Hérisse, Emile",
+        "Senn, Charles Herman, 1862-1934",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Pastry",
+        "Confectionery"
+      ],
+      "date": "1900-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "\" ... translated by the author from his French edition\"--P. 5",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 1071,
+      "file": "books/b21538736.pdf",
+      "source_pdf": "b21538736.pdf"
+    },
+    {
+      "identifier": "cu31924000461495",
+      "title": "Paul Richards' book of breads, cakes, pastries, ices and sweetmeats, especially adapted for hotel and catering trades",
+      "creator": "Richards, Paul",
+      "subjects": [
+        "Pastry",
+        "Baking",
+        "cbk"
+      ],
+      "date": "1907-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Previously published under title: Paul Richard's pastry book"
+      ],
+      "downloads": 2711,
+      "file": "books/cu31924000461495.pdf",
+      "source_pdf": "cu31924000461495.pdf"
+    },
+    {
+      "identifier": "completepractica00gill",
+      "title": "The complete practical pastry cook",
+      "creator": "[Gill, J. Thompson] [from old catalog]",
+      "subjects": [
+        "Pastry",
+        "Desserts",
+        "cbk"
+      ],
+      "date": "1889-01-01T00:00:00Z",
+      "description": "4 p. 20 cm",
+      "downloads": 2521,
+      "file": "books/completepractica00gill.pdf",
+      "source_pdf": "completepractica00gill.pdf"
+    },
+    {
+      "identifier": "perfectioninbaki00brau",
+      "title": "Perfection in baking",
+      "creator": "Braun, Emil. [from old catalog]",
+      "subjects": [
+        "Pastry",
+        "Cake",
+        "cbk"
+      ],
+      "date": "1893-01-01T00:00:00Z",
+      "description": "85 p. 24 cm",
+      "downloads": 1020,
+      "file": "books/perfectioninbaki00brau.pdf",
+      "source_pdf": "perfectioninbaki00brau.pdf"
+    },
+    {
+      "identifier": "b21538785",
+      "title": "The pastrycook & confectioner's guide : for hotels, restaurants, and the trade in general adapted also for family use : including a large variety of modern recipes for bread - cakes - fancy biscuits - ice creams and water ices - jellies - pies, puddings and custards - joints, meat pies and dishes - poultry and game - ornamental sugar-work and butter-work etc., etc. with useful hints and instructions",
+      "creator": [
+        "Wells, Robert",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Pastry",
+        "Confectionery",
+        "Desserts"
+      ],
+      "date": "1889-01-01T00:00:00Z",
+      "description": [
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library",
+        "The University of Leeds Library"
+      ],
+      "downloads": 1631,
+      "file": "books/b21538785.pdf",
+      "source_pdf": "b21538785.pdf"
+    },
+    {
+      "identifier": "apprenticesguide00moff",
+      "title": "The apprentices' guide, or, Every lady her own pastry cook and confectioner",
+      "creator": "Moffatt, Robert W",
+      "subjects": [
+        "Pastry",
+        "Cake"
+      ],
+      "date": "1869-01-01T00:00:00Z",
+      "description": [
+        "Cover title: Every lady her own pastry cook",
+        "Includes index"
+      ],
+      "downloads": 874,
+      "file": "books/apprenticesguide00moff.pdf",
+      "source_pdf": "apprenticesguide00moff.pdf"
+    },
+    {
+      "identifier": "cu31924000657522",
+      "title": "Paul Richard's pastry book",
+      "creator": "Richards, Paul",
+      "subjects": [
+        "Pastry",
+        "Baking",
+        "cbk"
+      ],
+      "date": "1907-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "172 p. 24 cm"
+      ],
+      "downloads": 3079,
+      "file": "books/cu31924000657522.pdf",
+      "source_pdf": "cu31924000657522.pdf"
+    },
+    {
+      "identifier": "puddingspastry00desa",
+      "title": "Puddings and pastry à la mode",
+      "creator": "De Salis, Mrs. (Harriet Anne)",
+      "subjects": [
+        "Pastry",
+        "Desserts",
+        "Cookery",
+        "cbk"
+      ],
+      "date": "1893-01-01T00:00:00Z",
+      "description": "[5], 70 p. ; small and 8vo",
+      "downloads": 3750,
+      "file": "books/puddingspastry00desa.pdf",
+      "source_pdf": "puddingspastry00desa.pdf"
+    },
+    {
+      "identifier": "b21532400",
+      "title": "The Italian confectioner; or complete economy of desserts, according to the most modern and approved practice",
+      "creator": [
+        "Jarrin, W. A. (William Alexis), 1784-1848",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Desserts",
+        "Confectionery"
+      ],
+      "date": "1861-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Earlier editions published under name: G.A. Jarrin",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 461,
+      "file": "books/b21532400.pdf",
+      "source_pdf": "b21532400.pdf"
+    },
+    {
+      "identifier": "gb-1892-6841-crawford",
+      "title": "Crawford - Manufacture of Malt, Bread, Biscuits, and Confectionery, British Patent 6841 of 1892",
+      "creator": "William Crawford",
+      "subjects": [
+        "patent",
+        "British patents",
+        "bread",
+        "biscuits",
+        "baking",
+        "bakeries",
+        "malt",
+        "confectionery",
+        "USPC 426/26"
+      ],
+      "date": "1892-05-14T00:00:00Z",
+      "description": "An Improvement in the Manufacture of Malt, Bread, Biscuits, Confectionery, and other Articles of Diet, British Patent 6841 of 1892, William Crawford, 62 Choumert Road, Peckham, London, Surrey, England, May 14, 1892.",
+      "downloads": 10,
+      "file": "books/gb-1892-6841-crawford.pdf",
+      "source_pdf": "GB-1892-6841_Crawford.pdf"
+    },
+    {
+      "identifier": "modernbakerconfe04kirkuoft",
+      "title": "The modern baker, confectioner and caterer; a practical and scientific work for the baking and allied trades. Edited by John Kirkland. With contributions from leading specialists and trade experts",
+      "creator": "Kirkland, John",
+      "subjects": [
+        "Bakers and bakeries",
+        "Caterers and catering",
+        "Confectionery",
+        "cbk"
+      ],
+      "date": "1907-01-01T00:00:00Z",
+      "description": "14",
+      "downloads": 2123,
+      "file": "books/modernbakerconfe04kirkuoft.pdf",
+      "source_pdf": "modernbakerconfe04kirkuoft.pdf"
+    },
+    {
+      "identifier": "praktischerratg00malzgoog",
+      "title": "Praktischer Ratgeber für Conditoren, Cakebäcker und Brotbäcker und Candy-Macher : nebst einer ausführlichen Anleitung für den im Hotel beschäftigten Conditor = Practical manual for confectioners, pastrycooks and bakers and candy makers : containing detailed directions for pastry cooks in hotels",
+      "creator": "Malzbender, Mathew",
+      "subjects": [
+        "Baking",
+        "Confectionery",
+        "cbk"
+      ],
+      "date": "1912-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "On cover: Malzbender's practical recipe book for bakers and pastry cooks",
+        "German and English in parallel columns"
+      ],
+      "downloads": 1933,
+      "file": "books/praktischerratg00malzgoog.pdf",
+      "source_pdf": "praktischerratg00malzgoog.pdf"
+    },
+    {
+      "identifier": "b21531225",
+      "title": "The modern confectioner : a practical guide to the latest and most improved methods for making the various kinds of confectionery; with the manner of preparing and laying out desserts; adapted for private families or large establishments",
+      "creator": [
+        "Jeanes, William",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Desserts",
+        "Confectionery"
+      ],
+      "date": "1861-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 387,
+      "file": "books/b21531225.pdf",
+      "source_pdf": "b21531225.pdf"
+    },
+    {
+      "identifier": "b21538840",
+      "title": "All about gateaux and dessert cakes",
+      "creator": [
+        "Harris, H. G",
+        "Borella, S. P",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Formulas, recipes, etc",
+        "Confectionery",
+        "Cake decorating",
+        "Baking"
+      ],
+      "date": "1910-01-01T00:00:00Z",
+      "description": [
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library",
+        "The University of Leeds Library"
+      ],
+      "downloads": 1990,
+      "file": "books/b21538840.pdf",
+      "source_pdf": "b21538840.pdf"
+    },
+    {
+      "identifier": "TheBakersGuideAndPracticalAssistant",
+      "title": "The Bakers Guide And Practical Assistant To The Art Of Bread-Making In All Its Branches, 4th Ed.",
+      "creator": "Blandy, John",
+      "subjects": [
+        "Baking",
+        "Cookery",
+        "Bakers and bakeries",
+        "Confectionery",
+        "Bread"
+      ],
+      "date": "1899-01-01T00:00:00Z",
+      "description": [
+        "PREFACE. IT is with more than ordinary pleasure that I write the few words asked from me by Mr. Blandy as a preface to the Fourth Edition of the \" Bakers' and Confectioners' Guide.\" The circumstances under which this edition is called for and published are unique, and reflect the greatest credit on Mr. Blandy. That a trade in which reading and study is so little respected should have already bought up three editions is a circumstance in itself remarkable enough, but it is more than remarkable when the text is studied. Mr. Blandy does not spare his trade, but talks out straight, and points out without flinching the sins and shortcomings to which it is addicted. I cannot agree with all the strictures set forth in the \"Bakers' Guide,\" or subscrible to all the modes of reform the author suggests, but I can bear witness to the integrity and honesty of his opinions, and to the unselfish enthusiasm with which he has pursued the good and great work of reforming and educating the baking trade. He knows, as all reformers know, what it is to have his work disparaged and his motives misconstrued, but he troubles not, keeping his face well set to the work before him, and going heroically forward. He acts up to his ideal : \"It is of no consequence whether the outside world says ' successful ' to you or not ; your concern is to get the c well done ' at the finish of the journey from the man inside your own breast.\" It is not a worldly-wise ideal this, it is rather heroic ; but it is men with such ideals who do the pioneer work of the world, although the credit does not always turn their way. The original edition of the \"Bakers' Guide,\" published in 1882, was not the first book published for bakers, but there had been nothing of the kind issued for about thirty years before the \" Guide \" appeared, and the older works were either forgotten or obsolete, and were only interesting as ancient literature. In each subsequent edition — and I have read them carefully — some new matter and new feature has been added ; but the present edition — of which I have had the privilege of reading the proof sheets — is quite a vade mecum for the baker and confectioner, whether he is old or young, master or man. If I have a preference for the \" literary \" part of the work — those little paragraph sermons which Mr. Blandy can write so ingeniously and so forcibly — it may be because of a personal predilection of mine, but it is also because there is wisdom and wit in them, and because where they are not directly instructive, they are always stimulating and provocative of thought. Mr. Blandy is original in the sense that his individuality predominates in all he does and all he writes ; he cannot, even if he tries, think of, write, or speak as the ordinary man, so that his literary work, however one may disagree with its purport, is always refreshing and always instructive. Since the last edition of this book was published the author has had the important experience of successfully teaching for several sessions a large class of bakers — workers, managers, and masters — at the Borough Polytechnic, London, and the result of his experience, or part of it, is now incorporated in the new edition of \" The Guide.\" He has learned that bakers don't care about long arrays of figures and compound technical terms, and he has tried, and tried successfully, to teach technics in language as plain as possible. But as knowledge of technical terms is absolutely necessary to the student, all that are essential and Some more have been incorporated in \" The Guide,\" in dictionary form, for ready reference. The multitude of recipes given are useful to those in search of variety, or to those so situated that they must be their own instructors ; to such this book will be a real guide. I could wish for nothing better for the baking and confectionery trades than that every young man would carefully peruse this new edition of the \"Bakers' Guide,'' in itself it is a liberal education. John Kirkland Digitized by Google.",
+        "Earlier edition has title: The bakers' guide and practical assistant to the art of breadmaking, etc"
+      ],
+      "downloads": 2255,
+      "file": "books/TheBakersGuideAndPracticalAssistant.pdf",
+      "source_pdf": "TheBakersGuideAndPracticalAssistant.pdf"
+    },
+    {
+      "identifier": "littleconfection00hick",
+      "title": "The little confectioner, containing recipes and processes for making the more popular forms of confectionery",
+      "creator": "Hicks, Smith. [from old catalog]",
+      "subjects": "Confectionery",
+      "date": "1876-01-01T00:00:00Z",
+      "description": "95 p. 15 cm",
+      "downloads": 1126,
+      "file": "books/littleconfection00hick.pdf",
+      "source_pdf": "littleconfection00hick.pdf"
+    },
+    {
+      "identifier": "b21532023",
+      "title": "The modern confectioner : a practical guide to the latest and most improved methods for making the various kinds of confectionery; with the manner of preparing and laying out desserts; adapted for private families or large establishments",
+      "creator": [
+        "Jeanes, William",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Desserts",
+        "Confectionery"
+      ],
+      "date": "1864-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 445,
+      "file": "books/b21532023.pdf",
+      "source_pdf": "b21532023.pdf"
+    },
+    {
+      "identifier": "candymakingrevol00hall",
+      "title": "Candy-making revolutionized;",
+      "creator": "Hall, Mary Elizabeth. [from old catalog]",
+      "subjects": "Confectionery",
+      "date": "1912-01-01T00:00:00Z",
+      "description": "6 p. 19 cm",
+      "downloads": 1711,
+      "file": "books/candymakingrevol00hall.pdf",
+      "source_pdf": "candymakingrevol00hall.pdf"
+    },
+    {
+      "identifier": "modernbakerconfe02kirkuoft",
+      "title": "The modern baker, confectioner and caterer; a practical and scientific work for the baking and allied trades. Edited by John Kirkland. With contributions from leading specialists and trade experts",
+      "creator": "Kirkland, John",
+      "subjects": [
+        "Bakers and bakeries",
+        "Caterers and catering",
+        "Confectionery",
+        "cbk"
+      ],
+      "date": "1907-01-01T00:00:00Z",
+      "description": "14",
+      "downloads": 6279,
+      "file": "books/modernbakerconfe02kirkuoft.pdf",
+      "source_pdf": "modernbakerconfe02kirkuoft.pdf"
+    },
+    {
+      "identifier": "b2152788x",
+      "title": "The complete confectioner, pastry-cook, and baker : plain and practical directions for making confectionary and pastry, and for baking; with upwards of five hundred receipts consisting of directions for making all sorts of preserves, sugar-boiling, comfits, lozenges, ornamental cakes, ices, liqueurs, waters, gum-paste ornaments, syrups, jellies, marmalades, compotes, bread-baking, artificial yeasts, fancy biscuits, cakes, rolls, muffins, tarts, pies, &c. &c. With additions and alterations",
+      "creator": [
+        "Parkinson, Eleanor",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Confectionery",
+        "Cooking, American"
+      ],
+      "date": "1844-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Lowenstein, 320; compare Bitting, p. 355",
+        "Advertisement for Parkinson's Confectionary, p.[1] at end",
+        "Publisher's advertisements, pp. [3-14] at end",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 816,
+      "file": "books/b2152788x.pdf",
+      "source_pdf": "b2152788x.pdf"
+    },
+    {
+      "identifier": "b21527532",
+      "title": "The royal confectioner, English and foreign : a practical treatise on the art of confectionary in all its branches : comprising ornamental confectionary artistically developed",
+      "creator": [
+        "Francatelli, Charles Elmé, 1805-1876",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Ice cream, ices, etc",
+        "Confectionery",
+        "Desserts"
+      ],
+      "date": "1891-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 703,
+      "file": "books/b21527532.pdf",
+      "source_pdf": "b21527532.pdf"
+    },
+    {
+      "identifier": "shillingcookeryf00soye",
+      "title": "A shilling cookery for the people : embracing an entirely new system of plain cookery and domestic economy",
+      "creator": "Soyer, Alexis, 1809-1858",
+      "subjects": "Cooking, English",
+      "date": "1855-01-01T00:00:00Z",
+      "description": "Includes index",
+      "downloads": 1050,
+      "file": "books/shillingcookeryf00soye.pdf",
+      "source_pdf": "shillingcookeryf00soye.pdf"
+    },
+    {
+      "identifier": "textbookofcooker00ewin",
+      "title": "A text-book of cookery : for use in schools : containing an undergraduate course of study",
+      "creator": "Ewing, Emma P. (Emma Pike), b. 1838",
+      "subjects": [
+        "Cookery",
+        "cbk"
+      ],
+      "date": "1897-01-01T00:00:00Z",
+      "description": "Includes bibliographical references (p. 129-130) and index",
+      "downloads": 976,
+      "file": "books/textbookofcooker00ewin.pdf",
+      "source_pdf": "textbookofcooker00ewin.pdf"
+    },
+    {
+      "identifier": "b20387519",
+      "title": "Practical vegetarian recipes [electronic resource] : as used in the principal vegetarian restaurants in London and the provinces",
+      "creator": "Forward, Charles W. (Charles Walter)",
+      "subjects": [
+        "Diet, Vegetarian",
+        "Cooking"
+      ],
+      "date": "1891-01-01T00:00:00Z",
+      "description": "126 p. ; 17 cm",
+      "downloads": 621,
+      "file": "books/b20387519.pdf",
+      "source_pdf": "b20387519.pdf"
+    },
+    {
+      "identifier": "b28052742",
+      "title": "On the chafing dish : a word for Sunday night teas",
+      "creator": "Rogers Smith & Co",
+      "subjects": "Cooking",
+      "date": "1890-01-01T00:00:00Z",
+      "description": "\"Compliments of Rogers Smith & Co\"",
+      "downloads": 266,
+      "file": "books/b28052742.pdf",
+      "source_pdf": "b28052742.pdf"
+    },
+    {
+      "identifier": "b28060313",
+      "title": "Modern domestic cookery : based on the well-known work of Mrs. Rundell, but including all the recent improvements in the culinary art, founded on principles of economy and practical knowledge, and adapted for private families",
+      "creator": "Lady",
+      "subjects": "Cooking",
+      "date": "1851-01-01T00:00:00Z",
+      "description": "Includes index",
+      "downloads": 383,
+      "file": "books/b28060313.pdf",
+      "source_pdf": "b28060313.pdf"
+    },
+    {
+      "identifier": "b21530130",
+      "title": "The cookery book of Lady Clark of Tillypronie",
+      "creator": [
+        "Clark, Charlotte Coltman, Lady, d.1897",
+        "Frere, Catherine Frances, d. 1921",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1909-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 3247,
+      "file": "books/b21530130.pdf",
+      "source_pdf": "b21530130.pdf"
+    },
+    {
+      "identifier": "b2805328x",
+      "title": "Breakfast and lunch dishes",
+      "creator": "Beaty-Pownall, S",
+      "subjects": "Cooking",
+      "date": "1901-01-01T00:00:00Z",
+      "description": "Many recipes reprinted from the \"Queen\" magazine",
+      "downloads": 341,
+      "file": "books/b2805328x.pdf",
+      "source_pdf": "b2805328x.pdf"
+    },
+    {
+      "identifier": "b28098547",
+      "title": "Cookery book and general axioms for plain cookery",
+      "creator": "London (England). School Board",
+      "subjects": "Cooking",
+      "date": "1890-01-01T00:00:00Z",
+      "description": "Includes indexes",
+      "downloads": 382,
+      "file": "books/b28098547.pdf",
+      "source_pdf": "b28098547.pdf"
+    },
+    {
+      "identifier": "b20417366",
+      "title": "Hand-book of practical cookery, for ladies and professional cooks [electronic resource] : containing the whole science and art of preparing human food by Pierre Blot",
+      "creator": "Blot, Pierre, 1818-1874",
+      "subjects": "Cooking",
+      "date": "1868-01-01T00:00:00Z",
+      "description": "Includes index",
+      "downloads": 632,
+      "file": "books/b20417366.pdf",
+      "source_pdf": "b20417366.pdf"
+    },
+    {
+      "identifier": "b28053813",
+      "title": "Every day meals : being economic and wholesome recipes for breakfast, luncheon, and supper",
+      "creator": "Hooper, Mary",
+      "subjects": "Cooking",
+      "date": "1883-01-01T00:00:00Z",
+      "description": "Includes index",
+      "downloads": 339,
+      "file": "books/b28053813.pdf",
+      "source_pdf": "b28053813.pdf"
+    },
+    {
+      "identifier": "b21528056",
+      "title": "The Pytchley book of refined cookery and bills of fare",
+      "creator": [
+        "L, Major",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1885-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Publisher's advertisements: 16 p. at end",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 305,
+      "file": "books/b21528056.pdf",
+      "source_pdf": "b21528056.pdf"
+    },
+    {
+      "identifier": "b21528238",
+      "title": "The new cookery book : a complete manual of English and foreign cookery on sound principles of taste and science; comprehending carefully tried receipts for every branch of the art",
+      "creator": [
+        "Bowman, Anne",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1869-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 441,
+      "file": "books/b21528238.pdf",
+      "source_pdf": "b21528238.pdf"
+    },
+    {
+      "identifier": "b21530907",
+      "title": "Fish, how to choose and how to dress",
+      "creator": "University of Leeds. Library",
+      "subjects": [
+        "Fish as food",
+        "Cooking (Fish)"
+      ],
+      "date": "1843-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "By William Hughes",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 386,
+      "file": "books/b21530907.pdf",
+      "source_pdf": "b21530907.pdf"
+    },
+    {
+      "identifier": "b21531031",
+      "title": "French cookery adapted for English families",
+      "creator": [
+        "Crawford, Frances",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking, English",
+        "Cooking, French"
+      ],
+      "date": "1853-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 368,
+      "file": "books/b21531031.pdf",
+      "source_pdf": "b21531031.pdf"
+    },
+    {
+      "identifier": "b21531055",
+      "title": "The Feill cookery book",
+      "creator": "University of Leeds. Library",
+      "subjects": "Cooking, Scottish",
+      "date": "1907-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 791,
+      "file": "books/b21531055.pdf",
+      "source_pdf": "b21531055.pdf"
+    },
+    {
+      "identifier": "b21537756",
+      "title": "Plain cookery recipes, as taught in the school",
+      "creator": [
+        "Clarke, Charles, Mrs, 1844-1926",
+        "National Training School of Cookery (London)",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1905-01-01T00:00:00Z",
+      "description": [
+        "At head of title: The National Training School of Cookery",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library",
+        "The University of Leeds Library"
+      ],
+      "downloads": 393,
+      "file": "books/b21537756.pdf",
+      "source_pdf": "b21537756.pdf"
+    },
+    {
+      "identifier": "b28052584",
+      "title": "Soups, broths, purées : with directions how to prepare them easily and economically",
+      "creator": "Allen, Mary L",
+      "subjects": "Cooking",
+      "date": "1894-01-01T00:00:00Z",
+      "description": "xv, 76 pages ; 17 cm",
+      "downloads": 238,
+      "file": "books/b28052584.pdf",
+      "source_pdf": "b28052584.pdf"
+    },
+    {
+      "identifier": "b28053102",
+      "title": "Cold meat and how to disguise it",
+      "creator": "Rattray, M. E., Mrs",
+      "subjects": "Cooking",
+      "date": "1904-01-01T00:00:00Z",
+      "description": "124 pages ; 19 cm",
+      "downloads": 337,
+      "file": "books/b28053102.pdf",
+      "source_pdf": "b28053102.pdf"
+    },
+    {
+      "identifier": "b28081493",
+      "title": "The modern housewife, or, Ménagère : comprising nearly one thousand receipts for the economic and judicious preparation of every meal of the day, and those for the nursery and sick room with minute directions for family management in all its branches ...",
+      "creator": "Soyer, Alexis, 1809-1858",
+      "subjects": "Cooking",
+      "date": "1853-01-01T00:00:00Z",
+      "description": "Includes index",
+      "downloads": 407,
+      "file": "books/b28081493.pdf",
+      "source_pdf": "b28081493.pdf"
+    },
+    {
+      "identifier": "b28085528",
+      "title": "The young housewife's daily assistant : on all matters relating to cookery and housekeeping ...",
+      "creator": "Cre-Fydd, active 19th century",
+      "subjects": "Cooking",
+      "date": "1864-01-01T00:00:00Z",
+      "description": "Includes index",
+      "downloads": 355,
+      "file": "books/b28085528.pdf",
+      "source_pdf": "b28085528.pdf"
+    },
+    {
+      "identifier": "b2042517x",
+      "title": "The practical housewife, a complete encyclopædia of domestic economy and family medical guide, [electronic resource]",
+      "creator": "Philp, Robert Kemp, 1819-1882",
+      "subjects": [
+        "Home economics",
+        "Medicine, Popular",
+        "Formulas, recipes, etc"
+      ],
+      "date": "1860-01-01T00:00:00Z",
+      "description": "gn",
+      "downloads": 833,
+      "file": "books/b2042517x.pdf",
+      "source_pdf": "b2042517x.pdf"
+    },
+    {
+      "identifier": "soyersstandardco00soyeuoft",
+      "title": "Soyer's standard cookery : a complete guide to the art of cooking dainty, varied, and economical dishes for the household",
+      "creator": "Soyer, Nicolas",
+      "subjects": [
+        "Cookery",
+        "cbk"
+      ],
+      "date": "1912-01-01T00:00:00Z",
+      "description": [
+        "Includes index",
+        "14"
+      ],
+      "downloads": 1647,
+      "file": "books/soyersstandardco00soyeuoft.pdf",
+      "source_pdf": "soyersstandardco00soyeuoft.pdf"
+    },
+    {
+      "identifier": "cihm_89546",
+      "title": "Modern practical cookery, pastry, confectionery, pickling and preserving [microform] : with a great variety of useful and economical receipts",
+      "creator": "Nourse, Mrs",
+      "subjects": [
+        "Cookery",
+        "Cuisine"
+      ],
+      "date": "1845-01-01T00:00:00Z",
+      "description": [
+        "Copy catalogued lacks pages after title page and before p. vii, and p. 403-404",
+        "TPL",
+        "Filmed from a copy of the original publication held by the Metropolitan Toronto Reference Library",
+        "43"
+      ],
+      "downloads": 5820,
+      "file": "books/cihm_89546.pdf",
+      "source_pdf": "cihm_89546.pdf"
+    },
+    {
+      "identifier": "commonsenserecip00alle",
+      "title": "The Common sense recipe book : containing all the latest recipes on cooking with economy and also very valuable medicinal recipes",
+      "creator": "Allen, Sarah",
+      "subjects": [
+        "Medicine",
+        "Formulas, recipes, etc",
+        "Cooking"
+      ],
+      "date": "1898-01-01T00:00:00Z",
+      "description": [
+        "2-251 pages : 22 cm",
+        "Includes advertisements",
+        "Gift; Mary Williamson; RB334985"
+      ],
+      "downloads": 309,
+      "file": "books/commonsenserecip00alle.pdf",
+      "source_pdf": "commonsenserecip00alle.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-136370-87",
+      "title": "Common-sense cookery for English households : with twenty menus worked out in detail",
+      "creator": "Kenney-Herbert, A. R. (Arthur Robert), 1840-1916",
+      "subjects": [
+        "Cooking, English.",
+        "McGill University Library Digitized Title",
+        "Cookbook collection",
+        "Cooking, English"
+      ],
+      "date": "1913-01-01T00:00:00Z",
+      "description": [
+        "xi, 551, 8 pages, [8] leaves of plates : illustrations ; 20 cm",
+        "Publisher's list on 8 p. at end",
+        "Initialled on flyleaf: \"P.T.H.\" (Percyval Tudor-Hart)"
+      ],
+      "downloads": 1063,
+      "file": "books/McGillLibrary-136370-87.pdf",
+      "source_pdf": "136370.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-67467-57",
+      "title": "All about cookery : a collection of practical recipes : arranged in alphabetical order and fully illustrated",
+      "creator": "Beeton, Mrs. (Isabella Mary), 1836-1865",
+      "subjects": [
+        "Cooking, English.",
+        "Cooking.",
+        "McGill University Library Digitized Title",
+        "Cooking, English",
+        "Cooking"
+      ],
+      "date": "1887-01-01T00:00:00Z",
+      "description": [
+        "vi, 371, [13] pages, [2] leaves of plates : illustrations (some color) ; 20 cm",
+        "Cover title: Beeton's all about cookery",
+        "Caption title: Dictionary of cookery",
+        "At head of title: Beeton's \"All about it\" books",
+        "Publisher's advertisements on [11] p. at end of text",
+        "Advertisements on p. [373], endpapers, and on versos of half title and title pages",
+        "Previously issued as: Dictionary of every-day cookery. Cf. BLC, 23, p. 202"
+      ],
+      "downloads": 1639,
+      "file": "books/McGillLibrary-67467-57.pdf",
+      "source_pdf": "67467.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_cookbook_good-things-how-cook-them_TX714G661910z-21053",
+      "title": "Good things and how to cook them",
+      "creator": "Zam-Buk Company.",
+      "subjects": [
+        "Cooking.",
+        "Cuisine.",
+        "McGill University Library Digitized Title",
+        "Rare Books and Special Collections - Cookbook Collection",
+        "Cooking",
+        "Cuisine"
+      ],
+      "date": "1910-01-01T00:00:00Z",
+      "description": [
+        "32 pages : illustrations ; 22 cm",
+        "32 pages : 22 cm",
+        "Cover title",
+        "Advertisements and testimonials througout; testimonials are not dated"
+      ],
+      "downloads": 134,
+      "file": "books/McGillLibrary-rbsc_cookbook_good-things-how-cook-them_TX714G661910z-21053.pdf",
+      "source_pdf": "rbsc_cookbook_good-things-how-cook-them_TX714G661910z.pdf"
+    },
+    {
+      "identifier": "b21524580",
+      "title": "The family save-all : a system of secondary cookery containing nearly one thousand three hundred invaluable hints for economy in the use of every article of household consumption",
+      "creator": [
+        "Philp, Robert Kemp, 1819-1882",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking, English",
+        "Cooking (Leftovers)"
+      ],
+      "date": "1885-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "By R.K. Philp",
+        "Thirteenth thousand",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 623,
+      "file": "books/b21524580.pdf",
+      "source_pdf": "b21524580.pdf"
+    },
+    {
+      "identifier": "b21526710",
+      "title": "Plain cookery recipes, as taught in the school",
+      "creator": [
+        "Clarke, Charles, Mrs, 1844-1926",
+        "National Training School of Cookery (London)",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1886-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "At head of title: The National Training School of Cookery",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 354,
+      "file": "books/b21526710.pdf",
+      "source_pdf": "b21526710.pdf"
+    },
+    {
+      "identifier": "b21526850",
+      "title": "The cook's guide and housekeeper's & butler's assistant : a practical treatise on English and foreign cookery in all its branches, containing plain instructions for pickling and preserving vegetables, fruits, game, &c, the curing of hams and bacon, the art of confectionery and ice-making, and the arrangement of desserts, with valuable directions for the preparation of proper diet for invalids, also for a variety of wine-cups and epicurean salads, American drinks, and summer beverages",
+      "creator": [
+        "Francatelli, Charles Elmé, 1805-1876",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Menus",
+        "Cooking, English",
+        "International cooking"
+      ],
+      "date": "1865-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes 14 p. at end: Francatelli's cook's guide advertiser",
+        "Frontispiece dated 1862",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 566,
+      "file": "books/b21526850.pdf",
+      "source_pdf": "b21526850.pdf"
+    },
+    {
+      "identifier": "b21537446",
+      "title": "Official handbook of the National Training School of Cookery : with lists of utensils necessary, and lessons on cleaning utensils",
+      "creator": [
+        "National Training School of Cookery (London)",
+        "Clarke, Edith, 1844-1926",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1905-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "The Summary of rules, fees, etc. signed: Edith Clarke, Lady Superintendent",
+        "28th thousand",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 292,
+      "file": "books/b21537446.pdf",
+      "source_pdf": "b21537446.pdf"
+    },
+    {
+      "identifier": "epicuresalmanacf00hill",
+      "title": "The epicure's almanac for 1842 : containing a calendar of the months, adorned with cuts, tables of the various dishes in season, with a collection of original and choice recipes",
+      "creator": "Hill, Benson E. (Benson Earle), 1795-1845",
+      "subjects": "Cooking, English",
+      "date": "1842-01-01T00:00:00Z",
+      "description": [
+        "169 pages : 17 cm",
+        "Includes index"
+      ],
+      "downloads": 150,
+      "file": "books/epicuresalmanacf00hill.pdf",
+      "source_pdf": "epicuresalmanacf00hill.pdf"
+    },
+    {
+      "identifier": "b21505330",
+      "title": "French cookery adapted for English families",
+      "creator": [
+        "Crawford, Frances",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking, English",
+        "Cooking, French"
+      ],
+      "date": "1853-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 329,
+      "file": "books/b21505330.pdf",
+      "source_pdf": "b21505330.pdf"
+    },
+    {
+      "identifier": "b21530415",
+      "title": "Seven hundred domestic hints in every branch of family management : combining utility with elegance, and economy with the enjoyment of home",
+      "creator": "University of Leeds. Library",
+      "subjects": [
+        "Home economics",
+        "Cooking, English"
+      ],
+      "date": "1839-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Anon",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 382,
+      "file": "books/b21530415.pdf",
+      "source_pdf": "b21530415.pdf"
+    },
+    {
+      "identifier": "practicalcooken00millgoog",
+      "title": "The practical cook, English and foreign : containing a great variety of old receipts, improved and re-modelled, and many original receipts in English, French, German, Russian, Spanish, Polish, Dutch, American, Swiss, and Indian cookery : with copious directions for the choice of all provisions, the laying out a table, giving small and large dinners, and the management of a cellar",
+      "creator": "Bregion, Joseph, author",
+      "subjects": [
+        "Cooking, English",
+        "International cooking"
+      ],
+      "date": "1845-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "xxviii, 498 pages, 12 unnumbered leaves of plates : 17 cm",
+        "Includes index",
+        "Beard collection"
+      ],
+      "downloads": 866,
+      "file": "books/practicalcooken00millgoog.pdf",
+      "source_pdf": "practicalcooken00millgoog.pdf"
+    },
+    {
+      "identifier": "twothousandfiveh00jenn",
+      "title": "Two thousand five hundred practical recipes in family cookery : in which the whole art of preparing food and drink for the human stomach is simplified and explained, in accordance to the best knowledge of the age, and most conducive to the health and happiness of our species : with an introduction on the duties of cooks and other servants, observations on the implements employed in cooking, instructions for marketing, for trussing, and for performing the honours of the table with grace and propriety in the whole art of carving",
+      "creator": "Jennings, James, author",
+      "subjects": [
+        "Cooking, English",
+        "Formulas, recipes, etc"
+      ],
+      "date": "1837-01-01T00:00:00Z",
+      "description": [
+        "iv, xcix, [1], 476 pages, [1] leaf of plates : 19 cm",
+        "Includes index",
+        "Frontispiece signed: Engraved on steel by S. Springsguth"
+      ],
+      "downloads": 1010,
+      "file": "books/twothousandfiveh00jenn.pdf",
+      "source_pdf": "twothousandfiveh00jenn.pdf"
+    },
+    {
+      "identifier": "b21527015",
+      "title": "Savouries and sweets suitable for luncheons and dinners",
+      "creator": [
+        "Allen, M. L. (Mary L. Macaire)",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Desserts",
+        "Cooking, English",
+        "Appetizers"
+      ],
+      "date": "1892-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Anon., by Mary L. Allen",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 492,
+      "file": "books/b21527015.pdf",
+      "source_pdf": "b21527015.pdf"
+    },
+    {
+      "identifier": "b33098980",
+      "title": "The modern housewife or ménagère : comprising nearly one thousand receipts for the economic and judicious preparation of every meal of the day, and those for the nursery and sick room; with minute directions for family management in all its branches ...",
+      "creator": "Soyer, Alexis, 1809-1858",
+      "subjects": "Cooking, English",
+      "date": "1849-01-01T00:00:00Z",
+      "description": "xvi, 441 pages, 7 unnumbered pages : 19 cm (8vo)",
+      "downloads": 197,
+      "file": "books/b33098980.pdf",
+      "source_pdf": "b33098980.pdf"
+    },
+    {
+      "identifier": "b21537884",
+      "title": "Cookery : sound, simple, dainty",
+      "creator": "University of Leeds. Library",
+      "subjects": "Cooking, English",
+      "date": "1901-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 341,
+      "file": "books/b21537884.pdf",
+      "source_pdf": "b21537884.pdf"
+    },
+    {
+      "identifier": "lacuisineanglai00suzagoog",
+      "title": "La cuisine anglaise et la pâtisserie : traité de l'alimentation en Angleterre au point de vue pratique, théorique, anecdotique et descriptif",
+      "creator": "Suzanne, Alfred",
+      "subjects": [
+        "cbk",
+        "Cooking, English"
+      ],
+      "date": "1894-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "Includes index",
+        "Mode of access: Internet"
+      ],
+      "downloads": 629,
+      "file": "books/lacuisineanglai00suzagoog.pdf",
+      "source_pdf": "lacuisineanglai00suzagoog.pdf"
+    },
+    {
+      "identifier": "bookhouseholdma01goog",
+      "title": "The book of household management : comprising information for the mistress ... also, sanitary, medical, & legal memoranda ; with a history of the origin, properties, and uses of all things connected with home life and comfort",
+      "creator": "Beeton, Mrs. (Isabella Mary), 1836-1865",
+      "subjects": [
+        "Cooking, English",
+        "Home economics"
+      ],
+      "date": "1880-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "Includes index"
+      ],
+      "downloads": 3630,
+      "file": "books/bookhouseholdma01goog.pdf",
+      "source_pdf": "bookhouseholdma01goog.pdf"
+    },
+    {
+      "identifier": "mrsabmarshallsla00mars_0",
+      "title": "Mrs. A.B. Marshall's Larger cookery book of extra recipes : with two hundred and eighty-four illustrations",
+      "creator": "Marshall, A. B. (Agnes B.) author",
+      "subjects": "Cooking, English",
+      "date": "1894-01-01T00:00:00Z",
+      "description": [
+        "656 pages, 39 pages, 1 unnumbered leaf of plates : 27 cm",
+        "At head of title: Sixth Thousand",
+        "Title printed in red and black",
+        "Frontispiece portrait of Agnes B. Marshall",
+        "Includes index",
+        "Advertisements: 39 pages at end",
+        "\"Corrected to date of this edition, December 1894\"--Preface"
+      ],
+      "downloads": 213,
+      "file": "books/mrsabmarshallsla00mars_0.pdf",
+      "source_pdf": "mrsabmarshallsla00mars_0.pdf"
+    },
+    {
+      "identifier": "b2150460x",
+      "title": "The housekeeper's guide; or, A plain and practical system of domestic cookery",
+      "creator": [
+        "Copley, Esther",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Home economics",
+        "Cooking, English"
+      ],
+      "date": "1845-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 417,
+      "file": "books/b2150460x.pdf",
+      "source_pdf": "b2150460x.pdf"
+    },
+    {
+      "identifier": "cookandhousewif03johngoog",
+      "title": "The cook and housewife's manual : a practical system of modern demestic cookery and family management ; containing a compendium of French cookery, and of fashionable confectionary, preparations for invalids and convalescents, a selection of cheap dishes, and numerous useful miscellaneous receipts in the various branches of domestic economy",
+      "creator": "Johnstone, C. I. (Christian Isobel), 1781-1857",
+      "subjects": [
+        "Cooking, English",
+        "Brewing"
+      ],
+      "date": "1847-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "xii, 683 pages ; 18 cm",
+        "Spine title: Meg Dods' cookery"
+      ],
+      "downloads": 2124,
+      "file": "books/cookandhousewif03johngoog.pdf",
+      "source_pdf": "cookandhousewif03johngoog.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-95783-37",
+      "title": "Mrs. A.B. Marshall's cookery book : with seventy illustrations",
+      "creator": "Marshall, A. B. (Agnes B.)",
+      "subjects": [
+        "Cooking, English.",
+        "Formulas, recipes, etc.",
+        "McGill University Library Digitized Title",
+        "Cooking, English",
+        "Formulas, recipes, etc",
+        "Cookbook collection"
+      ],
+      "date": "1894-01-01T00:00:00Z",
+      "description": [
+        "468 pages : illustrations ; 19 cm",
+        "\"Twenty-fifth thousand.\"",
+        "Advertisements on endpapers and on 24 p. bound in at end",
+        "Driver, E. Cookery books published in Britain",
+        "One copy in Rare Books and Special Collections in publisher's green cloth, gilt lettering; signature of Mary Fullwood, Tickhill",
+        "One copy in Rare Books and Special Collections, also in publisher's green cloth, is a gift of the Fraser-Hickson Institute, 2007; label of: W.E. Franklin, Newcastle-on-Tyne; copy imperfect: bookblock detached from backstrip and upper covers"
+      ],
+      "downloads": 2396,
+      "file": "books/McGillLibrary-95783-37.pdf",
+      "source_pdf": "95783.pdf"
+    },
+    {
+      "identifier": "b21529048",
+      "title": "Picnics and suppers",
+      "creator": [
+        "Kenney-Herbert, A. R. (Arthur Robert), 1840-1916",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking (Cold dishes)",
+        "Cooking, English"
+      ],
+      "date": "1901-01-01T00:00:00Z",
+      "description": [
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library",
+        "The University of Leeds Library"
+      ],
+      "downloads": 485,
+      "file": "books/b21529048.pdf",
+      "source_pdf": "b21529048.pdf"
+    },
+    {
+      "identifier": "b21528214",
+      "title": "Warne's model cookery and housekeeping book : containing complete instructions in household management",
+      "creator": [
+        "Jewry, Mary",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1868-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Abridged ed. of: Warne's model cookery",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 1110,
+      "file": "books/b21528214.pdf",
+      "source_pdf": "b21528214.pdf"
+    },
+    {
+      "identifier": "b33282420",
+      "title": "The practical cook, English and foreign. Containing a great variety of old receipts, improved and remodelled; and many original receipts in English, French, German and Indian cookery. With copious directions for the choice of all provisions, the laying out a table, giving small and large dinners, and the management of a cellar",
+      "creator": "Bregion, Joseph",
+      "subjects": "Cooking, English",
+      "date": "1845-01-01T00:00:00Z",
+      "description": [
+        "xxviii, 498 pages, 1 unnumbered leaf : (8vo)",
+        "Beard collection"
+      ],
+      "downloads": 87,
+      "file": "books/b33282420.pdf",
+      "source_pdf": "b33282420.pdf"
+    },
+    {
+      "identifier": "b2152712x",
+      "title": "Entrees made easy",
+      "creator": [
+        "Peel, C. S., Mrs",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1905-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 292,
+      "file": "books/b2152712x.pdf",
+      "source_pdf": "b2152712x.pdf"
+    },
+    {
+      "identifier": "b21505391",
+      "title": "Modern cookery, for private families : reduced to a system of easy practice, in a series of carefully tested receipts, in which the principles of Baron Liebig and other eminent writers have been as much as possible applied and explained",
+      "creator": [
+        "Acton, Eliza, 1799-1859",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1860-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 597,
+      "file": "books/b21505391.pdf",
+      "source_pdf": "b21505391.pdf"
+    },
+    {
+      "identifier": "b21539522",
+      "title": "Cassell's household cookery",
+      "creator": [
+        "Heritage, Lizzie",
+        "Thudichum, J. L. W. (John Louis William), 1829-1901",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1909-01-01T00:00:00Z",
+      "description": [
+        "\"This book is a new and revised edition of Cassell's 'Universal cookery book'\"--T.p. verso",
+        "Includes index. Advertisements on endpapers",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library",
+        "The University of Leeds Library"
+      ],
+      "downloads": 945,
+      "file": "books/b21539522.pdf",
+      "source_pdf": "b21539522.pdf"
+    },
+    {
+      "identifier": "b21537987",
+      "title": "The treasure cookery book : containing the principles and rules of modern cookery, including numerous recipes",
+      "creator": [
+        "Mitchell, M. M",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, English",
+      "date": "1913-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Includes index",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 950,
+      "file": "books/b21537987.pdf",
+      "source_pdf": "b21537987.pdf"
+    },
+    {
+      "identifier": "bub_gb_NAAZAAAAYAAJ",
+      "title": "Sweet dishes: a little treaties on confectionery and entremets sucrés",
+      "creator": "Wyvern, 1840-1916",
+      "subjects": [
+        "bub_upload",
+        "Confectionery"
+      ],
+      "date": "1884-01-01T00:00:00Z",
+      "description": [
+        "Includes index",
+        "Mode of access: Internet"
+      ],
+      "downloads": 430,
+      "file": "books/bub_gb_NAAZAAAAYAAJ.pdf",
+      "source_pdf": "bub_gb_NAAZAAAAYAAJ.pdf"
+    }
+  ]
+}

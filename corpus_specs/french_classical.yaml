@@ -1,0 +1,79 @@
+french_classical:
+  description: |
+    Classical French cuisine cookbooks 1800-1950 featuring traditional recipes,
+    cooking techniques, and menu planning from the golden age of French gastronomy.
+
+  source: archive
+
+  search_strategy:
+    subjects:
+      - "Cookery, French"
+      - "French cooking"
+      - "Cooking, French"
+      - "Cookery -- France"
+      - "Cuisine française"
+      - "French recipes"
+      - "French cookbook"
+      - "Recettes"
+      - "La cuisine"
+      - "Art culinaire"
+      - "Pâtisserie"
+      - "Cuisine bourgeoise"
+      - "Cuisine classique"
+      - "French pastry"
+      - "French sauces"
+      - "Escoffier"
+      - "Carême"
+      - "Cordon bleu"
+      - "Provincial cooking"
+      - "Burgundian cooking"
+      - "Parisian cooking"
+    collections:
+      - "food_and_cooking"
+    collection_subject_filter:
+      - "cookery"
+      - "cooking"
+      - "French"
+    date_range: [1800, 1950]
+    mediatype: texts
+
+  target_count: 150
+
+  evaluator_model: gpt-5-mini
+  confidence_threshold: 0.7
+
+  validation_prompt: |
+    You are evaluating whether a document belongs in a corpus of
+    HISTORICAL FRENCH COOKBOOKS (1800-1950).
+
+    TEMPORAL REQUIREMENT (CRITICAL):
+    The work must have been PUBLISHED between 1800 and 1950. This corpus
+    captures classical French cuisine before the nouvelle cuisine revolution.
+    Modern reprints, contemporary interpretations, or facsimiles do NOT belong.
+
+    CONTENT REQUIREMENTS:
+    The work must contain ACTUAL RECIPES with:
+    - Ingredient lists (even if embedded in prose)
+    - Cooking instructions/procedures
+    - Measurements and techniques
+
+    INCLUDE:
+    - French recipe collections and cookbooks
+    - Household manuals with significant recipe sections
+    - Chef cookbooks and restaurant cuisine guides
+    - Regional French cuisine collections
+    - Books on French pastry, sauces, and techniques with recipes
+    - Menu planning guides with accompanying recipes
+    - Translations of French cookbooks into English
+
+    EXCLUDE:
+    - Novels or memoirs that merely mention food
+    - Restaurant guides or directories without recipes
+    - Food history or gastronomy criticism without recipes
+    - Nutrition/diet books without actual recipes
+    - Travel books with food descriptions but no recipes
+    - Single-page menus or ephemera
+    - Books primarily about wine without food recipes
+
+    Look for page layouts with recipe formatting: titles, ingredient lists,
+    numbered steps, cooking times, serving suggestions.

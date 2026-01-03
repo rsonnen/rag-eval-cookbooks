@@ -1,0 +1,87 @@
+early_american:
+  description: |
+    Early American cookbooks 1800-1900 documenting colonial and 19th century
+    American cooking traditions, pioneer recipes, and domestic economy.
+
+  source: archive
+
+  search_strategy:
+    subjects:
+      - "Cookery, American"
+      - "American cooking"
+      - "Cooking, American"
+      - "Cookery -- United States"
+      - "Cook book"
+      - "Cookbook"
+      - "Recipe book"
+      - "Receipts"
+      - "Cookery receipts"
+      - "Pioneer cooking"
+      - "Colonial cooking"
+      - "Frontier cooking"
+      - "Southern cooking"
+      - "New England cooking"
+      - "American receipts"
+      - "Household receipts"
+      - "Practical cookery"
+      - "Domestic cookery"
+      - "American housewife"
+      - "Frugal housewife"
+      - "Family receipts"
+      - "Home cookery"
+    collections:
+      - "americana"
+      - "food_and_cooking"
+      - "gutenberg"
+      - "toronto"
+      - "universallibrary"
+      - "cdl"
+    collection_subject_filter:
+      - "cookery"
+      - "cooking"
+      - "cookbook"
+      - "recipes"
+      - "receipts"
+      - "housewife"
+    date_range: [1800, 1900]
+    mediatype: texts
+
+  target_count: 100
+
+  evaluator_model: gpt-5-mini
+  confidence_threshold: 0.7
+
+  validation_prompt: |
+    You are evaluating whether a document belongs in a corpus of
+    EARLY AMERICAN COOKBOOKS (1800-1900).
+
+    TEMPORAL REQUIREMENT (CRITICAL):
+    The work must have been PUBLISHED between 1800 and 1900.
+    This captures early American cooking before industrialization.
+    Modern reprints or facsimiles do NOT belong.
+
+    CONTENT REQUIREMENTS:
+    The work must contain ACTUAL RECIPES with:
+    - Ingredient lists (even if embedded in prose)
+    - Cooking instructions/procedures
+    - Measurements and techniques
+
+    INCLUDE:
+    - 19th century American cookbooks
+    - Pioneer and frontier cooking guides
+    - Domestic economy manuals with recipes
+    - Household management books with recipe sections
+    - Regional American cookbooks from this period
+    - Charity and community cookbooks
+
+    EXCLUDE:
+    - Novels or memoirs that merely mention food
+    - Food history without recipes
+    - Agricultural reports without recipes
+    - Single-page menus or ephemera
+    - Books published after 1900
+    - Non-American cookbooks
+
+    Look for page layouts with recipe formatting: titles, ingredient lists,
+    numbered steps, cooking times, serving suggestions. Period typography
+    with long-s (ſ) may appear in older works.

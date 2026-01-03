@@ -1,0 +1,1950 @@
+{
+  "corpus": "french_classical",
+  "source": "internet_archive",
+  "search_strategy": {
+    "subjects": [
+      "Cookery, French",
+      "French cooking",
+      "Cooking, French",
+      "Cookery -- France",
+      "Cuisine française",
+      "French recipes",
+      "French cookbook",
+      "Recettes",
+      "La cuisine",
+      "Art culinaire",
+      "Pâtisserie",
+      "Cuisine bourgeoise",
+      "Cuisine classique",
+      "French pastry",
+      "French sauces",
+      "Escoffier",
+      "Carême",
+      "Cordon bleu",
+      "Provincial cooking",
+      "Burgundian cooking",
+      "Parisian cooking"
+    ],
+    "collections": [
+      "food_and_cooking"
+    ],
+    "collection_subject_filter": [
+      "cookery",
+      "cooking",
+      "French"
+    ],
+    "date_range": [
+      1800,
+      1950
+    ],
+    "mediatype": "texts"
+  },
+  "curated_at": "2025-12-29T14:16:13.406186+00:00",
+  "total_books": 150,
+  "books_evaluated": 104,
+  "acceptance_rate": 1.4423076923076923,
+  "books": [
+    {
+      "identifier": "leprincipaldelac00plum",
+      "title": "Le principal de la cuisine de Paris : traité des entrées chaudes, des rots en gras et en maigre, des entrements de légumes, entrements sucrés et autres",
+      "creator": [
+        "Plumerey",
+        "Carême, M. A. (Marie Antonin), 1784-1833. Art de la cuisine française"
+      ],
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1843-01-01T00:00:00Z",
+      "description": [
+        "Continuation, forming v. iv and v of Carême's L'art de la cuisine française, cf. Cagle",
+        "Vol. 5 has the title, L'art de la cuisine française ..",
+        "Cagle, W.R. Matter of taste"
+      ],
+      "downloads": 2249,
+      "file": "books/leprincipaldelac00plum.pdf",
+      "source_pdf": "leprincipaldelac00plum.pdf"
+    },
+    {
+      "identifier": "lartducuisinier02beau",
+      "title": "L'art du cuisinier",
+      "creator": "Beauvilliers, A. B. (Antoine B.), 1754-1817",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1814-01-01T00:00:00Z",
+      "description": [
+        "Includes index",
+        "31"
+      ],
+      "downloads": 1922,
+      "file": "books/lartducuisinier02beau.pdf",
+      "source_pdf": "lartducuisinier02beau.pdf"
+    },
+    {
+      "identifier": "commentonformeun04seig",
+      "title": "Comment on forme une cuisinière : petit guide de la maîtresse de maison",
+      "creator": "Seignobos, Madame (D.)",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1904-01-01T00:00:00Z",
+      "description": "1re ptie. Les viandes de boucherie -- 2e ptie. Les volailles, le gibier, salaisons de porc, les sauces et les jus -- 3e ptie. Les potages, les pâtes, les ufs, les légumes, les poissons -- 4e ptie. Les conserves, les sirops, les entremets sucrés, les pâtisseries, les confitures",
+      "downloads": 1887,
+      "file": "books/commentonformeun04seig.pdf",
+      "source_pdf": "commentonformeun04seig.pdf"
+    },
+    {
+      "identifier": "lartdefairemaig00unkngoog",
+      "title": "L'Art de faire maigre",
+      "creator": "Katherine Golden Bitting Collection on Gastronomy (Library of Congress) DLC",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1887-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+        "Source: Gift of A.W. Bitting, presented in memory of Katherine Golden Bitting, Oct. 6, 1939"
+      ],
+      "downloads": 411,
+      "file": "books/lartdefairemaig00unkngoog.pdf",
+      "source_pdf": "lartdefairemaig00unkngoog.pdf"
+    },
+    {
+      "identifier": "manueldegastron00unkngoog",
+      "title": "Manuel de gastronomie : contenant particulièrement la manière de dresser et de servir une table, et d'observer la symétrie des mets : la nomenclature alphabétique de 54 potages, 27 relevés de potage, 40 hors-d'oeuvres, 600 plats d'entrée, 100 plats de rôt, 350 plats d'entremets, et 100 articles de dessert, avec la manière de les préparer et de les servir : ouvrage mis à la portée de toutes les classes de la société, indispensable aux ménagères, et surtout aux personnes qui habitent la campagne, etc., etc",
+      "creator": null,
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1825-01-01T00:00:00Z",
+      "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+      "downloads": 1941,
+      "file": "books/manueldegastron00unkngoog.pdf",
+      "source_pdf": "manueldegastron00unkngoog.pdf"
+    },
+    {
+      "identifier": "lartdefairemaigr00kath",
+      "title": "L'Art de faire maigre",
+      "creator": "Katherine Golden Bitting Collection on Gastronomy (Library of Congress) DLC",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1887-01-01T00:00:00Z",
+      "description": "Source: Gift of A.W. Bitting, presented in memory of Katherine Golden Bitting, Oct. 6, 1939",
+      "downloads": 779,
+      "file": "books/lartdefairemaigr00kath.pdf",
+      "source_pdf": "lartdefairemaigr00kath.pdf"
+    },
+    {
+      "identifier": "frenchcookeryfor00newy",
+      "title": "French cookery for American homes : 634 recipes of simple and easy dishes",
+      "creator": "A. Wessels",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1901-01-01T00:00:00Z",
+      "description": [
+        "Includes index",
+        "xi, 280 p. ; 19 cm"
+      ],
+      "downloads": 1790,
+      "file": "books/frenchcookeryfor00newy.pdf",
+      "source_pdf": "frenchcookeryfor00newy.pdf"
+    },
+    {
+      "identifier": "commentonformeun01seig",
+      "title": "Comment on forme une cuisinière : petit guide de la maîtresse de maison",
+      "creator": "Seignobos, Madame (D.)",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1904-01-01T00:00:00Z",
+      "description": "1re ptie. Les viandes de boucherie -- 2e ptie. Les volailles, le gibier, salaisons de porc, les sauces et les jus -- 3e ptie. Les potages, les pâtes, les ufs, les légumes, les poissons -- 4e ptie. Les conserves, les sirops, les entremets sucrés, les pâtisseries, les confitures",
+      "downloads": 1555,
+      "file": "books/commentonformeun01seig.pdf",
+      "source_pdf": "commentonformeun01seig.pdf"
+    },
+    {
+      "identifier": "cu31924001447956",
+      "title": "Mrs. Seely's cook book; a manual of French and American cookery, with chapters on domestic servants, their rights and duties and many other details of household management",
+      "creator": [
+        "Seely, Lida",
+        "Herndon, James B., Jr. fmo",
+        "Herndon/Vehling Collection. fmo"
+      ],
+      "subjects": [
+        "Cookery, American",
+        "Cookery, French",
+        "Domestics",
+        "cbk"
+      ],
+      "date": "1902-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Rare copy 1: Herndon/Vehling Collection, School of Hotel Administration. Provenance: James B. Herndon, Jr. (bookplate)"
+      ],
+      "downloads": 2140,
+      "file": "books/cu31924001447956.pdf",
+      "source_pdf": "cu31924001447956.pdf"
+    },
+    {
+      "identifier": "handbookofpracti00blotrich",
+      "title": "Hand-book of practical cookery, for ladies and professional cooks : containing the whole science and art of preparing human food",
+      "creator": "Blot, Pierre, 1818-1874",
+      "subjects": [
+        "Cookery",
+        "Cookery, French"
+      ],
+      "date": "1867-01-01T00:00:00Z",
+      "description": [
+        "478 p. 20 cm",
+        "Includes index"
+      ],
+      "downloads": 2314,
+      "file": "books/handbookofpracti00blotrich.pdf",
+      "source_pdf": "handbookofpracti00blotrich.pdf"
+    },
+    {
+      "identifier": "idealcookerybook00fair",
+      "title": "The ideal cookery book",
+      "creator": [
+        "Fairclough, M. A. (Margaret Alice)",
+        "Sands, Alexander H. (Alexander Hamilton), 1828-1887, ill"
+      ],
+      "subjects": [
+        "Cookery, English",
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1911-01-01T00:00:00Z",
+      "description": "OCLC number: ocm00265493",
+      "downloads": 3208,
+      "file": "books/idealcookerybook00fair.pdf",
+      "source_pdf": "idealcookerybook00fair.pdf"
+    },
+    {
+      "identifier": "lenouveaulivrede00raym",
+      "title": "Le nouveau livre de cuisine : recettes pratiques, recueillies et classées",
+      "creator": [
+        "Raymond, Emmeline, 1828-1902",
+        "Poul, Henriette, joint author"
+      ],
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1886-01-01T00:00:00Z",
+      "description": "ix, 503 p. ; 18 cm",
+      "downloads": 3551,
+      "file": "books/lenouveaulivrede00raym.pdf",
+      "source_pdf": "lenouveaulivrede00raym.pdf"
+    },
+    {
+      "identifier": "twohundredrecipe00huls",
+      "title": "Two hundred recipes for making desserts, including French pastries",
+      "creator": [
+        "Hulse, Olive M",
+        "Katherine Golden Bitting Collection on Gastronomy (Library of Congress) DLC"
+      ],
+      "subjects": [
+        "Desserts",
+        "Pastry",
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1912-01-01T00:00:00Z",
+      "description": [
+        "Cover title: Desserts",
+        "Companion vol. to the author's Salads",
+        "Bitting, K.G. Gastronomic bib."
+      ],
+      "downloads": 5669,
+      "file": "books/twohundredrecipe00huls.pdf",
+      "source_pdf": "twohundredrecipe00huls.pdf"
+    },
+    {
+      "identifier": "lacuisinefacile00sill",
+      "title": "La cuisine facile, économique et salubre. Cuisine française, cuisine lyonnaise, provençale, allemande et cuisine italienne ..",
+      "creator": "Sillette, Mlle",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1842-01-01T00:00:00Z",
+      "description": "Also published with the title: La cuisine lyonnaise, économique et salubre, etc",
+      "downloads": 3431,
+      "file": "books/lacuisinefacile00sill.pdf",
+      "source_pdf": "lacuisinefacile00sill.pdf"
+    },
+    {
+      "identifier": "secondhelpingorm00boul",
+      "title": "A second helping; or, More dishes for American homes",
+      "creator": "Boulestin, X. Marcel (Xavier Marcel), 1878-1943",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1925-01-01T00:00:00Z",
+      "description": [
+        "Includes index",
+        "viii, 156 p. 20 cm"
+      ],
+      "downloads": 527,
+      "file": "books/secondhelpingorm00boul.pdf",
+      "source_pdf": "secondhelpingorm00boul.pdf"
+    },
+    {
+      "identifier": "professionofcook00yate",
+      "title": "The profession of cookery, from a French point of view : with some economical practices peculiar to the nation",
+      "creator": "Yates, Lucy H. (Lucy Helen)",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1894-01-01T00:00:00Z",
+      "description": "Includes index",
+      "downloads": 2250,
+      "file": "books/professionofcook00yate.pdf",
+      "source_pdf": "professionofcook00yate.pdf"
+    },
+    {
+      "identifier": "cihm_02193",
+      "title": "Directions diverses données par la Rev. Mère Caron, sup. gén. des Soeurs de la Providence pour aider ses soeurs à former de bonnes cuisinières [microforme]",
+      "creator": "Caron, mère, 1808-1888",
+      "subjects": [
+        "Cuisine canadienne-française",
+        "Cookery, French-Canadian",
+        "cbk"
+      ],
+      "date": "1878-01-01T00:00:00Z",
+      "description": [
+        "Microfiche de l'exemplaire de l'édition originale se trouvant à la Bibliothèque des Archives publiques du Canada",
+        "43"
+      ],
+      "downloads": 1192,
+      "file": "books/cihm_02193.pdf",
+      "source_pdf": "cihm_02193.pdf"
+    },
+    {
+      "identifier": "leglacierroyalo00conggoog",
+      "title": "Le glacier royal, ou, L'art de donner des bals et soirées : contenant les meilleures recettes pour faire les glaces, sorbets, café, punch, chocolats, thé, marmelades, confitures, pâtes, fruits à l'eau-de-vie, sirops, etc. : suivi de la construction d'une glacière, d'une distribution indiquant la quantité et l'ordre du service à faire pour recevoir depuis 25 jusqu'à 200 personnes, de menus de desserts de déjeuners, dîners et soupers pour les quatre saisons ... : ouvrage entièrement neuf ...",
+      "creator": [
+        "Bernardi, T., 19th cent",
+        "Katherine Golden Bitting Collection on Gastronomy (Library of Congress) DLC"
+      ],
+      "subjects": [
+        "Entertaining",
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1844-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "Bitting, K.G. Gastronomic bib.",
+        "LC copy imperfect: last three pages (part of table of contents) and lower cover wanting. Paging of perfect copy from BN. In dust jacket",
+        "Source: Gift of A.W. Bitting, presented in memory of Katherine Golden Bitting, Oct. 6, 1939"
+      ],
+      "downloads": 1418,
+      "file": "books/leglacierroyalo00conggoog.pdf",
+      "source_pdf": "leglacierroyalo00conggoog.pdf"
+    },
+    {
+      "identifier": "cu31924000681282",
+      "title": "French household cooking : with a number of recipes from the best Paris chefs, simple and inexpensive",
+      "creator": "Keyzer, Frances",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1908-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "vi, 134 p. ; 22 cm"
+      ],
+      "downloads": 1923,
+      "file": "books/cu31924000681282.pdf",
+      "source_pdf": "cu31924000681282.pdf"
+    },
+    {
+      "identifier": "twentyfourlittle00moor",
+      "title": "Twenty-four little French dinners and how to cook and serve them",
+      "creator": "Moore, Cora",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1919-01-01T00:00:00Z",
+      "description": "OCLC number: ocm04558004",
+      "downloads": 973,
+      "file": "books/twentyfourlittle00moor.pdf",
+      "source_pdf": "twentyfourlittle00moor.pdf"
+    },
+    {
+      "identifier": "twentyfourlittle00moorrich",
+      "title": "Twenty-four little French dinners and how to cook and serve them",
+      "creator": "Moore, Cora",
+      "subjects": "Cookery, French",
+      "date": "1919-01-01T00:00:00Z",
+      "description": "ix p., 1 l., 124 p. 20 cm",
+      "downloads": 1383,
+      "file": "books/twentyfourlittle00moorrich.pdf",
+      "source_pdf": "twentyfourlittle00moorrich.pdf"
+    },
+    {
+      "identifier": "frenchdishesfora00caro",
+      "title": "French dishes for American tables",
+      "creator": "Caron, Pierre, fl. 1886-1899",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1886-01-01T00:00:00Z",
+      "description": "231 p. 18 cm",
+      "downloads": 1760,
+      "file": "books/frenchdishesfora00caro.pdf",
+      "source_pdf": "frenchdishesfora00caro.pdf"
+    },
+    {
+      "identifier": "lartducuisinier01beau",
+      "title": "L'art du cuisinier",
+      "creator": "Beauvilliers, A. B. (Antoine B.), 1754-1817",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1814-01-01T00:00:00Z",
+      "description": [
+        "Includes index",
+        "31"
+      ],
+      "downloads": 3391,
+      "file": "books/lartducuisinier01beau.pdf",
+      "source_pdf": "lartducuisinier01beau.pdf"
+    },
+    {
+      "identifier": "cihm_26821",
+      "title": "Directions diverses données en 1878 par la Rév. mère Caron, supérieure générale des Soeurs de charité de la providence, pour aider ses soeurs à former de bonnes cuisinières [microforme]",
+      "creator": "Caron, mère, 1808-1888",
+      "subjects": [
+        "Cuisine canadienne-française",
+        "Cookery, French-Canadian",
+        "cbk"
+      ],
+      "date": "1883-01-01T00:00:00Z",
+      "description": [
+        "Microfiche de l'exemplaire de l'édition originale se trouvant à la Bibliothèque Morisset, Université d'Ottawa",
+        "43"
+      ],
+      "downloads": 1028,
+      "file": "books/cihm_26821.pdf",
+      "source_pdf": "cihm_26821.pdf"
+    },
+    {
+      "identifier": "commentonformeun02seig",
+      "title": "Comment on forme une cuisinière : petit guide de la maîtresse de maison",
+      "creator": "Seignobos, Madame (D.)",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1904-01-01T00:00:00Z",
+      "description": "1re ptie. Les viandes de boucherie -- 2e ptie. Les volailles, le gibier, salaisons de porc, les sauces et les jus -- 3e ptie. Les potages, les pâtes, les ufs, les légumes, les poissons -- 4e ptie. Les conserves, les sirops, les entremets sucrés, les pâtisseries, les confitures",
+      "downloads": 2125,
+      "file": "books/commentonformeun02seig.pdf",
+      "source_pdf": "commentonformeun02seig.pdf"
+    },
+    {
+      "identifier": "cu31924000707764",
+      "title": "Little French dinners",
+      "creator": "De Rivaz, Eveleen",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1900-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Includes index",
+        "110 p. ; 19 cm"
+      ],
+      "downloads": 1117,
+      "file": "books/cu31924000707764.pdf",
+      "source_pdf": "cu31924000707764.pdf"
+    },
+    {
+      "identifier": "cu31924000477657",
+      "title": "Easy French cookery, containing over 300 economical and attractive recipes from a celebrated chef's note-book",
+      "creator": "Mario, Auguste",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1910-01-01T00:00:00Z",
+      "description": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+      "downloads": 4018,
+      "file": "books/cu31924000477657.pdf",
+      "source_pdf": "cu31924000477657.pdf"
+    },
+    {
+      "identifier": "twentyfourlittle01moor",
+      "title": "Twenty-four little French dinners and how to cook and serve them",
+      "creator": "Moore, Cora",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1919-01-01T00:00:00Z",
+      "description": "ix p., 1 l., 124 p. 20 cm",
+      "downloads": 1312,
+      "file": "books/twentyfourlittle01moor.pdf",
+      "source_pdf": "twentyfourlittle01moor.pdf"
+    },
+    {
+      "identifier": "commentonformeun03seig",
+      "title": "Comment on forme une cuisinière : petit guide de la maîtresse de maison",
+      "creator": "Seignobos, Madame (D.)",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1904-01-01T00:00:00Z",
+      "description": "1re ptie. Les viandes de boucherie -- 2e ptie. Les volailles, le gibier, salaisons de porc, les sauces et les jus -- 3e ptie. Les potages, les pâtes, les ufs, les légumes, les poissons -- 4e ptie. Les conserves, les sirops, les entremets sucrés, les pâtisseries, les confitures",
+      "downloads": 1211,
+      "file": "books/commentonformeun03seig.pdf",
+      "source_pdf": "commentonformeun03seig.pdf"
+    },
+    {
+      "identifier": "frenchcookfullli00frie",
+      "title": "The French cook : a full and literal translation of La petite cuisiniere habile ; giving plain directions for making the most celebrated and delicious potages, entreés, entremets, crêmes, fritures ; sauces, pates, patisserie, confitures, geleés, &c. with delicacy and economy ; with full directions for preserving fruits, meats, fish, and vegetables",
+      "creator": "Friedel, Louise Béate Augustine, d.1818",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1846-01-01T00:00:00Z",
+      "description": "120 p. ; 19 cm",
+      "downloads": 1928,
+      "file": "books/frenchcookfullli00frie.pdf",
+      "source_pdf": "frenchcookfullli00frie.pdf"
+    },
+    {
+      "identifier": "cu31924000610117",
+      "title": "A guide to modern cookery",
+      "creator": "Escoffier, A. (Auguste), 1846-1935",
+      "subjects": [
+        "Cookery, French",
+        "cbk"
+      ],
+      "date": "1907-01-01T00:00:00Z",
+      "description": [
+        "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.",
+        "Translation of Le guide culinaire",
+        "Includes index",
+        "xvi, 880 p. : 25 cm"
+      ],
+      "downloads": 141673,
+      "file": "books/cu31924000610117.pdf",
+      "source_pdf": "cu31924000610117.pdf"
+    },
+    {
+      "identifier": "b21504957",
+      "title": "Dinners, à la français : savouries, sweets",
+      "creator": [
+        "Macnaughtan, Mary",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, French",
+      "date": "1901-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 369,
+      "file": "books/b21504957.pdf",
+      "source_pdf": "b21504957.pdf"
+    },
+    {
+      "identifier": "leconfiseurroyal00frie",
+      "title": "Le confiseur royal, ou, L'art du confiseur, dévoilé aux gourmands : contenant la manière de faire les confitures, marmelades, compotes, dragées, pastilles, etc. : des instructions sur la distillation ... divers articles concernant l'office et la patisserie ... enfin des recettes d'économie domestique ...",
+      "creator": "Friedel, Louise-Béate-Augustine, -1818 author",
+      "subjects": [
+        "Confectionery -- France",
+        "Cooking, French",
+        "Distillation",
+        "Pastry -- France",
+        "Confectionery",
+        "Pastry",
+        "France"
+      ],
+      "date": "1818-01-01T00:00:00Z",
+      "description": [
+        "x, 376 pages, 3 leaves of plates : 15 cm (12mo)",
+        "First edition published 1801 under title: L'art du confiseur; 2nd and 3rd eds. (1809-1811) published under title Le confiseur impériale. Cf. Cagle, W.R. A matter of taste, 195 (4th ed., 1816)"
+      ],
+      "downloads": 353,
+      "file": "books/leconfiseurroyal00frie.pdf",
+      "source_pdf": "leconfiseurroyal00frie.pdf"
+    },
+    {
+      "identifier": "lacuisiniredela02audogoog",
+      "title": "La cuisinière de la campagne et de la ville, ou, Nouvelle cuisine économique",
+      "creator": "Audot, L.-E. (Louis-Eustache), 1783-1870",
+      "subjects": [
+        "cbk",
+        "Cooking, French",
+        "Kookkunst"
+      ],
+      "date": "1890-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "8, 701 pages : 19 cm",
+        "Includes index"
+      ],
+      "downloads": 1930,
+      "file": "books/lacuisiniredela02audogoog.pdf",
+      "source_pdf": "lacuisiniredela02audogoog.pdf"
+    },
+    {
+      "identifier": "lartdelacuisinef02care",
+      "title": "L'art de la cuisine française au dix-neuvième siècle : traité élémentaire et pratique : des bouillons en gras et en maigre, des essences, fumets, des potages français et étrangers ...",
+      "creator": "Carême, M. A. (Marie Antonin), 1784-1833 author",
+      "subjects": "Cooking, French",
+      "date": "1854-01-01T00:00:00Z",
+      "description": [
+        "5 volumes : 22 cm",
+        "Vols. 1-3 have added engraved title pages",
+        "Vols. 4 and 5 have: Traité des entrées chaudes des rots en gras et en maigre, des entremets de légumes, des entremets sucrés chauds / par Plumerey",
+        "Includes numerous plates, many folded",
+        "Vol. 1 with frontispiece portrait of Carême and v. 4 with frontispiece portrait of Plumerey"
+      ],
+      "downloads": 208,
+      "file": "books/lartdelacuisinef02care.pdf",
+      "source_pdf": "lartdelacuisinef02care.pdf"
+    },
+    {
+      "identifier": "frenchcook00udel",
+      "title": "The French cook",
+      "creator": "Ude, Louis Eustache, author",
+      "subjects": "Cooking, French",
+      "date": "1818-01-01T00:00:00Z",
+      "description": [
+        "xlvii, 382, that is, 402 pages, 1 unnumbered leaf of plates, 8 leaves of plates : 24 cm",
+        "Pages 173-192 are duplicated",
+        "With engraved frontispiece portrait of Ude engraved by Thomas Illman"
+      ],
+      "downloads": 176,
+      "file": "books/frenchcook00udel.pdf",
+      "source_pdf": "frenchcook00udel.pdf"
+    },
+    {
+      "identifier": "professedcookor00clergoog",
+      "title": "The professed cook; or, The modern art of cookery, pastry, & confectionary, made plain and easy; consisting of the most approved methods in the French, as well as English cookery ... With the addition of the best receipts, which have ever appeared in the French or English languages",
+      "creator": "Clermont, B",
+      "subjects": [
+        "cbk",
+        "Cooking, French -- Early works to 1800",
+        "Cooking, English -- Early works to 1800",
+        "Cooking, English",
+        "Cooking, French"
+      ],
+      "date": "1812-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "xxxix, 549 pages 22 cm",
+        "From the collection of Fred Sanders"
+      ],
+      "downloads": 2318,
+      "file": "books/professedcookor00clergoog.pdf",
+      "source_pdf": "professedcookor00clergoog.pdf"
+    },
+    {
+      "identifier": "recueilpratiqued00gaco_1",
+      "title": "Recueil pratique d'économie rurale et domestique",
+      "creator": "Gacon-Dufour, Marie Armande Jeanne, 1753-1835 author",
+      "subjects": [
+        "Home economics -- France",
+        "Cooking, French",
+        "Agriculture -- France",
+        "Home economics"
+      ],
+      "date": "1804-01-01T00:00:00Z",
+      "description": [
+        "[4], 243, [1] pages, [1] folded leaf of plates : 17 cm (12mo)",
+        "Signatures: pi² A-K⁴/⁸ I²",
+        "Final page blank"
+      ],
+      "downloads": 138,
+      "file": "books/recueilpratiqued00gaco_1.pdf",
+      "source_pdf": "recueilpratiqued00gaco_1.pdf"
+    },
+    {
+      "identifier": "b33288665",
+      "title": "French domestic cookery, combining economy with elegance, and adapted to the use of families of moderate fortune",
+      "creator": null,
+      "subjects": "Cooking, French",
+      "date": "1825-01-01T00:00:00Z",
+      "description": [
+        "1 unnumbered leaf, xii, 418 pages ; (8vo)",
+        "Titles of recipes in French and English"
+      ],
+      "downloads": 42,
+      "file": "books/b33288665.pdf",
+      "source_pdf": "b33288665.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_cuisine-lecole_tx7156c8521939rbdcook-16211",
+      "title": "La cuisine à l'école complémentaire",
+      "creator": [
+        "Institution Chanoine Beaudet",
+        "Congrégation de Notre-Dame"
+      ],
+      "subjects": [
+        "Cooking, French-Canadian.",
+        "Cooking.",
+        "McGill University Library Digitized Title",
+        "Cookbook Collection",
+        "Cooking, French-Canadian",
+        "Cooking"
+      ],
+      "date": "1939-01-01T00:00:00Z",
+      "description": [
+        "240 pages : illustrations ; 24 cm",
+        "\"Endroits de vente Procure des missions, rue Atwater, 1520, Montréal, rue Saint-Joseph, 228, Qúebec; Institution Chanoine Beaudet, Saint-Pascal de Kamouraska, Qué[bec].\"",
+        "Emblem on t.p. of: Ecole normale classico-ménagère, C.N.D",
+        "Includes index",
+        "1. ptie. Théorie et exercices appliqués -- 2. ptie. Exercices pratiques"
+      ],
+      "downloads": 647,
+      "file": "books/McGillLibrary-rbsc_cuisine-lecole_tx7156c8521939rbdcook-16211.pdf",
+      "source_pdf": "rbsc_cuisine-lecole_tx7156c8521939rbdcook.pdf"
+    },
+    {
+      "identifier": "b21539406",
+      "title": "La Cuisinière de la campagne et de la ville ou Nouvelle cuisine économique",
+      "creator": [
+        "Audot, L.-E. (Louis-Eustache), 1783-1870",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, French",
+      "date": "1907-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 607,
+      "file": "books/b21539406.pdf",
+      "source_pdf": "b21539406.pdf"
+    },
+    {
+      "identifier": "b2152564x",
+      "title": "La cuisinière de la campagne et de la ville, ou nouvelle cuisine économique ...",
+      "creator": [
+        "Audot, L.-E (Louis-Eustache), 1783-1870",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, French",
+      "date": "1837-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 653,
+      "file": "books/b2152564x.pdf",
+      "source_pdf": "b2152564x.pdf"
+    },
+    {
+      "identifier": "FrenchCookBook",
+      "title": "French cook book for American families a book of 2200 recipes, including 800 French recipes and hundreds of new American recipes",
+      "creator": "Raskin, Xavier",
+      "subjects": [
+        "Cookbooks",
+        "Cooking, American",
+        "Cooking, French"
+      ],
+      "date": "1922-01-01T00:00:00Z",
+      "description": [
+        "French Cook Book for American Families: A Book of 2200 Recipes, Including 800 French Recipes and Hundreds of New American Recipes 1922",
+        "Electronic reproduction",
+        "Master and use copy. Digital master created according to Benchmark for Faithful Digital Reproductions of Monographs and Serials, Version 1. Digital Library Federation, December 2002",
+        "digitized",
+        "Print version record"
+      ],
+      "downloads": 1230,
+      "file": "books/FrenchCookBook.pdf",
+      "source_pdf": "FrenchCookBook.pdf"
+    },
+    {
+      "identifier": "grandlivredespat00dubo",
+      "title": "Grand livre des patissiers et des confiseurs",
+      "creator": "Dubois, Urbain, 1818-1901 author",
+      "subjects": [
+        "Pastry",
+        "Confectionery",
+        "Desserts",
+        "Cooking, French"
+      ],
+      "date": "1886-01-01T00:00:00Z",
+      "description": [
+        "2 volumes in 1 (XXIV, 432 pages, 2 unnumbered leaves of plates (1 double)) : 31 cm",
+        "Includes indexes"
+      ],
+      "downloads": 17394,
+      "file": "books/grandlivredespat00dubo.pdf",
+      "source_pdf": "grandlivredespat00dubo.pdf"
+    },
+    {
+      "identifier": "lacuisiniredela00audogoog",
+      "title": "La cuisinière de la campagne et de la ville, ou, Nouvelle cuisine économique",
+      "creator": "Audot, L.-E. (Louis-Eustache), 1783-1870",
+      "subjects": [
+        "cbk",
+        "Cooking, French",
+        "Kookkunst"
+      ],
+      "date": "1890-01-01T00:00:00Z",
+      "description": [
+        "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
+        "8, 701 pages : 19 cm",
+        "Includes index"
+      ],
+      "downloads": 1207,
+      "file": "books/lacuisiniredela00audogoog.pdf",
+      "source_pdf": "lacuisiniredela00audogoog.pdf"
+    },
+    {
+      "identifier": "b21538633",
+      "title": "Les soupes de France : étude culinaire par province : trente-six recettes de potages variés",
+      "creator": [
+        "Sevin, Gaston",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking, French",
+        "Soups"
+      ],
+      "date": "1904-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Printed on only one side of the leaves",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 537,
+      "file": "books/b21538633.pdf",
+      "source_pdf": "b21538633.pdf"
+    },
+    {
+      "identifier": "b21525687_0004",
+      "title": "L'art de la cuisine française au dix-neuviême siêcle : traité élémentaire et pratique ...",
+      "creator": [
+        "Carême, M. A. (Marie Antonin), 1784-1833",
+        "Fayot, Charles Frédéric Alfred, 1797-1861",
+        "Plumery, Armand",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, French",
+      "date": "1833-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Each vol. has added t.p. engr",
+        "Vols. 4 and 5 have title: L'art de la cuisine française au XIXe siècle; traité des entrées chaudes, des rots en gras et en maigre, des entremets de légumes, entrements sucrés et autres, ou 6e, 7e et derniere partie [v.5,\"tomes 4e et 5e\"] de l'ouvrage de Carême; par Plumerey",
+        "Imprint varies",
+        "By Carême in collaboration with C.F.A. Fayot",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 898,
+      "file": "books/b21525687_0004.pdf",
+      "source_pdf": "b21525687_0004.pdf"
+    },
+    {
+      "identifier": "lepetitcuisinier00garl",
+      "title": "Le petit cuisinier moderne, ou, Les secrets de l'art culinaire",
+      "creator": "Garlin, Gustave, 1838- author",
+      "subjects": [
+        "Cooking, French",
+        "Menus",
+        "Food -- Dictionaries -- French",
+        "Cooking -- Dictionaries -- French",
+        "Food"
+      ],
+      "date": "1890-01-01T00:00:00Z",
+      "description": [
+        "xliii, 940 pages : 22 cm",
+        "Includes indexes"
+      ],
+      "downloads": 260,
+      "file": "books/lepetitcuisinier00garl.pdf",
+      "source_pdf": "lepetitcuisinier00garl.pdf"
+    },
+    {
+      "identifier": "frenchhouseholdc00keyz",
+      "title": "French household cooking : with a number of recipes from the best Paris chefs, simple and inexpensive",
+      "creator": "Keyzer, Frances author",
+      "subjects": "Cooking, French",
+      "date": "1909-01-01T00:00:00Z",
+      "description": "vi, 120 pages ; 22 cm",
+      "downloads": 201,
+      "file": "books/frenchhouseholdc00keyz.pdf",
+      "source_pdf": "frenchhouseholdc00keyz.pdf"
+    },
+    {
+      "identifier": "gri_33125015769603",
+      "title": "La bonne cuisine française tout ce qui a rapport à la table : manuel-guide pour la ville et la campagne",
+      "creator": "Dumont, Emile author",
+      "subjects": [
+        "Cooking, French",
+        "Home economics"
+      ],
+      "date": "1889-01-01T00:00:00Z",
+      "description": [
+        "viii, 650, x pages : 20 cm",
+        "\"Mention honorable à l'Exposition universelle de 1889.\""
+      ],
+      "downloads": 151,
+      "file": "books/gri_33125015769603.pdf",
+      "source_pdf": "gri_33125015769603.pdf"
+    },
+    {
+      "identifier": "b21531031",
+      "title": "French cookery adapted for English families",
+      "creator": [
+        "Crawford, Frances",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking, English",
+        "Cooking, French"
+      ],
+      "date": "1853-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 367,
+      "file": "books/b21531031.pdf",
+      "source_pdf": "b21531031.pdf"
+    },
+    {
+      "identifier": "b21525560",
+      "title": "Nouveau manuel de la cuisinière bourgeoise et économique : contenant les meilleurs procédés pour faire une excellente cuisine à très-bon marché; l'art de faire les honneurs de la table; de découper toute sorte de viande, volaille, gibier, poissons; de composer le menu d'un repas; une notice sur les vins, les soins de la cave, etc.",
+      "creator": "University of Leeds. Library",
+      "subjects": "Cooking, French",
+      "date": "1850-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Anon",
+        "Vicaire, G. Bib. gastronomique col. 561-562 (1866 ed.)",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 472,
+      "file": "books/b21525560.pdf",
+      "source_pdf": "b21525560.pdf"
+    },
+    {
+      "identifier": "b21525407",
+      "title": "Le cuisinier parisien, ou l'art de la cuisine française au dix-neuvième siècle : traité élémentaire et pratique des entrées froides, des socles, et de l'entremets de sucre : suivi d'observations utiles aux progrès de ces deux parties de la cuisine moderne",
+      "creator": [
+        "Carême, M. A. (Marie Antonin), 1784-1833",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, French",
+      "date": "1842-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Added engraved title-page",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 924,
+      "file": "books/b21525407.pdf",
+      "source_pdf": "b21525407.pdf"
+    },
+    {
+      "identifier": "b21530865",
+      "title": "The new professed cook : adapted to the famillies of either noblemen, gentlemen, or citizens, containing upwards of seven hundred French and English practical receipts in cookery and one hundred in confectionary, to which is added bottling of fruits and juices, home-made wines, distilling, pickling and preserving, and many other articles of information necessary to be known by every mistress of a family, and servant",
+      "creator": [
+        "Reynolds, Robert, fl. 1815-1829",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking, French",
+        "Cooking, English"
+      ],
+      "date": "1829-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "[4] pp. of publisher's advertisements at end",
+        "Cagle, W.R. Matter of taste no. 961",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 490,
+      "file": "books/b21530865.pdf",
+      "source_pdf": "b21530865.pdf"
+    },
+    {
+      "identifier": "lacuisinesimplee00moll",
+      "title": "La cuisine simple et à bon marché",
+      "creator": "Moll-Weiss, Augusta, b. 1873",
+      "subjects": "Cooking, French",
+      "date": "1912-01-01T00:00:00Z",
+      "description": "vi, 151 p. ; 16 cm",
+      "downloads": 265,
+      "file": "books/lacuisinesimplee00moll.pdf",
+      "source_pdf": "lacuisinesimplee00moll.pdf"
+    },
+    {
+      "identifier": "lartdelacuisinef03care",
+      "title": "L'art de la cuisine française au dix-neuvième siècle : traité élémentaire et pratique : des bouillons en gras et en maigre, des essences, fumets, des potages français et étrangers ...",
+      "creator": "Carême, M. A. (Marie Antonin), 1784-1833 author",
+      "subjects": "Cooking, French",
+      "date": "1854-01-01T00:00:00Z",
+      "description": [
+        "5 volumes : 22 cm",
+        "Vols. 1-3 have added engraved title pages",
+        "Vols. 4 and 5 have: Traité des entrées chaudes des rots en gras et en maigre, des entremets de légumes, des entremets sucrés chauds / par Plumerey",
+        "Includes numerous plates, many folded",
+        "Vol. 1 with frontispiece portrait of Carême and v. 4 with frontispiece portrait of Plumerey"
+      ],
+      "downloads": 194,
+      "file": "books/lartdelacuisinef03care.pdf",
+      "source_pdf": "lartdelacuisinef03care.pdf"
+    },
+    {
+      "identifier": "b2153259x",
+      "title": "La cuisinière de la campagne et de la ville, ou nouvelle cuisine économique ...",
+      "creator": [
+        "Audot, L.-E (Louis-Eustache), 1783-1870",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, French",
+      "date": "1836-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 495,
+      "file": "books/b2153259x.pdf",
+      "source_pdf": "b2153259x.pdf"
+    },
+    {
+      "identifier": "b21526047_0004",
+      "title": "L'art de la cuisine française au dix-neuviême siêcle : traité élémentaire et pratique ...",
+      "creator": [
+        "Carême, M. A. (Marie Antonin), 1784-1833",
+        "Plumery, Armand",
+        "Fayot, Charles Frédéric Alfred, 1797-1861",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, French",
+      "date": "1847-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Each vol. has added t.p. engr",
+        "Vols. 4 and 5 have title: Traité des entrées chaudes, des rots en gras et en maigre, des entremets de légumes, entrements sucrés chauds; par Plumerey",
+        "Imprint varies",
+        "By Carême in collaboration with C.F.A. Fayot",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 1052,
+      "file": "books/b21526047_0004.pdf",
+      "source_pdf": "b21526047_0004.pdf"
+    },
+    {
+      "identifier": "b21526047_0005",
+      "title": "L'art de la cuisine française au dix-neuviême siêcle : traité élémentaire et pratique ...",
+      "creator": [
+        "Carême, M. A. (Marie Antonin), 1784-1833",
+        "Plumery, Armand",
+        "Fayot, Charles Frédéric Alfred, 1797-1861",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, French",
+      "date": "1847-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Each vol. has added t.p. engr",
+        "Vols. 4 and 5 have title: Traité des entrées chaudes, des rots en gras et en maigre, des entremets de légumes, entrements sucrés chauds; par Plumerey",
+        "Imprint varies",
+        "By Carême in collaboration with C.F.A. Fayot",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 907,
+      "file": "books/b21526047_0005.pdf",
+      "source_pdf": "b21526047_0005.pdf"
+    },
+    {
+      "identifier": "b21531171",
+      "title": "French domestic cookery : combining economy with elegance, and adapted to the use of families of moderate fortune",
+      "creator": "University of Leeds. Library",
+      "subjects": "Cooking, French",
+      "date": "1825-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Anon",
+        "Titles of recipes in French and English",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 652,
+      "file": "books/b21531171.pdf",
+      "source_pdf": "b21531171.pdf"
+    },
+    {
+      "identifier": "lesroyaldinersgu00helo",
+      "title": "Les royal-diners : guide du gourmet, contenant des menus pour chaque saison, avec la manière de les préparer et des conseils sur le service de la table",
+      "creator": "Hélouis, Edouard",
+      "subjects": [
+        "Cooking, French",
+        "Menus"
+      ],
+      "date": "1878-01-01T00:00:00Z",
+      "description": [
+        "iii, 493 pages, 24 leaves of plates : 25 cm",
+        "Title printed in red and black"
+      ],
+      "downloads": 236,
+      "file": "books/lesroyaldinersgu00helo.pdf",
+      "source_pdf": "lesroyaldinersgu00helo.pdf"
+    },
+    {
+      "identifier": "labonnecuisinedu0000lama",
+      "title": "La bonne cuisine du Périgord",
+      "creator": "La Mazille",
+      "subjects": [
+        "Cooking -- France -- Périgord",
+        "Cooking, French"
+      ],
+      "date": "1929-01-01T00:00:00Z",
+      "description": [
+        "490 p. : 18 cm",
+        "Includes index"
+      ],
+      "downloads": 166,
+      "file": "books/labonnecuisinedu0000lama.pdf",
+      "source_pdf": "labonnecuisinedu0000lama.pdf"
+    },
+    {
+      "identifier": "lecuisiniernatio00chev",
+      "title": "Histoire de la vie privée des François : depuis l'origine de la nation jusqu'à nos jours",
+      "creator": "Legrand, cit., 1737-1800",
+      "subjects": [
+        "Cooking, French",
+        "Leisure -- France -- Paris -- Early works to 1800",
+        "Manners and customs",
+        "France -- Social life and customs -- Early works to 1800",
+        "Paris (France) -- Social life and customs -- Early works to 1800",
+        "France"
+      ],
+      "date": "1815-01-01T00:00:00Z",
+      "description": [
+        "IV, 3-437 pages, 2 unnumbered leaves of plates (1 folded) : 22 cm",
+        "3 volumes ; 21 cm",
+        "Includes indexes at end of volume 3",
+        "Errata on verso of page 481, volume 3",
+        "Originally published: A Paris : De l'Imprimerie de Ph.-D. Pierres, 1782"
+      ],
+      "downloads": 91,
+      "file": "books/lecuisiniernatio00chev.pdf",
+      "source_pdf": "lecuisiniernatio00chev.pdf"
+    },
+    {
+      "identifier": "nouvellecuisineb00dubo",
+      "title": "Nouvelle cuisine bourgeoise : pour la ville et pour la campagne",
+      "creator": "Dubois, Urbain, 1818-1901 author",
+      "subjects": "Cooking, French",
+      "date": "1900-01-01T00:00:00Z",
+      "description": [
+        "[2], CLVII, 640 pages : 19 cm (8vo)",
+        "\"200 menus. Recettes françaises et étrangres, pâtisserie, confitures, glaces, conserves, cuisine des malades et des enfants\"--Cover",
+        "Title vignette (printer's device)",
+        "Includes index"
+      ],
+      "downloads": 680,
+      "file": "books/nouvellecuisineb00dubo.pdf",
+      "source_pdf": "nouvellecuisineb00dubo.pdf"
+    },
+    {
+      "identifier": "b33030200",
+      "title": "Le glacier royal, ou l'art de donner des bals et soirées. Contenant les meilleures recettes pour faire les glaces, sorbets, café, punch, chocolats, thé, marmelades, confitures, pâtes, fruits à l'eau-de-vie, sirops, etc. : suivi de la construction d'une glacière, d'une distribution indiquant la quantité et l'ordre du service à faire pour recevoir depuis 25 jusqu'à 200 personnes, de menus de desserts de déjeuners, dîners et soupers pour les quatre saisons ... ouvrage entièrement neuf ...",
+      "creator": "Bernardi, T., active 19th century",
+      "subjects": [
+        "Entertaining",
+        "Cooking, French"
+      ],
+      "date": "1844-01-01T00:00:00Z",
+      "description": "x [i.e. xi], 291 pages : (8vo)",
+      "downloads": 94,
+      "file": "books/b33030200.pdf",
+      "source_pdf": "b33030200.pdf"
+    },
+    {
+      "identifier": "bub_gb_xYwEAAAAYAAJ",
+      "title": "The French cook, or, The art of cookery : developed in all its branches",
+      "creator": "Ude, Louis Eustache",
+      "subjects": [
+        "bub_upload",
+        "Cooking, French"
+      ],
+      "date": "1815-01-01T00:00:00Z",
+      "description": "Mode of access: Internet",
+      "downloads": 695,
+      "file": "books/bub_gb_xYwEAAAAYAAJ.pdf",
+      "source_pdf": "bub_gb_xYwEAAAAYAAJ.pdf"
+    },
+    {
+      "identifier": "b2038726x",
+      "title": "Traité pratique de cuisine bourgeoise [electronic resource] : suite aux éléments culinaires a l'usage des jeunes filles",
+      "creator": "Colombié, Auguste",
+      "subjects": "Cooking, French",
+      "date": "1897-01-01T00:00:00Z",
+      "description": "Includes index",
+      "downloads": 701,
+      "file": "books/b2038726x.pdf",
+      "source_pdf": "b2038726x.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_350-recettes_tx7156a531924rbdcook-16068",
+      "title": "350 recettes de cuisine",
+      "creator": "Anctil, Jeanne",
+      "subjects": [
+        "Cooking, French-Canadian.",
+        "Cuisine canadienne-française.",
+        "McGill University Library Digitized Title",
+        "Cookbook Collection",
+        "Cooking, French-Canadian",
+        "Cuisine canadienne-française"
+      ],
+      "date": "1924-01-01T00:00:00Z",
+      "description": "265 pages : illustrations ; 18 cm",
+      "downloads": 755,
+      "file": "books/McGillLibrary-rbsc_350-recettes_tx7156a531924rbdcook-16068.pdf",
+      "source_pdf": "rbsc_350-recettes_tx7156a531924rbdcook.pdf"
+    },
+    {
+      "identifier": "McGillLibrary-rbsc_365-menus-365-recettes_TX728P651938-17651",
+      "title": "365 menus, 365 recettes",
+      "creator": "Pomiane, Edouard de, 1875-1964",
+      "subjects": [
+        "Menus.",
+        "Cooking, French.",
+        "Diet.",
+        "McGill University Library Digitized Title",
+        "Cookbook Collection",
+        "Menus",
+        "Cooking, French",
+        "Diet"
+      ],
+      "date": "1938-01-01T00:00:00Z",
+      "description": [
+        "3 preliminary leaves, [9]-258 pages 19 cm",
+        "Author's pseud., Édouard de Pomiane, at head of title",
+        "\"2e mille\".--Cover"
+      ],
+      "downloads": 1867,
+      "file": "books/McGillLibrary-rbsc_365-menus-365-recettes_TX728P651938-17651.pdf",
+      "source_pdf": "rbsc_365-menus-365-recettes_TX728P651938.pdf"
+    },
+    {
+      "identifier": "recettesde48hors00gill",
+      "title": "Recettes de 48 hors-d'œuvre variés froids : présentés au 8e salon culinaire",
+      "creator": "Gilles, Alphonse, author",
+      "subjects": [
+        "Appetizers",
+        "Cooking, French"
+      ],
+      "date": "1905-01-01T00:00:00Z",
+      "description": "28 pages ; 18 cm",
+      "downloads": 161,
+      "file": "books/recettesde48hors00gill.pdf",
+      "source_pdf": "recettesde48hors00gill.pdf"
+    },
+    {
+      "identifier": "b21525547",
+      "title": "Nouveau dictionnaire de cuisine, d'office et de patisserie ...",
+      "creator": [
+        "Cousin, Charles Yves, 1769-1840",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking, French",
+        "Food"
+      ],
+      "date": "1826-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Borel is a pseudonym for Charles Yves Cousin",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 650,
+      "file": "books/b21525547.pdf",
+      "source_pdf": "b21525547.pdf"
+    },
+    {
+      "identifier": "b21526047_0001",
+      "title": "L'art de la cuisine française au dix-neuviême siêcle : traité élémentaire et pratique ...",
+      "creator": [
+        "Carême, M. A. (Marie Antonin), 1784-1833",
+        "Plumery, Armand",
+        "Fayot, Charles Frédéric Alfred, 1797-1861",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, French",
+      "date": "1847-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Each vol. has added t.p. engr",
+        "Vols. 4 and 5 have title: Traité des entrées chaudes, des rots en gras et en maigre, des entremets de légumes, entrements sucrés chauds; par Plumerey",
+        "Imprint varies",
+        "By Carême in collaboration with C.F.A. Fayot",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 1925,
+      "file": "books/b21526047_0001.pdf",
+      "source_pdf": "b21526047_0001.pdf"
+    },
+    {
+      "identifier": "b29308665",
+      "title": "The French cook; a system of fashionable, and economical cookery adapted to the use of English families",
+      "creator": "Ude, Louis Eustache",
+      "subjects": "Cooking, French",
+      "date": "1829-01-01T00:00:00Z",
+      "description": "482 pages : (8vo)",
+      "downloads": 393,
+      "file": "books/b29308665.pdf",
+      "source_pdf": "b29308665.pdf"
+    },
+    {
+      "identifier": "gastronomieprati00alib",
+      "title": "Gastronomie pratique : études culinaires, suivies du Traitement de l'obésité des gourmands",
+      "creator": "Ali-Bab, 1855-1931",
+      "subjects": [
+        "Cooking, French",
+        "Gastronomy",
+        "Obesity"
+      ],
+      "date": "1907-01-01T00:00:00Z",
+      "description": [
+        "314 pages ; 20 cm",
+        "Includes index"
+      ],
+      "downloads": 1105,
+      "file": "books/gastronomieprati00alib.pdf",
+      "source_pdf": "gastronomieprati00alib.pdf"
+    },
+    {
+      "identifier": "b21504684",
+      "title": "Le cuisinier royal, ou l'art de faire la cuisine et la pâtisserie, pour toutes les fortunes : avec la manière de servir une table depuis vingt jusqu̕â soixante couverts ...",
+      "creator": [
+        "Viard, A., active 18th century-19th century",
+        "University of Leeds. Library"
+      ],
+      "subjects": "Cooking, French",
+      "date": "1814-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Also published under titles: Le cuisinier royal, and Le cuisinier national de la ville et de la campagne. Vicaire, p. 859-860; Bitting, p. 477-478",
+        "\"Notice sur les vins,\" p. 439-447",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 479,
+      "file": "books/b21504684.pdf",
+      "source_pdf": "b21504684.pdf"
+    },
+    {
+      "identifier": "bnf-bpt6k65768837",
+      "title": "Le guide culinaire : aide-mémoire de cuisine pratique / par A. Escoffier ; avec la collab. de MM. Philéas Gilbert, E. Fétu, A. Suzanne... [et al.]",
+      "creator": null,
+      "subjects": "Cuisine française",
+      "date": "1903-01-01T00:00:00Z",
+      "description": [
+        "Appartient à l’ensemble documentaire : PatGourm",
+        "Contient une table des matières",
+        "Avec mode texte"
+      ],
+      "downloads": 4786,
+      "file": "books/bnf-bpt6k65768837.pdf",
+      "source_pdf": "bnf-bpt6k65768837.pdf"
+    },
+    {
+      "identifier": "BSG_4VSUP1220",
+      "title": "2e édition, revue et considérablement augmentée",
+      "creator": "Babinski, Henri Joseph Séverin (1855-1931)",
+      "subjects": [
+        "Cuisine",
+        "Cuisine française",
+        "Régimes amaigrissants -- Menus"
+      ],
+      "date": "1912-01-01T00:00:00Z",
+      "description": "1 vol. (636 p.) ; 26 cm Index Notice Sudoc Cote du document : 4 V SUP 1220",
+      "downloads": 1458,
+      "file": "books/BSG_4VSUP1220.pdf",
+      "source_pdf": "BSG_4VSUP1220.pdf"
+    },
+    {
+      "identifier": "BSG_4VSUP3082",
+      "title": "Les menus détaillés de la ménagère : 180 menus simples et bourgeois : menus pour les jours de réception et fêtes de famille",
+      "creator": "Pellaprat, Henri-Paul",
+      "subjects": [
+        "Cuisine -- Technique",
+        "Cuisine française",
+        "Corpus Cuisine"
+      ],
+      "date": "1937-01-01T00:00:00Z",
+      "description": "1 vol. (228 p.) : ill. en noir et en coul. ; 27 cm Index Notice Sudoc Cote du document : 4 V SUP 3082",
+      "downloads": 571,
+      "file": "books/BSG_4VSUP3082.pdf",
+      "source_pdf": "BSG_4VSUP3082.pdf"
+    },
+    {
+      "identifier": "BSG_8VSUP12987",
+      "title": "300 recettes de cuisine à \"La Cornue\"",
+      "creator": "Pellaprat, Henri-Paul",
+      "subjects": [
+        "Cuisine",
+        "Cuisine française",
+        "Cuisine Technique",
+        "Gastronomie",
+        "Corpus Cuisine"
+      ],
+      "date": "1950-01-01T00:00:00Z",
+      "description": "1 vol. (338 p.) ; 21 cm Notice Sudoc Cote du document : 8 V SUP 12987",
+      "downloads": 1381,
+      "file": "books/BSG_8VSUP12987.pdf",
+      "source_pdf": "BSG_8VSUP12987.pdf"
+    },
+    {
+      "identifier": "BSG_8VSUP11242",
+      "title": "Le livre de cuisine de l'Ouest-Éclair",
+      "creator": null,
+      "subjects": [
+        "Cuisine",
+        "Cuisine Technique",
+        "Cuisine française",
+        "Cuisine vie pratique -- FM171_1-171_2"
+      ],
+      "date": "1924-01-01T00:00:00Z",
+      "description": "1 vol. (368 p.) : ill. ; 20 cm Index Notice Sudoc Cote du document : 8 V SUP 11242",
+      "downloads": 1309,
+      "file": "books/BSG_8VSUP11242.pdf",
+      "source_pdf": "BSG_8VSUP11242.pdf"
+    },
+    {
+      "identifier": "BSG_8VSUP9627",
+      "title": "Les délices de la table ou les quatre saisons gourmandes : petit traité de cuisine transcendante à l'usage des gens de bon goût et des amateurs du bien manger",
+      "creator": "Montagné, Prosper (1865-1948)",
+      "subjects": [
+        "Cuisine française",
+        "Gastronomie",
+        "Cuisine",
+        "Corpus Cuisine"
+      ],
+      "date": "1931-01-01T00:00:00Z",
+      "description": "1 vol. (382 p.) ; 18 cm Index Notice Sudoc Cote du document : 8 V SUP 9627",
+      "downloads": 1456,
+      "file": "books/BSG_8VSUP9627.pdf",
+      "source_pdf": "BSG_8VSUP9627.pdf"
+    },
+    {
+      "identifier": "BSG_4VSUP3083",
+      "title": "La cuisine froide, simple et pratique : hors-d'oeuvre, plats d'oeufs froids, les entrées aux fromages, les entrées de gibier",
+      "creator": "Pellaprat, Henri-Paul",
+      "subjects": [
+        "Entrées (cuisine)",
+        "Cuisine -- Technique",
+        "Corpus Cuisine",
+        "Cuisine française"
+      ],
+      "date": "1937-01-01T00:00:00Z",
+      "description": "1 vol. (183 p.) : ill. ; 28 cm Notice Sudoc Cote du document : 4 V SUP 3083",
+      "downloads": 679,
+      "file": "books/BSG_4VSUP3083.pdf",
+      "source_pdf": "BSG_4VSUP3083.pdf"
+    },
+    {
+      "identifier": "BSG_8VSUP9087",
+      "title": "Six cents bonnes recettes de cuisine bourgeoise : les potages, les sauces, les hors-d'oeuvre, les poissons, les volailles, les viandes de boucherie",
+      "creator": "Solandre, Pierre-Jacques",
+      "subjects": [
+        "Corpus Cuisine",
+        "Cuisine française",
+        "Cuisine"
+      ],
+      "date": "1928-01-01T00:00:00Z",
+      "description": "1 vol. (VI-324 p.) ; 18 cm Notice Sudoc Cote du document : 8 V SUP 9087",
+      "downloads": 975,
+      "file": "books/BSG_8VSUP9087.pdf",
+      "source_pdf": "BSG_8VSUP9087.pdf"
+    },
+    {
+      "identifier": "BSG_4VSUP2820",
+      "title": "Das grosse Kochbuch der gepflegten Küche : neues Handbuch des Kochkunst, die Küche, die Speisen und ihre Bereitung, Patisserie, einfache Konfiserie, Konserven, Getränke, usw. : 50 menus für Empfänge, Hausfeste, Hochzeiten, usw., Speisefolgen für verschiedene Kranke...",
+      "creator": "Pellaprat, Henri-Paul",
+      "subjects": [
+        "Cuisine -- Technique",
+        "Cuisine française",
+        "Corpus Cuisine",
+        "Cuisine"
+      ],
+      "date": "1936-01-01T00:00:00Z",
+      "description": "1 vol. (748 p.) : ill. ; 25 cm Glossaire. Index Notice Sudoc Cote du document : 4 V SUP 2820",
+      "downloads": 1916,
+      "file": "books/BSG_4VSUP2820.pdf",
+      "source_pdf": "BSG_4VSUP2820.pdf"
+    },
+    {
+      "identifier": "cihm_95315",
+      "title": "La cuisinière bourgeoise [microforme] : précédée d'un manuel prescrivant les devoirs qu'ont à remplir les personnes qui se destinent à entrer en service dans les maisons bourgeoises",
+      "creator": "Menon, 18e siècle",
+      "subjects": [
+        "Cuisine française",
+        "Cooking, French"
+      ],
+      "date": "1825-01-01T00:00:00Z",
+      "description": [
+        "\"Cet ouvrage contient, en outre: 1. Les recettes pour faire une bonne cuisine à peu de frais; les moyens les plus utiles pour vider et trousser la volaille et le gibier, ainsi que la dissection de toute sorte de viandes; 2. La pâtisserie et les confitures de différentes espèces, les liqueurs, ratafias, la composition des vinaigres et des boissons les plus économiques, etc., etc.; 3. Les soins à apporter pour élever la volaille, pour faire le beurre, les fromages, et conserver les liqueurs et les fruits; 4. Enfin, l'art de gouverner la cave et les vins, la maniè re de servir les tables, et d'en faire les honneurs.\"",
+        "Attribué à Menon--Barbier, A.A. Ouvrages anonymes, I 827",
+        "Microfiche de l'exemplaire de l'édition originale se trouvant à la Bibliothèque nationale du Québec, Montréal",
+        "43"
+      ],
+      "downloads": 2555,
+      "file": "books/cihm_95315.pdf",
+      "source_pdf": "cihm_95315.pdf"
+    },
+    {
+      "identifier": "BSG_8VSUP7429_1",
+      "title": "La fleur de la cuisine française. [tome I, la cuisine de la vieille France] : où l'on trouve les meilleures recettes des meilleurs cuisiniers, pâtissiers et limonadiers de France, du XIIIe au XIXe siècle : enrichies de notices et d'un glossaire",
+      "creator": "Guégan, Bertrand (1892-1943)",
+      "subjects": [
+        "Gastronomie",
+        "Cuisine française -- Histoire",
+        "Cuisine -- Histoire"
+      ],
+      "date": "1920-01-01T00:00:00Z",
+      "description": "1 vol. (XI-374 p.) : ill. ; 23 cm Index Notice Sudoc Cote du document : 8 V SUP 7429 (1)",
+      "downloads": 1233,
+      "file": "books/BSG_8VSUP7429_1.pdf",
+      "source_pdf": "BSG_8VSUP7429_1.pdf"
+    },
+    {
+      "identifier": "BSG_4VSUP2819",
+      "title": "Modern culinary art : the best French and foreign cookery : cookery, pastry, simple confectionery, entremets, ices, jams, home preserves, drinks, etc. : 50 menus of dinners, birthday, feasts, weddings, etc., menus for different diets, cures of fruits...",
+      "creator": "Pellaprat, Henri-Paul",
+      "subjects": [
+        "Cuisine -- Technique",
+        "Cuisine française",
+        "Cuisine"
+      ],
+      "date": "1937-01-01T00:00:00Z",
+      "description": "1 vol. (745 p.) : ill. ; 28 cm Glossaire. Index Notice Sudoc Cote du document : 4 V SUP 2819",
+      "downloads": 2120,
+      "file": "books/BSG_4VSUP2819.pdf",
+      "source_pdf": "BSG_4VSUP2819.pdf"
+    },
+    {
+      "identifier": "BSG_4VSUP3081",
+      "title": "Régimes alimentaires et végétarisme : menus de régime",
+      "creator": "Pellaprat, Henri-Paul",
+      "subjects": [
+        "Régimes pauvres en calories -- Recettes",
+        "Cuisine française",
+        "Corpus Cuisine",
+        "Cuisine végétarienne"
+      ],
+      "date": "1937-01-01T00:00:00Z",
+      "description": "1 vol. (179 p.) : ill. ; 27 cm Index Notice Sudoc Cote du document : 4 V SUP 3081",
+      "downloads": 645,
+      "file": "books/BSG_4VSUP3081.pdf",
+      "source_pdf": "BSG_4VSUP3081.pdf"
+    },
+    {
+      "identifier": "GoufPa",
+      "title": "Le Livre De Patisserie Jules Gouffe",
+      "creator": "Jules Gouffe",
+      "subjects": "recettes de patisserie tartes gateaux desserts cake recipe in french french cookbook for cakes",
+      "date": "1873-01-01T00:00:00Z",
+      "description": "Le Livre De Patisserie",
+      "downloads": 967,
+      "file": "books/GoufPa.pdf",
+      "source_pdf": "Gouf_pa.pdf"
+    },
+    {
+      "identifier": "cihm_32274",
+      "title": "Recueil de recettes et le médecin à la maison [microforme]",
+      "creator": null,
+      "subjects": [
+        "Recettes",
+        "Economie domestique",
+        "Médecine",
+        "Recipes",
+        "Home economics",
+        "Medicine, Popular"
+      ],
+      "date": "1883-01-01T00:00:00Z",
+      "description": [
+        "Microfiche de l'exemplaire de l'édition originale se trouvant à la Bibliothèque nationale du Canada",
+        "43"
+      ],
+      "downloads": 633,
+      "file": "books/cihm_32274.pdf",
+      "source_pdf": "cihm_32274.pdf"
+    },
+    {
+      "identifier": "BSG_VR256RES",
+      "title": "(recovered from disk)",
+      "file": "books/BSG_VR256RES.pdf"
+    },
+    {
+      "identifier": "b21525602",
+      "title": "(recovered from disk)",
+      "file": "books/b21525602.pdf"
+    },
+    {
+      "identifier": "lacuisinedaujour00dubo",
+      "title": "(recovered from disk)",
+      "file": "books/lacuisinedaujour00dubo.pdf"
+    },
+    {
+      "identifier": "lememorialdesgla00laca",
+      "title": "(recovered from disk)",
+      "file": "books/lememorialdesgla00laca.pdf"
+    },
+    {
+      "identifier": "lacuisinefrancai00gogu",
+      "title": "(recovered from disk)",
+      "file": "books/lacuisinefrancai00gogu.pdf"
+    },
+    {
+      "identifier": "ManuelPratiqueDeCuisineProvenale...Bpt6k209762v",
+      "title": "(recovered from disk)",
+      "file": "books/ManuelPratiqueDeCuisineProvenale...Bpt6k209762v.pdf"
+    },
+    {
+      "identifier": "grandeencyclopedieillustreedeconomiedomestiqueetruralev1",
+      "title": "(recovered from disk)",
+      "file": "books/grandeencyclopedieillustreedeconomiedomestiqueetruralev1.pdf"
+    },
+    {
+      "identifier": "AugusteEscoffierMaCuisine1934",
+      "title": "(recovered from disk)",
+      "file": "books/AugusteEscoffierMaCuisine1934.pdf"
+    },
+    {
+      "identifier": "BSG_VR82RES",
+      "title": "(recovered from disk)",
+      "file": "books/BSG_VR82RES.pdf"
+    },
+    {
+      "identifier": "BSG_8VSUP9204",
+      "title": "(recovered from disk)",
+      "file": "books/BSG_8VSUP9204.pdf"
+    },
+    {
+      "identifier": "foodsfromfrance1944unit",
+      "title": "(recovered from disk)",
+      "file": "books/foodsfromfrance1944unit.pdf"
+    },
+    {
+      "identifier": "b21506127",
+      "title": "(recovered from disk)",
+      "file": "books/b21506127.pdf"
+    },
+    {
+      "identifier": "BSG_8VSUP8660",
+      "title": "(recovered from disk)",
+      "file": "books/BSG_8VSUP8660.pdf"
+    },
+    {
+      "identifier": "BSG_8VSUP2127",
+      "title": "(recovered from disk)",
+      "file": "books/BSG_8VSUP2127.pdf"
+    },
+    {
+      "identifier": "b21506036",
+      "title": "(recovered from disk)",
+      "file": "books/b21506036.pdf"
+    },
+    {
+      "identifier": "frenchcookeryfor00lebo",
+      "title": "(recovered from disk)",
+      "file": "books/frenchcookeryfor00lebo.pdf"
+    },
+    {
+      "identifier": "BSG_4VSUP2040RES",
+      "title": "(recovered from disk)",
+      "file": "books/BSG_4VSUP2040RES.pdf"
+    },
+    {
+      "identifier": "lecuisiniermoder01garl",
+      "title": "(recovered from disk)",
+      "file": "books/lecuisiniermoder01garl.pdf"
+    },
+    {
+      "identifier": "xix-karem-1",
+      "title": "(recovered from disk)",
+      "file": "books/xix-karem-1.pdf"
+    },
+    {
+      "identifier": "lenouveaucuisini00unse",
+      "title": "(recovered from disk)",
+      "file": "books/lenouveaucuisini00unse.pdf"
+    },
+    {
+      "identifier": "b21525559",
+      "title": "(recovered from disk)",
+      "file": "books/b21525559.pdf"
+    },
+    {
+      "identifier": "frenchcooksystem00udel",
+      "title": "(recovered from disk)",
+      "file": "books/frenchcooksystem00udel.pdf"
+    },
+    {
+      "identifier": "b21525778",
+      "title": "(recovered from disk)",
+      "file": "books/b21525778.pdf"
+    },
+    {
+      "identifier": "BSG_8VSUP7429_2",
+      "title": "(recovered from disk)",
+      "file": "books/BSG_8VSUP7429_2.pdf"
+    },
+    {
+      "identifier": "b29295026",
+      "title": "(recovered from disk)",
+      "file": "books/b29295026.pdf"
+    },
+    {
+      "identifier": "professionofcook00yate_0",
+      "title": "(recovered from disk)",
+      "file": "books/professionofcook00yate_0.pdf"
+    },
+    {
+      "identifier": "atf9229.0001.001.umich.edu",
+      "title": "(recovered from disk)",
+      "file": "books/atf9229.0001.001.umich.edu.pdf"
+    },
+    {
+      "identifier": "lartducuisinier01beau_0",
+      "title": "(recovered from disk)",
+      "file": "books/lartducuisinier01beau_0.pdf"
+    },
+    {
+      "identifier": "gri_33125016148922",
+      "title": "(recovered from disk)",
+      "file": "books/gri_33125016148922.pdf"
+    },
+    {
+      "identifier": "manualoffrenchco00onew",
+      "title": "(recovered from disk)",
+      "file": "books/manualoffrenchco00onew.pdf"
+    },
+    {
+      "identifier": "BSG_8VSUP2182",
+      "title": "(recovered from disk)",
+      "file": "books/BSG_8VSUP2182.pdf"
+    },
+    {
+      "identifier": "lacuisinieredela00audo",
+      "title": "(recovered from disk)",
+      "file": "books/lacuisinieredela00audo.pdf"
+    },
+    {
+      "identifier": "domesticfrenchco00lesl",
+      "title": "(recovered from disk)",
+      "file": "books/domesticfrenchco00lesl.pdf"
+    },
+    {
+      "identifier": "b21538025",
+      "title": "(recovered from disk)",
+      "file": "books/b21538025.pdf"
+    },
+    {
+      "identifier": "BSG_4VSUP2818",
+      "title": "(recovered from disk)",
+      "file": "books/BSG_4VSUP2818.pdf"
+    },
+    {
+      "identifier": "cu31924089600450",
+      "title": "(recovered from disk)",
+      "file": "books/cu31924089600450.pdf"
+    },
+    {
+      "identifier": "b21505093",
+      "title": "(recovered from disk)",
+      "file": "books/b21505093.pdf"
+    },
+    {
+      "identifier": "frenchcookorart00udegoog",
+      "title": "(recovered from disk)",
+      "file": "books/frenchcookorart00udegoog.pdf"
+    },
+    {
+      "identifier": "b29288988",
+      "title": "(recovered from disk)",
+      "file": "books/b29288988.pdf"
+    },
+    {
+      "identifier": "BSG_8VSUP2550",
+      "title": "(recovered from disk)",
+      "file": "books/BSG_8VSUP2550.pdf"
+    },
+    {
+      "identifier": "lafabricationind00whit",
+      "title": "(recovered from disk)",
+      "file": "books/lafabricationind00whit.pdf"
+    },
+    {
+      "identifier": "b21525912",
+      "title": "(recovered from disk)",
+      "file": "books/b21525912.pdf"
+    },
+    {
+      "identifier": "cihm_91290",
+      "title": "(recovered from disk)",
+      "file": "books/cihm_91290.pdf"
+    },
+    {
+      "identifier": "laitalimentpar",
+      "title": "(recovered from disk)",
+      "file": "books/laitalimentpar.pdf"
+    },
+    {
+      "identifier": "bub_gb_qYMEAAAAYAAJ",
+      "title": "(recovered from disk)",
+      "file": "books/bub_gb_qYMEAAAAYAAJ.pdf"
+    },
+    {
+      "identifier": "lecourt_cuisine",
+      "title": "(recovered from disk)",
+      "file": "books/lecourt_cuisine.pdf"
+    },
+    {
+      "identifier": "lecuisiniermoder02garl",
+      "title": "(recovered from disk)",
+      "file": "books/lecuisiniermoder02garl.pdf"
+    },
+    {
+      "identifier": "lacuisiniredela03audogoog",
+      "title": "(recovered from disk)",
+      "file": "books/lacuisiniredela03audogoog.pdf"
+    },
+    {
+      "identifier": "lacuisinefranai00gogugoog",
+      "title": "(recovered from disk)",
+      "file": "books/lacuisinefranai00gogugoog.pdf"
+    },
+    {
+      "identifier": "b28125605",
+      "title": "(recovered from disk)",
+      "file": "books/b28125605.pdf"
+    },
+    {
+      "identifier": "epicureancomplet00ranh",
+      "title": "(recovered from disk)",
+      "file": "books/epicureancomplet00ranh.pdf"
+    },
+    {
+      "identifier": "b29308719",
+      "title": "(recovered from disk)",
+      "file": "books/b29308719.pdf"
+    },
+    {
+      "identifier": "b22018141",
+      "title": "(recovered from disk)",
+      "file": "books/b22018141.pdf"
+    },
+    {
+      "identifier": "xix-karem-anton-2",
+      "title": "(recovered from disk)",
+      "file": "books/xix-karem-anton-2.pdf"
+    },
+    {
+      "identifier": "BSG_4VSUP2814",
+      "title": "(recovered from disk)",
+      "file": "books/BSG_4VSUP2814.pdf"
+    },
+    {
+      "identifier": "leboeufchoixetcu00cana",
+      "title": "(recovered from disk)",
+      "file": "books/leboeufchoixetcu00cana.pdf"
+    },
+    {
+      "identifier": "b21530361",
+      "title": "The ideal cookery book",
+      "creator": [
+        "Fairclough, M. A. (Margaret Alice)",
+        "University of Leeds. Library"
+      ],
+      "subjects": [
+        "Cooking, English",
+        "Cooking, French"
+      ],
+      "date": "1910-01-01T00:00:00Z",
+      "description": [
+        "This edition not in Driver",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library",
+        "The University of Leeds Library"
+      ],
+      "downloads": 666,
+      "file": "books/b21530361.pdf",
+      "source_pdf": "b21530361.pdf"
+    },
+    {
+      "identifier": "b21532527",
+      "title": "La cuisiniere bourgeoise, suivie de l'office, à l'usage de tous ceux qui se mêlent de dépense de maisons ... [etc.]",
+      "creator": "University of Leeds. Library",
+      "subjects": "Cooking, French",
+      "date": "1823-01-01T00:00:00Z",
+      "description": [
+        "The University of Leeds Library",
+        "Anon., by Menon",
+        "This material has been provided by The University of Leeds Library. The original may be consulted at The University of Leeds Library"
+      ],
+      "downloads": 469,
+      "file": "books/b21532527.pdf",
+      "source_pdf": "b21532527.pdf"
+    },
+    {
+      "identifier": "epicureancomplet00ranh_0",
+      "title": "The epicurean : a complete treatise of analytical and practical studies on the culinary art : including table and wine service, how to prepare and cook dishes, an index for marketing, a great variety of bills of fare for breakfasts, luncheons, dinners, suppers, ambigus, buffets, etc., and a selection of interesting bills of fare of Delmonico's, from 1862 to 1894 : making a Franco-American culinary encyclopedia",
+      "creator": "Ranhofer, Charles",
+      "subjects": [
+        "Cooking, American",
+        "Cooking, French",
+        "Menus",
+        "Formulas, recipes, etc"
+      ],
+      "date": "1916-01-01T00:00:00Z",
+      "description": [
+        "viii, [4], 1183 pages, [3] leaves of plates : 29 cm",
+        "Includes index",
+        "\"Illustrated with 800 plates.\"",
+        "Includes facsimile of letter to Ranhofer from Charles C. Delmonico, dated Feb. 24, 1893",
+        "Includes added engraved t.p., with illustrated border",
+        "Originally published in 1893"
+      ],
+      "downloads": 427,
+      "file": "books/epicureancomplet00ranh_0.pdf",
+      "source_pdf": "epicureancomplet00ranh_0.pdf"
+    },
+    {
+      "identifier": "gri_33125015769934",
+      "title": "La cuisinière des familles, ou, Traité de la cuisine domestique enseignée par des préceptes à la portée de toutes les intelligences",
+      "creator": "Vidalein, F., author",
+      "subjects": "Cooking, French",
+      "date": "1864-01-01T00:00:00Z",
+      "description": [
+        "545 pages : 23 cm",
+        "Advertisements: 4 unnumbered pages at end"
+      ],
+      "downloads": 151,
+      "file": "books/gri_33125015769934.pdf",
+      "source_pdf": "gri_33125015769934.pdf"
+    }
+  ]
+}
