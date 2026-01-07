@@ -23,15 +23,15 @@ uv run python download_books.py french_classical --max-docs 5
 
 ## Available Corpora
 
-| Corpus | Books | Description |
-|--------|-------|-------------|
-| `french_classical` | 150 | French haute cuisine 1800-1950 |
-| `american_regional` | 150 | Regional American cooking traditions |
-| `victorian_british` | 150 | Victorian era British cookery |
-| `baking_pastry` | 100 | Baking and pastry specialization |
-| `early_american` | 100 | Colonial and frontier American cooking |
-| `preserving_canning` | 83 | Preserving and food storage |
-| `italian_traditional` | 51 | Traditional Italian cookbooks 1800-1950 |
+| Corpus | Books | Questions | Description |
+|--------|-------|-----------|-------------|
+| `french_classical` | 150 | — | French haute cuisine 1800-1950 |
+| `american_regional` | 150 | 424 | Regional American cooking traditions |
+| `victorian_british` | 150 | — | Victorian era British cookery |
+| `baking_pastry` | 100 | — | Baking and pastry specialization |
+| `early_american` | 100 | — | Colonial and frontier American cooking |
+| `preserving_canning` | 83 | — | Preserving and food storage |
+| `italian_traditional` | 51 | — | Traditional Italian cookbooks 1800-1950 |
 
 Some corpora have fewer items than target because the freely-available supply on Internet Archive was exhausted.
 
